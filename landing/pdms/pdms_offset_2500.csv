@@ -1,0 +1,501 @@
+codigo,descricao,codigo_classe
+01593,MASSA POLIR                                                                                         ,8010
+01594,REMOVEDOR TINTA                                                                                     ,8010
+01595,TINTA LACA                                                                                          ,8010
+01595,TINTA LACA                                                                                          ,8010
+01595,TINTA LACA                                                                                          ,8010
+01596,TINTA MARÍTIMA                                                                                      ,8010
+01597,TINTA ÓLEO                                                                                          ,8010
+01598,TINTA SERIGRÁFICA                                                                                   ,8010
+01598,TINTA / PASTA SERIGRÁFICA                                                                           ,8010
+01599,RETALHO TECIDO                                                                                      ,8305
+01600,LEVOMEFOLATO DE CÁLCIO                                                                              ,6505
+01601,ABACAVIR SULFATO                                                                                    ,6505
+01602,ABAJUR                                                                                              ,6230
+01603,ABAJUR - USO HOSPITALAR                                                                             ,6230
+01604,HEXADECANO                                                                                          ,6810
+01605,ABATACEPTE                                                                                          ,6505
+01606,LINHA DE PRESSÃO                                                                                    ,6515
+01607,MELOXICAM                                                                                           ,6509
+01608,CLORETO DE METILTIONÍNIO                                                                            ,6810
+01609,ABRACADEIRA                                                                                         ,5325
+01610,COLETOR RESÍDUOS ARMA DE FOGO                                                                       ,9999
+01611,ABRIDOR DE LATA                                                                                     ,7330
+01612,RIVAROXABANA                                                                                        ,6505
+01613,"ÁCIDO MESO-2,3-DIMERCAPTOSUCCÍNICO (DMSA)                                                           ",6810
+01614,NITRATO DE PALÁDIO II                                                                               ,6810
+01615,ACARBOSE                                                                                            ,6505
+01616,ÁLCOOL DODECÍLICO (LAURÍLICO)                                                                       ,6810
+01617,BENDAMUSTINA                                                                                        ,6505
+01618,PÚRPURA DE FTALEÍNA                                                                                 ,6810
+01619,ESTIRENO                                                                                            ,6810
+01620,METACRILATO                                                                                         ,6810
+01621,CIPROEPTADINA CLORIDRATO                                                                            ,6505
+01622,ACECLOFENACO                                                                                        ,6505
+01623,SORBITOL                                                                                            ,6810
+01624,SALICILALDEÍDO                                                                                      ,6810
+01625,BUTIRALDEÍDO                                                                                        ,6810
+01626,PROPIONALDEÍDO                                                                                      ,6810
+01627,CRESOL                                                                                              ,6810
+01628,VALEROLACTONA                                                                                       ,6810
+01629,ÁCIDO SUCCÍNICO                                                                                     ,6810
+01630,ÁCIDO ALFA-CETOGLUTÁRICO                                                                            ,6810
+01631,COLECALCIFEROL                                                                                      ,6505
+01631,COLECALCIFEROL                                                                                      ,6505
+01631,COLECALCIFEROL                                                                                      ,6505
+01631,COLECALCIFEROL                                                                                      ,6505
+01631,COLECALCIFEROL                                                                                      ,6505
+01631,COLECALCIFEROL                                                                                      ,6505
+01631,COLECALCIFEROL                                                                                      ,6505
+01632,DIMETOMORFE                                                                                         ,6840
+01633,DOPAMINA                                                                                            ,6810
+01634,FENANTROLINA                                                                                        ,6810
+01635,ÁCIDO GLICÓLICO                                                                                     ,6810
+01636,PROLINA                                                                                             ,6810
+01637,ACELGA IN - NATURA                                                                                  ,8915
+01638,DASATINIBE                                                                                          ,6810
+01639,DIMETILFENOL                                                                                        ,6810
+01640,ACENDEDOR A PEDRA DE FOGAO                                                                          ,7330
+01641,ACENDEDOR CIGARRO - VEICULO AUTOMOTIVO                                                              ,2540
+01642,ACENDEDOR DE CIGARRO                                                                                ,9920
+01643,ACENDEDOR FOGÃO                                                                                     ,7320
+01644,ACENDEDOR ELETRICO DE FOGAO                                                                         ,7330
+01645,ACENDEDOR ELETRONICO DE FOGAO                                                                       ,7330
+01646,IMATINIBE                                                                                           ,6810
+01647,SOLIFENACINA                                                                                        ,6505
+01648,LORNOXICAM                                                                                          ,6505
+01649,SOLUÇÃO PARA CRIOPRESERVAÇÃO                                                                        ,6505
+01650,DENOSUMABE                                                                                          ,6505
+01651,LEVOCETIRIZINA                                                                                      ,6505
+01651,LEVOCETIRIZINA                                                                                      ,6505
+01652,LINAGLIPTINA                                                                                        ,6505
+01653,PRASUGREL CLORIDRATO                                                                                ,6505
+01654,PEÇAS / ACESSÓRIOS CAMINHÃO                                                                         ,2540
+01655,PEÇAS / ACESSÓRIOS ÔNIBUS                                                                           ,2540
+01656,ARMAÇÃO SEGURANÇA VEÍCULO AUTOMOTIVO                                                                ,2540
+01657,ACESSORIO / COMPONENTE - MESA MICROCOMPUTADOR                                                       ,7195
+01658,ACESSÓRIO / COMPONENTE - MICROFILMAGEM                                                              ,6760
+01659,ÉCRAN                                                                                               ,6525
+01660,ACESSORIO / PECA - AMARRACAO NAVIO / PLATAFORMA                                                     ,4030
+01661,ACESSÓRIO / PEÇA MERGULHO                                                                           ,4220
+01661,ACESSÓRIO / PEÇA MERGULHO                                                                           ,4220
+01661,ACESSÓRIO / PEÇA MERGULHO                                                                           ,4220
+01661,ACESSÓRIO / PEÇA MERGULHO                                                                           ,4220
+01661,ACESSÓRIO / PEÇA MERGULHO                                                                           ,4220
+01661,ACESSÓRIO / PEÇA MERGULHO                                                                           ,4220
+01661,ACESSÓRIO / PEÇA MERGULHO                                                                           ,4220
+01661,ACESSÓRIO / PEÇA MERGULHO                                                                           ,4220
+01662,PEÇA/ACESSÓRIO PROCESSAMENTO IMAGEM RADIOLÓGICA                                                     ,6525
+01662,PEÇA/ACESSÓRIO PROCESSAMENTO IMAGEM RADIOLÓGICA                                                     ,6525
+01662,PEÇA/ACESSÓRIO PROCESSAMENTO IMAGEM RADIOLÓGICA                                                     ,6525
+01662,PEÇA/ACESSÓRIO PROCESSAMENTO IMAGEM RADIOLÓGICA                                                     ,6525
+01662,PEÇA/ACESSÓRIO PROCESSAMENTO IMAGEM RADIOLÓGICA                                                     ,6525
+01663,ACESSORIO BOMBA ABASTECIMENTO - VEICULO AUTOMOTIVO                                                  ,4930
+01663,ACESSORIO BOMBA ABASTECIMENTO - VEICULO AUTOMOTIVO                                                  ,4930
+01664,ACESSORIO CAMARA DE AR                                                                              ,2640
+01665,ACESSÓRIO CARRO BLINDADO                                                                            ,2590
+01665,ACESSÓRIO CARRO BLINDADO                                                                            ,2590
+01666,ACESSORIO DE AFIADOR DE LAMINA DE MAQUINA DE TRABALHO EM MADEIRA                                    ,3460
+01667,"ACESSORIO DE ANTENA DE ONDA LONGA, MEDIA E CURTA                                                    ",5820
+01668,ACESSÓRIO DE ANTENA VHF E UHF                                                                       ,5985
+01669,ACESSORIO DE APARELHO DE CRIPTOLOGIA                                                                ,5811
+01670,ACESSORIO DE APARELHO DE MANOBRA FERROVIARIO                                                        ,2250
+01671,ACESSORIO DE CABO ELETRICO                                                                          ,5975
+01672,ACESSÓRIO COLUNA PERFURAÇÃO POÇO PETRÓLEO                                                           ,3835
+01673,ACESSÓRIO/COMPONENTE ELÉTRICO ELETRÔNICO                                                            ,5962
+01673,ACESSÓRIO/COMPONENTE ELÉTRICO ELETRÔNICO                                                            ,5962
+01673,ACESSÓRIO/COMPONENTE ELÉTRICO ELETRÔNICO                                                            ,5962
+01674,ACESSORIO DE CONTAINER ESPECIAL - TRANSPORTE DE EXPLOSIVOS                                          ,3990
+01675,ACESSORIO DE DISJUNTOR                                                                              ,5925
+01676,METAIODOBENZILGUANIDINA (MIBG)                                                                      ,6810
+01677,ACESSÓRIO DE FURADEIRA                                                                              ,3460
+01677,PEÇA / ACESSÓRIO DE FURADEIRA                                                                       ,3460
+01677,PEÇA / ACESSÓRIO DE FURADEIRA / PARAFUSADEIRA                                                       ,3460
+01677,PEÇA / ACESSÓRIO DE FURADEIRA / PARAFUSADEIRA                                                       ,3460
+01678,"N,N-1,2 DIETILENO-L-CISTEÍNA DIETIL ÉSTER (ECD)                                                     ",6810
+01679,ACESSORIO DE GERADOR ELETRICO DE MOTOR DE AERONAVE                                                  ,2925
+01680,ACESSORIO DE GUARITA                                                                                ,5410
+01681,ACESSORIO DE LABORATORIO DE MICROFILMAGEM                                                           ,6640
+01682,ACESSORIO DE LUBRIFICADOR DE VIA FERREA                                                             ,2250
+01683,CARTÃO MAGNÉTICO - MÁQUINA FOTOGRÁFICA                                                              ,6760
+01684,ACESSÓRIO MÁQUINA RETIFICADORA                                                                      ,3460
+01685,ACESSÓRIO DE MICROSCÓPIO                                                                            ,6640
+01686,ACESSORIO DE MONTAGEM DE AR CONDICIONADO DE MAQUINA DE FUNDICAO                                     ,3680
+01687,ACESSORIO DE MONTAGEM DE CAPACITOR                                                                  ,5910
+01688,ACESSORIO DE MONTAGEM DE RESISTOR                                                                   ,5905
+01689,ACESSORIO DE MOTO-ESMERIL                                                                           ,3461
+01690,ACESSORIO DE MOTOR PRIMARIO DE MISSIL GUIADO                                                        ,2845
+01691,ACESSORIO DE PISTOLA DE PRESSAO PARA LUBRIFICACAO                                                   ,4930
+01692,ACESSÓRIO DE PNEUMÁTICO                                                                             ,2610
+01693,ACESSORIO DE POLITRIZ                                                                               ,3461
+01694,ACESSORIO DE PONTE FIXA                                                                             ,5420
+01695,ACESSORIO DE PONTE FLUTUANTE                                                                        ,5420
+01695,ACESSORIO DE PONTE FLUTUANTE                                                                        ,5420
+01695,ACESSORIO DE PONTE FLUTUANTE                                                                        ,5420
+01695,ACESSORIO DE PONTE FLUTUANTE                                                                        ,5420
+01695,ACESSORIO DE PONTE FLUTUANTE                                                                        ,5420
+01695,ACESSORIO DE PONTE FLUTUANTE                                                                        ,5420
+01696,ACESSORIO DE PONTE MISTA                                                                            ,5420
+01697,ACESSORIO DE PORTA                                                                                  ,5520
+01698,PEÇA/ACESSÓRI0 RELÉ                                                                                 ,5945
+01699,ACESSORIO DE ROLAMENTO                                                                              ,3130
+01700,ACESSORIO DE SINALEIRA DE FERROVIA                                                                  ,6330
+01701,ACESSORIO DE SISTEMA DE DOCAGEM DE AERONAVE                                                         ,5850
+01702,ACESSORIO DE TESTE ELETRICO / ELETRONICO                                                            ,6625
+01703,ACESSORIO DE TORNO REPUXADOR                                                                        ,3461
+01704,ACESSORIO DE TRILHO DE VIA FERREA                                                                   ,2250
+01705,ACESSORIO E COMPONENTE DE LOCOMOTIVA                                                                ,2240
+01706,ACESSORIO E COMPONENTE DE LOCOMOTIVA E VAGAO FERROVIARIO                                            ,2240
+01707,ACESSORIO E COMPONENTE DE VAGAO FERROVIARIO                                                         ,2240
+01708,LOCALIZADOR CABO                                                                                    ,5999
+01709,ACESSORIO ERGONOMICO                                                                                ,7195
+01710,ACESSORIO ESPECIALIZADO DE CORTINA                                                                  ,7230
+01711,CLARIFICANTE                                                                                        ,6850
+01711,CLARIFICANTE                                                                                        ,6850
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01712,PEÇAS / ACESSÓRIOS ARMAMENTO                                                                        ,1005
+01713,ACESSÓRIO PARA CENTRAL TELEFÔNICA PRIVADA                                                           ,5805
+01714,ACESSÓRIO CAIXA PASSAGEM                                                                            ,5975
+01714,ACESSÓRIO CAIXA PASSAGEM                                                                            ,5975
+01715,ACESSORIO PARA DORMENTE                                                                             ,2250
+01716,ACESSORIO PARA GUILHOTINA                                                                           ,3610
+01716,ACESSORIO PARA GUILHOTINA                                                                           ,3610
+01716,ACESSORIO PARA GUILHOTINA                                                                           ,3610
+01717,ACESSORIO PARA LINGA DE CORRENTE                                                                    ,4010
+01718,ACESSORIO PARA MAQUINA OPERATRIZ                                                                    ,5130
+01719,ACESSÓRIO PARA MIMEÓGRAFO A TINTA                                                                   ,3610
+01720,ACESSORIO PARA MOTOR EXCETO DE AERONAVE                                                             ,2990
+01721,ACESSORIO PARA SOQUETE DE COMPONENTE ELETRONICO                                                     ,5935
+01722,ACESSORIO PARA TANQUE DE ARMAZENAMENTO                                                              ,5430
+01723,ACESSORIO PARA TODO O TIPO DE MOTOR EXCETO DE MISSIL GUIADO                                         ,2990
+01724,ACESSORIO PARA TRUQUE FERROVIARIO                                                                   ,2240
+01725,PEÇA / ACESSÓRIO - FIBRA ÓPTICA                                                                     ,6070
+01725,PEÇA / ACESSÓRIO - FIBRA ÓPTICA                                                                     ,6070
+01725,PEÇA / ACESSÓRIO - FIBRA ÓPTICA                                                                     ,6070
+01725,PEÇA / ACESSÓRIO - FIBRA ÓPTICA                                                                     ,6070
+01725,PEÇA / ACESSÓRIO - FIBRA ÓPTICA                                                                     ,6070
+01726,LISDEXANFETAMINA DIMESILATO                                                                         ,6505
+01727,ACETALDEÍDO                                                                                         ,6810
+01727,ACETALDEÍDO                                                                                         ,6810
+01728,ÁCIDO SULFÔNICO                                                                                     ,6810
+01729,ALISQUIRENO HEMIFUMARATO                                                                            ,6505
+01730,ACETATO DE SÓDIO                                                                                    ,6505
+01731,ACETATO DE ZINCO                                                                                    ,6505
+01732,CIANETO DE COBRE                                                                                    ,6810
+01733,ACETATO DE CÁLCIO                                                                                   ,6505
+01734,ÓXIDO DE CÉRIO(IV)                                                                                  ,6810
+01735,ACETATO DE PRATA                                                                                    ,6810
+01736,ACETATO DE AMÔNIO                                                                                   ,6810
+01736,ACETATO DE AMÔNIO                                                                                   ,6810
+01737,OLOPATADINA CLORIDRATO                                                                              ,6505
+01738,CLORETO FÉRRICO                                                                                     ,6505
+01739,BETAMETASONA ACETATO + BETAMETASONA FOSFATO                                                         ,6505
+01740,ACETANILIDA                                                                                         ,6810
+01741,FLUORETO DE CÉSIO                                                                                   ,6810
+01742,METOXISALENO                                                                                        ,6505
+01743,ACETATO DE CÁLCIO                                                                                   ,6810
+01744,CASPOFUNGINA ACETATO                                                                                ,6505
+01745,"N,N'-METILENOBIS(ACRILAMIDA)                                                                        ",6810
+01746,ACETATO DE CHUMBO                                                                                   ,6810
+01747,CIPROTERONA ACETATO                                                                                 ,6505
+01748,PICOXISTROBINA                                                                                      ,6840
+01749,ACETATO DE MANGANÊS                                                                                 ,6810
+01750,ÁCIDO BUTÍRICO                                                                                      ,6810
+01751,CLOSTEBOL ACETATO                                                                                   ,6505
+01752,ERITROPOIETINA                                                                                      ,6810
+01753,ESPIRONOLACTONA                                                                                     ,6810
+01754,ESTREPTOZOCINA                                                                                      ,6810
+01755,1-TIOGLICEROL                                                                                       ,6810
+01756,SULFATO DE CHUMBO                                                                                   ,6810
+01757,CARBONATO DE MAGNÉSIO                                                                               ,6810
+01758,POLI(HIDROCLORETO DE ALILAMINA)                                                                     ,6810
+01759,ÁCIDO POLI(VINILSULFÔNICO)                                                                          ,6810
+01760,SULFATO DE ALUMÍNIO                                                                                 ,6810
+01761,NITRATO DE ZINCO                                                                                    ,6810
+01762,SULFATO DE NÍQUEL                                                                                   ,6810
+01763,CLORETO DE PALÁDIO II                                                                               ,6810
+01764,PERÓXIDO DE BÁRIO                                                                                   ,6810
+01765,2-BUTANONA  (METIL-ETIL-CETONA)                                                                     ,6810
+01766,ACETATO DE COBALTO                                                                                  ,6810
+01767,FLUDROCORTISONA ACETATO                                                                             ,6505
+01768,POLI(CLORETO DE DIALILDIMETILAMÔNIO)                                                                ,6810
+01769,ALFA-ALGLICOSIDASE                                                                                  ,6505
+01770,QUINURAMINA                                                                                         ,6810
+01771,BIOTINA                                                                                             ,6810
+01772,MICROPEROXIDASE                                                                                     ,6810
+01773,HEXACLOROETANO                                                                                      ,6810
+01774,SILICETO DE CÁLCIO                                                                                  ,6810
+01775,TICAGRELOR                                                                                          ,6505
+01776,DIETILCARBAMAZINA                                                                                   ,6810
+01777,ÁCIDO POLIACRÍLICO (PAA)                                                                            ,6810
+01778,POLIMETILENO POLIFENILISOCIANATO                                                                    ,6810
+01779,HIDROXOCOBALAMINA  CLORIDRATO                                                                       ,6505
+01780,ACETONITRILA DEUTERADA                                                                              ,6810
+01781,PROPANOSSULFONATO                                                                                   ,6810
+01782,LEUPRORRELINA ACETATO                                                                               ,6505
+01783,METANOL DEUTERADO                                                                                   ,6810
+01784,CARBAZOL                                                                                            ,6810
+01785,GLUTATIONA                                                                                          ,6810
+01785,GLUTATIONA                                                                                          ,6810
+01786,APREPITANTO                                                                                         ,6505
+01787,MEGESTROL ACETATO                                                                                   ,6505
+01788,ANISALDEÍDO                                                                                         ,6810
+01789,ÁCIDO FÍTICO                                                                                        ,6810
+01789,ÁCIDO FÍTICO                                                                                        ,6810
+01790,ACESSULFAMO                                                                                         ,6810
+01791,CLORETO DE CÁLCIO DILUÍDO                                                                           ,6810
+01792,ÁCIDO TRIFLUOROACÉTICO (TFA)                                                                        ,6810
+01793,ACETATO DE ZIRCÔNIO                                                                                 ,6810
+01793,ACETATO DE ZIRCÔNIO                                                                                 ,6810
+01794,CLORGILINA                                                                                          ,6810
+01795,IVERMECTINA                                                                                         ,6505
+01796,ACETATO DE MERCÚRIO                                                                                 ,6810
+01797,MERBROMINA                                                                                          ,6810
+01798,ACETATO DE VINILA                                                                                   ,6810
+01799,CUPFERRON                                                                                           ,6810
+01800,ACETATO DE POTÁSSIO                                                                                 ,6505
+01801,DAIDZENA                                                                                            ,6810
+01802,QUELATO DE ZINCO                                                                                    ,6505
+01803,NITRATO CÉRICO DE AMÔNIO                                                                            ,6810
+01804,ANIDRIDO PROPIÔNICO                                                                                 ,6810
+01805,ÁCIDO CAPRÓICO                                                                                      ,6810
+01806,ÓXIDO DE DISPRÓSIO                                                                                  ,6810
+01807,TIDIAZUROM                                                                                          ,6810
+01808,"2,2-BIQUINOLINA                                                                                     ",6810
+01809,ÓXIDO DE LIMONENO                                                                                   ,6810
+01810,RASBURICASE                                                                                         ,6505
+01811,N-ALFA-TOSIL-L-LISINA-CLOROMETILCETONA                                                              ,6810
+01812,TEMBOTRIONA                                                                                         ,6840
+01813,DIISOPROPIL AZODICARBOXILATO (DIAD)                                                                 ,6810
+01814,TIMINA                                                                                              ,6810
+01815,RACEALFATOCOFEROL                                                                                   ,6505
+01816,IMAZAMOXI                                                                                           ,6840
+01817,N-BENZOIL-L-TIROSINA-PARANITROANILIDA                                                               ,6810
+01818,OXALATO DE CÁLCIO                                                                                   ,6810
+01819,ACETATO DE ZINCO                                                                                    ,6810
+01820,ACETAZOLAMIDA                                                                                       ,6505
+01821,ACETILACETONATO DE HOLMIO                                                                           ,6810
+01822,CLORETO DE HOLMIO                                                                                   ,6810
+01823,ACETILACETONATO DE RUTÊNIO                                                                          ,6810
+01824,ACETILCISTEÍNA                                                                                      ,6505
+01825,ACETILCOLINA                                                                                        ,6810
+01826,ÓXIDO DE BÁRIO                                                                                      ,6810
+01827,ÓXIDO DE BERÍLIO                                                                                    ,6810
+01828,ÓXIDO DE COBALTO                                                                                    ,6810
+01829,ÓXIDO DE ESTRÔNCIO                                                                                  ,6810
+01830,ÓXIDO DE HÁFNIO                                                                                     ,6810
+01831,ÓXIDO DE LÍTIO                                                                                      ,6810
+01832,ÓXIDO DE SÓDIO                                                                                      ,6810
+01833,ÓXIDO DE TUNGSTÊNIO                                                                                 ,6810
+01834,ÓXIDO DE POTÁSSIO                                                                                   ,6810
+01835,ACETOFENONA                                                                                         ,6810
+01836,ÁCIDO 3-NITROFTÁLICO                                                                                ,6810
+01837,"4,4'-METILENOBIS(N,N-DIMETILANILINA)                                                                ",6810
+01838,ALGESTONA ACETONIDA                                                                                 ,6505
+01838,ALGESTONA ACETOFENIDA                                                                               ,6505
+01839,ACETATO DE BÁRIO                                                                                    ,6810
+01840,ACETATO DE ANTIMÔNIO                                                                                ,6810
+01841,FLUOCINOLONA ACETONIDA                                                                              ,6505
+01842,ACETATO DE BISMUTO                                                                                  ,6810
+01843,TRIANCINOLONA                                                                                       ,6810
+01844,ACETATO DE CÉSIO                                                                                    ,6810
+01845,ACETATO DE FERRO                                                                                    ,6810
+01846,ACETATO DE ESTANHO                                                                                  ,6810
+01847,ACETONITRILA                                                                                        ,6810
+01848,AZADIRACTINA                                                                                        ,6840
+01849,ACETATO DE RUBÍDIO                                                                                  ,6810
+01850,ACETATO DE SILÍCIO                                                                                  ,6810
+01851,QUERATINA                                                                                           ,6505
+01852,QUELATO DE COBRE                                                                                    ,6505
+01853,ÓXIDO DE ÍNDIO E ESTANHO                                                                            ,6810
+01854,ACICLOVIR                                                                                           ,6810
+01854,ACICLOVIR                                                                                           ,6810
+01855,ESPECTRÔMETRO                                                                                       ,6630
+01855,ESPECTRÔMETRO                                                                                       ,6630
+01855,ESPECTRÔMETRO                                                                                       ,6630
+01856,ÁCIDO ÚRICO                                                                                         ,6810
+01857,BROMETO DE DIMETILDIOCTADECILAMÔNIO                                                                 ,6810
+01858,PADRÃO DE AGROTÓXICO                                                                                ,6810
+01858,PADRÃO DE AGROTÓXICO                                                                                ,6810
+01859,ÁCIDO CAFÊICO                                                                                       ,6810
+01860,ÁCIDO ACÉTICO DILUÍDO                                                                               ,6810
+01861,CLORETO DE OCTANOÍLA                                                                                ,6810
+01862,SULFATO DE LÍTIO                                                                                    ,6810
+01863,"ÁCIDO 1,2-CICLOHEXILENO DINITRO-TETRACÉTICO (CDTA)                                                  ",6810
+01863,"ÁCIDO 1,2-CICLOHEXILENO DINITRO-TETRACÉTICO (CDTA)                                                  ",6810
+01864,ÁCIDO DICLOROISOCIANÚRICO (DCIA)                                                                    ,6810
+01865,BROMATO DE SÓDIO                                                                                    ,6810
+01865,BROMATO DE SÓDIO                                                                                    ,6810
+01866,SALICILATO DE SÓDIO                                                                                 ,6810
+01866,SALICILATO DE SÓDIO                                                                                 ,6810
+01867,NITRATO DE COBRE II                                                                                 ,6810
+01868,GENISTEÍNA                                                                                          ,6810
+01868,GENISTEÍNA                                                                                          ,6810
+01869,ÁCIDO AMINOCAPRÓICO                                                                                 ,6505
+01870,BENZALDEÍDO                                                                                         ,6810
+01871,ÓXIDO DE FERRO                                                                                      ,6810
+01872,ÁCIDO ASCÓRBICO                                                                                     ,6505
+01872,ÁCIDO ASCÓRBICO                                                                                     ,6505
+01872,ÁCIDO ASCÓRBICO                                                                                     ,6505
+01873,FORMIATO DE AMÔNIO                                                                                  ,6810
+01874,ÁCIDO AZELÁICO                                                                                      ,6505
+01875,ÓXIDO DE MANGANÊS                                                                                   ,6810
+01876,ÓXIDO DE NÍQUEL                                                                                     ,6810
+01877,ÓXIDO DE CÁDMIO                                                                                     ,6810
+01878,ÓXIDO DE PRATA                                                                                      ,6810
+01879,DIÓXIDO DE TITÂNIO                                                                                  ,6810
+01880,ÓXIDO DE FÓSFORO V                                                                                  ,6810
+01881,ÓXIDO DE ALUMÍNIO                                                                                   ,6810
+01882,BROMETO DE LÍTIO                                                                                    ,6810
+01883,CHUMBO                                                                                              ,6810
+01883,CHUMBO                                                                                              ,6810
+01883,CHUMBO                                                                                              ,6810
+01884,TIOSEMICARBAZIDA                                                                                    ,6810
+01885,CIANETO DE SÓDIO                                                                                    ,6810
+01885,CIANETO DE SÓDIO                                                                                    ,6810
+01886,CICLOHEXILAMINA                                                                                     ,6810
+01887,CICLOPENTANO                                                                                        ,6810
+01888,HEXAMETILDISILAZANO                                                                                 ,6810
+01889,ÁCIDO IÓDICO                                                                                        ,6810
+01889,ÁCIDO IÓDICO                                                                                        ,6810
+01890,ÓXIDO DE CHUMBO                                                                                     ,6810
+01891,ÁCIDO CÍTRICO                                                                                       ,6810
+01891,ÁCIDO CÍTRICO                                                                                       ,6810
+01892,ÁCIDO DIGLICÓLICO                                                                                   ,6810
+01892,ÁCIDO DIGLICÓLICO                                                                                   ,6810
+01893,SULFATO DE BÁRIO                                                                                    ,6810
+01894,CARFILZOMIB                                                                                         ,6505
+01895,COLCHICINA                                                                                          ,6810
+01896,CICLOPENTANONA                                                                                      ,6810
+01897,CARBONATO DE DIETILA                                                                                ,6810
+01898,CETILTRIMETILAMÔNIO                                                                                 ,6810
+01898,CETILTRIMETILAMÔNIO                                                                                 ,6810
+01899,CLORETO DE CETILTRIMETILAMÔNIO DILUÍDO                                                              ,6810
+01900,FLUDIOXONIL                                                                                         ,6840
+01901,DIMETILCICLOPENTASILOXANO                                                                           ,6810
+01902,SULFAMATO DE AMÔNIO                                                                                 ,6810
+01903,UBIQUICIDINA                                                                                        ,6810
+01904,ÁCIDO 3-MERCAPTOPROPIÔNICO                                                                          ,6810
+01904,ÁCIDO 3-MERCAPTOPROPIÔNICO                                                                          ,6810
+01905,ÁCIDO CROMOTRÓPICO                                                                                  ,6810
+01905,ÁCIDO CROMOTRÓPICO                                                                                  ,6810
+01906,ÁCIDO DIETILENO TRIAMINO PENTACÉTICO                                                                ,6810
+01907,ÁCIDO CLORANÍLICO                                                                                   ,6810
+01908,"2,2-DIFENIL-1-PICRILHIDRAZIL (DPPH)                                                                 ",6810
+01909,BACITRACINA                                                                                         ,6810
+01910,4-METOXICINAMATO DE 2-ETILHEXILA (OCTINOXATO)                                                       ,6810
+01911,SINVASTATINA                                                                                        ,6810
+01912,TIOCONAZOL                                                                                          ,6810
+01913,FENOL                                                                                               ,6505
+01914,PERÓXIDO DE BENZOÍLA                                                                                ,6810
+01915,CAPREOMICINA                                                                                        ,6505
+01916,ÁCIDO PARAMINOSSALICÍLICO                                                                           ,6505
+01917,CLORETO DE BISMUTO III                                                                              ,6810
+01918,ÁCIDO ESTEÁRICO                                                                                     ,6810
+01919,FORBOL 12-MIRISTATO 13-ACETATO                                                                      ,6810
+01920,SULFETO DE CARBONO                                                                                  ,6810
+01921,DICICLOPENTADIENO                                                                                   ,6810
+01922,DIFENILTIOCARBAZONA                                                                                 ,6810
+01923,ETILBENZENO                                                                                         ,6810
+01924,SILICATO DE MAGNÉSIO                                                                                ,6810
+01925,URACILA                                                                                             ,6810
+01926,"1,2-BIS(DIFENILFOSFINO)ETANE   (DPPE)                                                               ",6810
+01926,"1,2-BIS(DIFENILFOSFINO)ETANE   (DPPE)                                                               ",6810
+01927,DAPTOMICINA                                                                                         ,6505
+01928,ÁCIDO BICINCHONÍNICO (BCA)                                                                          ,6810
+01929,ÁCIDO CLOROGÊNICO                                                                                   ,6810
+01930,FOLINATO DE CÁLCIO                                                                                  ,6505
+01931,ÁCIDO SULFANÍLICO                                                                                   ,6810
+01932,OXAZOL                                                                                              ,6810
+01933,ÁCIDO FOSFOTÚNGSTICO (PTA)                                                                          ,6810
+01934,ÁCIDO FOSFÓRICO                                                                                     ,6520
+01935,ÉTER DIETÍLICO                                                                                      ,6810
+01936,CLORETO DE CHUMBO                                                                                   ,6810
+01937,ÁCIDO FLUOSSILÍCICO                                                                                 ,6810
+01938,ÁCIDO FUSÍDICO                                                                                      ,6505
+01938,ÁCIDO FUSÍDICO                                                                                      ,6505
+01939,ÁCIDO NAFTALOACÉTICO (NAA)                                                                          ,6810
+01940,FLUORESCEÍNA                                                                                        ,6810
+01941,FTALATO DE DIETILA (DEP)                                                                            ,6810
+01942,RODAMINA B                                                                                          ,6810
+01943,"9,10-BIS(FENILETINIL)ANTRACENO                                                                      ",6810
+01943,"9,10-BIS(FENILETINIL)ANTRACENO                                                                      ",6810
+01944,CLORETO DE OXALILA                                                                                  ,6810
+01945,TRIS(2-2BIPIRIDIL)DICLORORUTÊNIO                                                                    ,6810
+01946,CLORETO DE METANOSSULFONILA                                                                         ,6810
+01946,CLORETO DE METANOSSULFONILA                                                                         ,6810
+01947,"1,3-DIFENILISOBENZOFURANO                                                                           ",6810
+01947,"1,3-DIFENILISOBENZOFURANO                                                                           ",6810
+01948,SULFETO DE CÁDMIO                                                                                   ,6810
+01949,"5,6,11,12-TETRAFENILNAFTACENO                                                                       ",6810
+01950,CICLOPENTANEDIONA                                                                                   ,6810
+01951,SILICATO DE SÓDIO DILUÍDO                                                                           ,6810
+01952,ÁCIDO INDOL-3-BUTÍRICO                                                                              ,6810
+01953,ÁCIDO 5-HIDROXINDOL-3-ACÉTICO (5-HIAA)                                                              ,6810
+01954,ÁCIDO HOMOVANÍLICO (HVA)                                                                            ,6810
+01954,ÁCIDO HOMOVANÍLICO (HVA)                                                                            ,6810
+01955,ESCOPOLAMINA                                                                                        ,6810
+01956,HEXACOSANO                                                                                          ,6810
+01957,BORO                                                                                                ,6810
+01958,ACETILACETONATO DE CROMO                                                                            ,6810
+01959,OCTILFENOXIPOLIETOXIETANOL                                                                          ,6810
+01960,RANELATO DE ESTRÔNCIO                                                                               ,6505
+01961,ÁCIDO ABSCÍSICO                                                                                     ,6810
+01962,ÁCIDO DIFENILAMINO SULFÔNICO                                                                        ,6810
+01962,ÁCIDO DIFENILAMINO SULFÔNICO                                                                        ,6810
+01963,"ÁCIDO 3-(TRIMETILSILIL) PROPIÔNICO-2,2,3,3-D4                                                       ",6810
+01964,SESQUIOLEATO DE SORBITANO                                                                           ,6810
+01965,CONDROITINA                                                                                         ,6810
+01966,ÁCIDO TRICLOROISOCIANÚRICO (TCIA)                                                                   ,6810
+01967,3-AMINO-7-(DIMETILAMINO)-2-METILFENAZINA                                                            ,6810
+01968,OXICLORETO DE COBRE                                                                                 ,6840
+01969,IPRODIONA                                                                                           ,6840
+01970,TRIFLOXISTROBINA                                                                                    ,6840
+01971,TIOFANATO-METÍLICO                                                                                  ,6840
+01972,EVEROLIMO                                                                                           ,6505
+01973,CAPTANA                                                                                             ,6840
+01974,MANCOZEBE                                                                                           ,6840
+01974,MANCOZEBE                                                                                           ,6840
+01974,MANCOZEBE                                                                                           ,6840
+01975,TEBUCONAZOL                                                                                         ,6840
+01976,CRESOXIM METÍLICO                                                                                   ,6840
+01977,DITIANONA                                                                                           ,6840
+01978,FENTIONA                                                                                            ,6840
+01979,PARAQUATE                                                                                           ,6840
+01980,GLIFOSATO                                                                                           ,6840
+01981,METIRAM                                                                                             ,6840

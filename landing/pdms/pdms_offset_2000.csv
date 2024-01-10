@@ -1,0 +1,501 @@
+codigo,descricao,codigo_classe
+01286,MISTURADOR ÁUDIO / VÍDEO                                                                            ,5895
+01286,MISTURADOR ÁUDIO / VÍDEO                                                                            ,5895
+01287,JARRA                                                                                               ,7330
+01287,JARRA                                                                                               ,7330
+01288,CARRETEL MANGUEIRA INCÊNDIO                                                                         ,4210
+01289,SORO                                                                                                ,6505
+01290,SOQUETE ARMA DE FOGO                                                                                ,1015
+01291,SOQUETE ARMA DE FOGO                                                                                ,1030
+01292,SONDA PERFURAÇÃO                                                                                    ,3835
+01293,ACESSÓRIO/COMPONENTE SOPRADOR FULIGEM                                                               ,4410
+01294,SOQUETE COMPONENTE ELETRÔNICO                                                                       ,5935
+01295,APARELHO ULTRA-SONOGRAFIA                                                                           ,6530
+01296,SONDA ODONTOLÓGICA                                                                                  ,6520
+01297,SONDA USO OFTALMOLÓGICO                                                                             ,6540
+01298,SONDA                                                                                               ,6685
+01299,SOLVENTE                                                                                            ,8010
+01300,ESQUICHO                                                                                            ,4210
+01301,EXTINTOR INCÊNDIO                                                                                   ,4210
+01301,EXTINTOR INCÊNDIO                                                                                   ,4210
+01301,EXTINTOR INCÊNDIO                                                                                   ,4210
+01302,AVENTAL DE SOLDADOR                                                                                 ,4240
+01303,COLETE SEGURANÇA                                                                                    ,4240
+01303,COLETE SEGURANÇA                                                                                    ,4240
+01304,LENTE INDUSTRIAL / SEGURANÇA                                                                        ,4240
+01305,MANGA ISOLANTE                                                                                      ,4240
+01306,RESPIRADOR                                                                                          ,4240
+01306,RESPIRADOR                                                                                          ,4240
+01306,RESPIRADOR                                                                                          ,4240
+01306,RESPIRADOR                                                                                          ,4240
+01307,GRAVADOR/REPRODUTOR                                                                                 ,5836
+01307,GRAVADOR/REPRODUTOR                                                                                 ,5836
+01307,GRAVADOR/REPRODUTOR                                                                                 ,5836
+01307,GRAVADOR/REPRODUTOR                                                                                 ,5836
+01308,CAPACÍMETRO DIGITAL                                                                                 ,6625
+01309,FITA ALUMÍNIO                                                                                       ,8135
+01310,PAPEL EMBRULHO                                                                                      ,8135
+01310,PAPEL EMBRULHO                                                                                      ,8135
+01311,MÁQUINA OBTURADORA PAPÉIS                                                                           ,3695
+01312,EXTINTOR INCÊNDIO ÁGUA                                                                              ,4210
+01313,EXTINTOR INCÊNDIO PÓ QUÍMICO                                                                        ,4210
+01314,CÂMARA AVÍCOLA FUMIGAÇÃO                                                                            ,4230
+01315,ESCUDO ANTI-TUMULTO                                                                                 ,4240
+01316,PROTETOR FACIAL                                                                                     ,4240
+01316,PROTETOR FACIAL                                                                                     ,4240
+01317,TELEFONE COMUNICAÇÃO SATÉLITE                                                                       ,5895
+01318,ÓRTESE AUDITIVA                                                                                     ,6515
+01319,ARCO ORTODÔNTICO                                                                                    ,6520
+01320,ARCO ORTODÔNTICO INTRAORAL                                                                          ,6520
+01321,BRÁQUETE                                                                                            ,6520
+01322,ACESSÓRIO ORTODÔNTICO                                                                               ,6520
+01323,COMPONENTE ARCO ORTODÔNTICO EXTRABUCAL                                                              ,6520
+01324,DISTALIZADOR MOLAR OCLUSAL E CERVICAL                                                               ,6520
+01325,EXPANSOR ORTODÔNTICO                                                                                ,6520
+01326,ELÁSTICO CERVICAL ORTODÔNTICO                                                                       ,6520
+01327,LIGADURA ELÁSTICA ORTODÔNTICA                                                                       ,6520
+01328,ELÁSTICO ORTODÔNTICO                                                                                ,6520
+01329,GANCHO ORTODÔNTICO                                                                                  ,6520
+01330,MOLA ORTODÔNTICA                                                                                    ,6520
+01331,TUBO ORTODÔNTICO                                                                                    ,6520
+01332,CÂMARA DESINFESTAÇÃO                                                                                ,6636
+01333,ESCORREDOR VIDROS                                                                                   ,7290
+01334,MESA HIGIENIZAÇÃO                                                                                   ,7195
+01334,MESA HIGIENIZAÇÃO                                                                                   ,7195
+01335,MESA SUCÇÃO                                                                                         ,7195
+01336,MESA TÉRMICA                                                                                        ,7195
+01336,MESA TÉRMICA                                                                                        ,7195
+01337,PLACA SUCÇÃO                                                                                        ,7195
+01338,NEGATOSCÓPIO                                                                                        ,6640
+01339,SECADORA PAPÉIS                                                                                     ,4440
+01340,BIBLIOCANTO                                                                                         ,7510
+01341,BOTIJÃO GÁS LIQUEFEITO DE PETRÓLEO - GLP                                                            ,8120
+01342,AMPOLA GARRAFA TÉRMICA                                                                              ,8125
+01343,VÁLVULA REGULADORA CILINDRO GÁS                                                                     ,8120
+01343,VÁLVULA REGULADORA CILINDRO GÁS                                                                     ,8120
+01344,FILME EMBALAGEM                                                                                     ,8135
+01344,FILME EMBALAGEM                                                                                     ,8135
+01344,FILME EMBALAGEM                                                                                     ,8135
+01344,FILME EMBALAGEM                                                                                     ,8135
+01345,FITA PLÁSTICA                                                                                       ,8135
+01345,FITA PLÁSTICA                                                                                       ,8135
+01346,PALETE                                                                                              ,8135
+01346,PALETE                                                                                              ,8135
+01346,PALETE                                                                                              ,8135
+01346,PALETE                                                                                              ,8135
+01346,PALETE                                                                                              ,8135
+01347,PAPEL FILME                                                                                         ,8135
+01348,PAPEL IMPERMEÁVEL                                                                                   ,8135
+01349,PLÁSTICO BOLHA                                                                                      ,8135
+01350,VELA IGNIÇÃO                                                                                        ,2920
+01350,VELA IGNIÇÃO                                                                                        ,2920
+01351,RATOEIRA                                                                                            ,3740
+01352,PULVERIZADOR COSTAL MOTORIZADO                                                                      ,3740
+01352,PULVERIZADOR COSTAL MOTORIZADO                                                                      ,3740
+01353,PLAINA                                                                                              ,5110
+01353,PLAINA                                                                                              ,5110
+01353,PLAINA                                                                                              ,5110
+01354,APARADOR GRAMA                                                                                      ,3750
+01355,CARRO TRANSPORTE                                                                                    ,9999
+01356,CHARRETE                                                                                            ,9999
+01357,CACHIMBO VETERINÁRIO                                                                                ,3770
+01358,CANETA IDENTIFICAÇÃO ANIMAL                                                                         ,3770
+01359,FILTRO AR                                                                                           ,2940
+01359,FILTRO AR                                                                                           ,2940
+01359,FILTRO AR                                                                                           ,2940
+01359,FILTRO AR                                                                                           ,2940
+01360,GARFO JARDINAGEM                                                                                    ,3750
+01361,SACHO                                                                                               ,3750
+01362,BALDE COMBATE INCÊNDIO                                                                              ,4210
+01363,MÁQUINA COSTURA INDUSTRIAL                                                                          ,3645
+01363,MÁQUINA COSTURA INDUSTRIAL                                                                          ,3645
+01363,MÁQUINA COSTURA INDUSTRIAL                                                                          ,3645
+01364,MACACÃO                                                                                             ,8415
+01364,MACACÃO                                                                                             ,8415
+01364,MACACÃO                                                                                             ,8415
+01364,MACACÃO                                                                                             ,8415
+01364,MACACÃO                                                                                             ,8415
+01365,ESPALHADOR ESTERCO                                                                                  ,3710
+01366,PLANTADEIRA                                                                                         ,3710
+01366,PLANTADEIRA                                                                                         ,3710
+01367,SERRA PODA                                                                                          ,3750
+01368,SEMEADORA                                                                                           ,3710
+01369,ALFANGE                                                                                             ,3720
+01370,BARCO INFLÁVEL                                                                                      ,4220
+01371,BOLSA TRANSPORTE LUVAS                                                                              ,4240
+01372,CAPACETE SEGURANÇA                                                                                  ,4240
+01373,PERNEIRA                                                                                            ,4240
+01374,TESOURA PODA                                                                                        ,3750
+01375,TRATOR JARDIM                                                                                       ,3750
+01375,TRATOR JARDIM                                                                                       ,3750
+01375,TRATOR JARDIM                                                                                       ,3750
+01376,CEIFADEIRA                                                                                          ,3720
+01376,CEIFADEIRA                                                                                          ,3720
+01377,ÓCULOS PROTEÇÃO                                                                                     ,4240
+01377,ÓCULOS PROTEÇÃO                                                                                     ,4240
+01377,ÓCULOS PROTEÇÃO                                                                                     ,4240
+01377,ÓCULOS PROTEÇÃO                                                                                     ,4240
+01378,COLHEITADEIRA                                                                                       ,3720
+01379,ENFARDADORA                                                                                         ,3720
+01379,ENFARDADORA                                                                                         ,3720
+01379,ENFARDADORA                                                                                         ,3720
+01380,PORTA-PESO CONE                                                                                     ,6310
+01381,TRANSCEPTOR                                                                                         ,5895
+01382,RADAR                                                                                               ,5840
+01382,RADAR                                                                                               ,5840
+01383,CIPROFIBRATO                                                                                        ,6505
+01384,BOTIJA                                                                                              ,8125
+01385,SILIMARINA                                                                                          ,6505
+01386,PLATAFORMA FUNDO PISCINA                                                                            ,7830
+01387,GARRAFA                                                                                             ,8125
+01387,GARRAFA                                                                                             ,8125
+01388,ARAME PARA ENFARDAMENTO                                                                             ,8135
+01389,PAPEL ALUMÍNIO                                                                                      ,8135
+01390,TALCO INDUSTRIAL                                                                                    ,8135
+01391,BERMUDA                                                                                             ,8405
+01391,BERMUDA                                                                                             ,8405
+01391,BERMUDA                                                                                             ,8405
+01392,GOLIMUMABE                                                                                          ,6505
+01393,BOINA                                                                                               ,8405
+01394,ALMOFADA ORTODÔNTICA                                                                                ,6520
+01395,CALÇA MASCULINA                                                                                     ,8405
+01395,CALÇA MASCULINA                                                                                     ,8405
+01395,CALÇA MASCULINA                                                                                     ,8405
+01395,CALÇA MASCULINA                                                                                     ,8405
+01396,ARCO ORTODÔNTICO EXTRABUCAL                                                                         ,6520
+01397,EMBALAGEM ORTODONTIA                                                                                ,6520
+01398,CAIXA BANDAS ORTODÔNTICOS                                                                           ,6520
+01399,CAIXA BRÁQUETES ORTODÔNTICOS                                                                        ,6520
+01400,CORDA DE PULAR                                                                                      ,7830
+01401,RISCADOR BANDAS ORTODÔNTICAS                                                                        ,6520
+01402,CUECA                                                                                               ,8420
+01403,CHOCADEIRA                                                                                          ,3730
+01404,CULTIVADOR SOLO                                                                                     ,3710
+01404,CULTIVADOR SOLO                                                                                     ,3710
+01404,CULTIVADOR SOLO                                                                                     ,3710
+01405,CALÇÃO BANHO                                                                                        ,8405
+01406,PIJAMA                                                                                              ,8420
+01407,ARADO                                                                                               ,3710
+01407,ARADO                                                                                               ,3710
+01407,ARADO                                                                                               ,3710
+01407,ARADO                                                                                               ,3710
+01408,CAMISA MASCULINA                                                                                    ,8405
+01408,CAMISA MASCULINA                                                                                    ,8405
+01408,CAMISA MASCULINA                                                                                    ,8405
+01409,PERFURADOR SOLO                                                                                     ,3710
+01409,PERFURADOR SOLO                                                                                     ,3710
+01410,JAQUETA MASCULINA                                                                                   ,8405
+01410,JAQUETA MASCULINA                                                                                   ,8405
+01410,JAQUETA MASCULINA                                                                                   ,8405
+01410,JAQUETA MASCULINA                                                                                   ,8405
+01411,GRADE ARADORA                                                                                       ,3710
+01411,GRADE ARADORA                                                                                       ,3710
+01412,SHORT MASCULINO                                                                                     ,8405
+01412,SHORT MASCULINO                                                                                     ,8405
+01413,CAPA CHUVA                                                                                          ,8415
+01414,VESTUÁRIO EXTERNO MASCULINO                                                                         ,8405
+01415,BOTA SEGURANÇA                                                                                      ,8430
+01415,BOTA SEGURANÇA                                                                                      ,8430
+01415,BOTA SEGURANÇA                                                                                      ,8430
+01415,BOTA SEGURANÇA                                                                                      ,8430
+01415,BOTA SEGURANÇA                                                                                      ,8430
+01415,BOTA SEGURANÇA                                                                                      ,8430
+01415,BOTA SEGURANÇA                                                                                      ,8430
+01416,CAPA FEMININA                                                                                       ,8410
+01417,COTURNO                                                                                             ,8430
+01417,COTURNO                                                                                             ,8430
+01418,MAIÔ                                                                                                ,8410
+01419,BOTINA MASCULINA                                                                                    ,8430
+01420,SAIA                                                                                                ,8410
+01421,ALGEMA                                                                                              ,8465
+01421,ALGEMA                                                                                              ,8465
+01422,VESTIDO                                                                                             ,8410
+01423,APARELHO CHOQUE ELÉTRICO                                                                            ,8465
+01424,CANTIL                                                                                              ,8465
+01425,BASTÃO ANTITUMULTO                                                                                  ,8465
+01425,BASTÃO ANTITUMULTO                                                                                  ,8465
+01426,RADIADOR                                                                                            ,2930
+01427,SACO DORMIR                                                                                         ,8465
+01428,MOTOR GERADOR ENERGIA                                                                               ,6115
+01428,MOTOR GERADOR ENERGIA                                                                               ,6115
+01428,MOTOR GERADOR ENERGIA                                                                               ,6115
+01429,EMBALAGEM ISOPOR                                                                                    ,8115
+01430,FACA DESCARTÁVEL                                                                                    ,7340
+01431,COLETE PROVA TIRO                                                                                   ,8470
+01432,CAPA                                                                                                ,8410
+01433,MAIÔ FEMININO                                                                                       ,8410
+01434,BARRIGUEIRA ANIMAL                                                                                  ,3770
+01435,BRIDÃO                                                                                              ,3770
+01436,FOCINHEIRA                                                                                          ,3770
+01437,CABRESTO ANIMAL                                                                                     ,3770
+01438,ARREIO ANIMAL                                                                                       ,3770
+01439,COLEIRA                                                                                             ,3770
+01439,COLEIRA                                                                                             ,3770
+01440,ESTRIBO SELA MONTARIA                                                                               ,3770
+01441,FERRO MARCAÇÃO ANIMAL                                                                               ,3770
+01442,ESCOVA ANIMAL                                                                                       ,3770
+01443,BEBEDOURO BOVINO                                                                                    ,3770
+01443,BEBEDOURO BOVINO                                                                                    ,3770
+01444,BATEDEIRA MANTEIGA INDUSTRIAL                                                                       ,3730
+01445,CRIADEIRA AVE                                                                                       ,3730
+01446,AGASALHO ATLETISMO                                                                                  ,8415
+01447,BIGORNA                                                                                             ,3770
+01448,BALDE ORDENHA                                                                                       ,3770
+01449,BEBEDOURO AVE                                                                                       ,3770
+01450,BAIXEIRO ANIMAL                                                                                     ,3770
+01451,MEDALHA                                                                                             ,8455
+01451,MEDALHA                                                                                             ,8455
+01451,MEDALHA                                                                                             ,8455
+01451,MEDALHA                                                                                             ,8455
+01451,MEDALHA                                                                                             ,8455
+01451,MEDALHA                                                                                             ,8455
+01451,MEDALHA                                                                                             ,8455
+01451,MEDALHA                                                                                             ,8455
+01451,MEDALHA                                                                                             ,8455
+01451,MEDALHA                                                                                             ,8455
+01451,MEDALHA                                                                                             ,8455
+01451,MEDALHA                                                                                             ,8455
+01452,CALÇADOS INFANTIL                                                                                   ,8450
+01453,TROFÉU                                                                                              ,8455
+01453,TROFÉU                                                                                              ,8455
+01453,TROFÉU                                                                                              ,8455
+01453,TROFÉU                                                                                              ,8455
+01453,TROFÉU                                                                                              ,8455
+01453,TROFÉU                                                                                              ,8455
+01453,TROFÉU                                                                                              ,8455
+01453,TROFÉU                                                                                              ,8455
+01454,QUADRO BRANCO                                                                                       ,7110
+01454,QUADRO BRANCO                                                                                       ,7110
+01454,QUADRO BRANCO                                                                                       ,7110
+01454,QUADRO BRANCO                                                                                       ,7110
+01454,QUADRO BRANCO                                                                                       ,7110
+01455,GALOCHA                                                                                             ,8430
+01456,LUVA INDUSTRIAL                                                                                     ,8440
+01457,PIJAMA INFANTIL                                                                                     ,8450
+01458,AMALGAMADOR ELÉTRICO                                                                                ,6520
+01459,BIOMBOS                                                                                             ,6530
+01460,ORDENHADEIRA MECÂNICA                                                                               ,3730
+01460,ORDENHADEIRA MECÂNICA                                                                               ,3730
+01461,ROÇADEIRA MANUAL                                                                                    ,3710
+01461,ROÇADEIRA MANUAL                                                                                    ,3710
+01461,ROÇADEIRA MANUAL                                                                                    ,3710
+01461,ROÇADEIRA MANUAL                                                                                    ,3710
+01462,CALÇADO INFANTIL                                                                                    ,8450
+01463,LÂMINA CORTE ROÇADEIRA MANUAL                                                                       ,3710
+01464,LUVA INFANTIL                                                                                       ,8450
+01465,CALÇA PROTEÇÃO INDIVIDUAL                                                                           ,8415
+01466,EQUIPAMENTO PREPARAÇÃO RAÇÃO ANIMAL                                                                 ,3730
+01466,EQUIPAMENTO PREPARAÇÃO RAÇÃO ANIMAL                                                                 ,3730
+01466,EQUIPAMENTO PREPARAÇÃO RAÇÃO ANIMAL                                                                 ,3730
+01467,TALA ELÁSTICA ORTODÔNTICA                                                                           ,6520
+01468,TRACIONADOR ORTODÔNTICO COM SEGURANÇA                                                               ,6520
+01469,AGUARRÁS                                                                                            ,8010
+01470,SUTIÃ                                                                                               ,8425
+01471,CALCINHA                                                                                            ,8425
+01472,ROUPÃO BANHO                                                                                        ,8425
+01472,ROUPÃO BANHO                                                                                        ,8425
+01473,ENVELOPADORA                                                                                        ,3540
+01474,BETANECOL                                                                                           ,6505
+01475,SOLVENTE INDUSTRIAL                                                                                 ,8010
+01476,DETECTOR METAIS                                                                                     ,6350
+01477,FITA SINALIZAÇÃO                                                                                    ,6310
+01477,FITA SINALIZAÇÃO                                                                                    ,6310
+01477,FITA SINALIZAÇÃO                                                                                    ,6310
+01477,FITA SINALIZAÇÃO                                                                                    ,6310
+01478,CALÇÃO                                                                                              ,8415
+01478,CALÇÃO                                                                                              ,8415
+01479,CAVALETE                                                                                            ,7520
+01479,CAVALETE                                                                                            ,7520
+01480,CORANTE TINTA                                                                                       ,8010
+01481,CRETONE                                                                                             ,8305
+01482,TECIDO EM ALGODÃO CRÚ                                                                               ,8305
+01483,FELTRO                                                                                              ,8305
+01484,RENDA                                                                                               ,8305
+01485,TESOURA COSTURA                                                                                     ,8315
+01485,TESOURA COSTURA                                                                                     ,8315
+01486,BUSTIER                                                                                             ,8425
+01487,TAPETE PELE                                                                                         ,7220
+01488,MOLDE CALÇADO                                                                                       ,8335
+01488,MOLDE CALÇADO                                                                                       ,8335
+01489,SOLADO PRÉ-FABRICADO                                                                                ,8335
+01490,MASTRO BANDEIRA                                                                                     ,8345
+01490,MASTRO BANDEIRA                                                                                     ,8345
+01490,MASTRO BANDEIRA                                                                                     ,8345
+01490,MASTRO BANDEIRA                                                                                     ,8345
+01491,CINTA ESTÉTICA                                                                                      ,8425
+01492,CONE SINALIZAÇÃO                                                                                    ,6310
+01492,CONE SINALIZAÇÃO                                                                                    ,6310
+01492,CONE SINALIZAÇÃO                                                                                    ,6310
+01493,POSTE FIXAÇÃO PLACA                                                                                 ,6310
+01494,CIGARRA                                                                                             ,6350
+01495,SENSOR MOVIMENTO                                                                                    ,6350
+01496,ELÁSTICO                                                                                            ,7510
+01497,CAVALETE SINALIZAÇÃO                                                                                ,6310
+01497,CAVALETE SINALIZAÇÃO                                                                                ,6310
+01498,N-(2-HIDROXIETIL)ETILENODIAMINOTRIACÉTICO                                                           ,6810
+01499,ESTILETE                                                                                            ,7520
+01499,ESTILETE                                                                                            ,7520
+01499,ESTILETE                                                                                            ,7520
+01500,LIVRO FISCAL                                                                                        ,7540
+01501,TINTA ACRÍLICA                                                                                      ,8010
+01501,TINTA ACRÍLICA                                                                                      ,8010
+01501,TINTA ACRÍLICA                                                                                      ,8010
+01501,TINTA ACRÍLICA                                                                                      ,8010
+01501,TINTA ACRÍLICA                                                                                      ,8010
+01502,ZARCÃO                                                                                              ,8010
+01503,SELEGILINA CLORIDRATO                                                                               ,6505
+01504,POLIVITAMINAS E SAIS MINERAIS                                                                       ,6505
+01505,PLACA SINALIZADORA                                                                                  ,6310
+01505,PLACA SINALIZADORA                                                                                  ,6310
+01505,PLACA SINALIZADORA                                                                                  ,6310
+01505,PLACA SINALIZADORA                                                                                  ,6310
+01505,PLACA SINALIZADORA                                                                                  ,6310
+01505,PLACA SINALIZADORA                                                                                  ,6310
+01505,PLACA SINALIZADORA                                                                                  ,6310
+01505,PLACA SINALIZADORA                                                                                  ,6310
+01505,PLACA SINALIZADORA                                                                                  ,6310
+01505,PLACA SINALIZADORA                                                                                  ,6310
+01505,PLACA SINALIZADORA                                                                                  ,6310
+01506,ALARME SONORO CONTRA-INCÊNDIO                                                                       ,6350
+01507,SINALIZADOR OBRA                                                                                    ,6350
+01508,MASSA CORRIDA                                                                                       ,8010
+01509,SELADOR                                                                                             ,8010
+01509,SELADOR TINTA PREDIAL                                                                               ,8010
+01510,CAMBRAIA ALGODÃO                                                                                    ,8305
+01511,FLANELA TECIDO                                                                                      ,8305
+01512,LINHA BORDADO                                                                                       ,8310
+01513,LINHA COSTURA                                                                                       ,8310
+01513,LINHA COSTURA                                                                                       ,8310
+01513,LINHA COSTURA                                                                                       ,8310
+01513,LINHA COSTURA                                                                                       ,8310
+01513,LINHA COSTURA                                                                                       ,8310
+01513,LINHA COSTURA                                                                                       ,8310
+01513,LINHA COSTURA                                                                                       ,8310
+01514,LINHA NÁILON                                                                                        ,8310
+01514,LINHA NÁILON                                                                                        ,8310
+01515,LINHA TRICÔ                                                                                         ,8310
+01516,LINHO                                                                                               ,8305
+01517,VELUDO                                                                                              ,8305
+01518,HOLOGRAMA SEGURANÇA                                                                                 ,6350
+01519,DETECTOR FUMAÇA                                                                                     ,6350
+01520,DETECTOR TÉRMICO                                                                                    ,6350
+01521,FELTRO APAGADOR QUADRO BRANCO                                                                       ,7520
+01522,FIXADOR TINTA                                                                                       ,8010
+01523,AGULHA CROCHÊ                                                                                       ,8315
+01524,ENTRETELA                                                                                           ,8315
+01524,ENTRETELA                                                                                           ,8315
+01525,ELÁSTICO VESTUÁRIO                                                                                  ,8315
+01525,ELÁSTICO VESTUÁRIO                                                                                  ,8315
+01525,ELÁSTICO VESTUÁRIO                                                                                  ,8315
+01525,ELÁSTICO VESTUÁRIO                                                                                  ,8315
+01526,FITA                                                                                                ,8315
+01526,FITA                                                                                                ,8315
+01526,FITA                                                                                                ,8315
+01527,LINHA CROCHÊ                                                                                        ,8310
+01528,ACOLCHOADO TRANSPORTE BENS                                                                          ,8135
+01529,BARRACA / BARRACA ACAMPAMENTO                                                                       ,8340
+01529,BARRACA / BARRACA ACAMPAMENTO                                                                       ,8340
+01529,BARRACA ACAMPAMENTO                                                                                 ,8340
+01529,BARRACA / BARRACA ACAMPAMENTO                                                                       ,8340
+01529,BARRACA / BARRACA ACAMPAMENTO                                                                       ,8340
+01529,BARRACA ACAMPAMENTO                                                                                 ,8340
+01530,SOQUETE LÂMPADA FLUORESCENTE                                                                        ,6250
+01531,SENSOR INFRAVERMELHO                                                                                ,6350
+01532,PAINEL ALARME                                                                                       ,6350
+01533,COBERTURA BARRACA                                                                                   ,8340
+01534,ENCERADO COBERTURA                                                                                  ,8340
+01535,BAÚ VIAGEM                                                                                          ,8460
+01536,AGULHA COSTURA                                                                                      ,8315
+01536,AGULHA COSTURA                                                                                      ,8315
+01537,ZÍPER                                                                                               ,8315
+01537,ZÍPER                                                                                               ,8315
+01537,ZÍPER                                                                                               ,8315
+01538,ALFINETE COSTURA                                                                                    ,8315
+01539,AGULHA MÁQUINA COSTURA                                                                              ,8315
+01539,AGULHA MÁQUINA COSTURA                                                                              ,8315
+01539,AGULHA MÁQUINA COSTURA                                                                              ,8315
+01539,AGULHA MÁQUINA COSTURA                                                                              ,8315
+01539,AGULHA MÁQUINA COSTURA                                                                              ,8315
+01540,COLCHETE                                                                                            ,8315
+01541,FITA MÉTRICA COSTURA                                                                                ,8315
+01542,ESPARTILHO                                                                                          ,8425
+01543,ESTACA BARRACA ACAMPAMENTO                                                                          ,8340
+01544,GUARDA-SOL                                                                                          ,8340
+01544,GUARDA-SOL                                                                                          ,8340
+01544,GUARDA-SOL                                                                                          ,8340
+01545,BOTINA FEMININA                                                                                     ,8435
+01546,CHINELO FEMININO                                                                                    ,8435
+01547,COLETE FEMININO                                                                                     ,8425
+01548,SAPATO FEMININO                                                                                     ,8435
+01549,LENÇO FEMININO                                                                                      ,8445
+01550,LUVA FEMININA                                                                                       ,8445
+01551,MEIA CALÇA FEMININA                                                                                 ,8445
+01552,REDE CABELO                                                                                         ,8445
+01553,GUARDA-CHUVA                                                                                        ,8465
+01553,GUARDA-CHUVA                                                                                        ,8465
+01554,FERTILIZANTE UREIA                                                                                  ,8720
+01555,ANIDRIDO MALEICO                                                                                    ,6810
+01556,BÓIA AMARRAÇÃO                                                                                      ,6320
+01556,BÓIA AMARRAÇÃO                                                                                      ,6320
+01557,LANTERNA BALISAMENTO MARÍTIMO                                                                       ,6320
+01558,AUTOMATIZADOR PORTÃO                                                                                ,6350
+01558,AUTOMATIZADOR PORTÃO                                                                                ,6350
+01559,CANCELA AUTOMÁTICA                                                                                  ,6350
+01560,CAMPAINHA SEM FIO                                                                                   ,6350
+01561,DETECTOR GÁS                                                                                        ,6350
+01561,DETECTOR GÁS                                                                                        ,6350
+01561,DETECTOR GÁS                                                                                        ,6350
+01561,DETECTOR GÁS                                                                                        ,6350
+01562,DETECTOR ÓPTICO                                                                                     ,6350
+01563,COLA EM FITA                                                                                        ,7510
+01564,GRAMPEADOR ELÉTRICO                                                                                 ,3610
+01565,MASSA PONÇAR MADEIRA                                                                                ,8010
+01566,ÓLEO LINHAÇA                                                                                        ,8010
+01567,BROXA PINTURA                                                                                       ,8020
+01568,ESCOVA PINTURA                                                                                      ,8020
+01569,ESPÁTULA                                                                                            ,5120
+01569,ESPÁTULA                                                                                            ,5120
+01570,PINCEL ARTE PLÁSTICA                                                                                ,8020
+01571,PISTOLA PINTURA ARTÍSTICA                                                                           ,8020
+01572,ROLO PINTURA PREDIAL                                                                                ,8020
+01572,ROLO PINTURA PREDIAL                                                                                ,8020
+01572,ROLO PINTURA PREDIAL                                                                                ,8020
+01573,TRINCHA                                                                                             ,8020
+01573,TRINCHA                                                                                             ,8020
+01573,TRINCHA                                                                                             ,8020
+01573,TRINCHA                                                                                             ,8020
+01574,GOMA ARÁBICA                                                                                        ,8040
+01575,AGULHA TRICÔ                                                                                        ,8315
+01576,BOTÃO VESTUÁRIO                                                                                     ,8315
+01576,BOTÃO VESTUÁRIO                                                                                     ,8315
+01576,BOTÃO VESTUÁRIO                                                                                     ,8315
+01577,FIVELA                                                                                              ,8315
+01578,OMBREIRA                                                                                            ,8315
+01579,VIDRILHO                                                                                            ,8315
+01580,VIÉS                                                                                                ,8315
+01580,VIÉS                                                                                                ,8315
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01581,BANDEIRA INSTITUCIONAL                                                                              ,8345
+01582,GLITTER                                                                                             ,9999
+01583,AUTOMATIZADOR PORTA SOCIAL                                                                          ,6350
+01584,CAMPAINHA ELÉTRICA                                                                                  ,6350
+01585,DETECTOR CHAMAS                                                                                     ,6350
+01586,PORTA GIRATÓRIA                                                                                     ,6350
+01587,PORTAL DETECTOR METAL                                                                               ,6350
+01588,RELÓGIO SINALEIRO DIGITAL                                                                           ,6350
+01589,ITÉRBIO                                                                                             ,6810
+01590,CANETA PONTA POROSA                                                                                 ,7510
+01591,CANETA TINTEIRO                                                                                     ,7520
+01592,MASSA AUTOMOTIVA                                                                                    ,8030

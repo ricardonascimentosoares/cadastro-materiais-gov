@@ -1,0 +1,501 @@
+codigo,descricao,codigo_classe
+11589,REGULADOR TENSAO                                                                                    ,6110
+11589,REGULADOR TENSAO                                                                                    ,6110
+11589,REGULADOR TENSAO                                                                                    ,6110
+11590,REGULADOR DE VELOCIDADE DE TURBINA HIDRAULICA                                                       ,2830
+11591,REGULADOR DE VELOCIDADE DE TURBINA TERMICA                                                          ,6150
+11592,REGULADOR DE VOLTAGEM                                                                               ,6110
+11593,REGULADOR DE VOLTAGEM DE MOTOR AERONAVE                                                             ,2925
+11594,REGULADOR FAROL - VEICULO AUTOMOTIVO                                                                ,6220
+11595,REGULADOR HIDRAULICO DE AGUA DE MOTOR A JATO DE AERONAVE                                            ,2995
+11596,REGULADOR HIDRAULICO DE AR DE MOTOR A JATO DE AERONAVE                                              ,2995
+11597,REGULADOR HIDRAULICO DE OLEO DE MOTOR A JATO DE AERONAVE                                            ,2995
+11598,REGULADOR HIDRAULICO PARA OLEO - MOTOR DE AERONAVE                                                  ,2995
+11599,REGULADOR TEMPERATURA DE OLEO - SISTEMA DE RESFRIAMENTO MOTOR AERONAVE                              ,2935
+11600,REGULADOR TURBOSUPERCOMPRESSOR DE MOTOR  -  COMBUSTAO INTERNA                                       ,2950
+11601,REGULADOR VELOCIDADE - VEICULO AUTOMOTIVO                                                           ,2990
+11602,CAIXA REGULADORA VOLTAGEM                                                                           ,2920
+11603,REGULADORES DE PRESSAO DA CABINA DE AERONAVES                                                       ,1660
+11604,REGULAMENTO                                                                                         ,7610
+11605,DIFENIL-HIDRAZINA                                                                                   ,6810
+11606,RELE ALARME USO INDUSTRIAL                                                                          ,5945
+11607,RELE AUXILIAR USO INDUSTRIAL                                                                        ,5945
+11608,RELE BLOQUEIO USO INDUSTRIAL                                                                        ,5945
+11609,RELE DE MERCURIO                                                                                    ,5945
+11610,RELÉ VEÍCULO AUTOMOTIVO                                                                             ,2920
+11610,RELÉ VEÍCULO AUTOMOTIVO                                                                             ,2920
+11610,RELÉ VEÍCULO AUTOMOTIVO                                                                             ,2920
+11610,RELÉ VEÍCULO AUTOMOTIVO                                                                             ,2920
+11610,RELÉ VEÍCULO AUTOMOTIVO                                                                             ,2920
+11610,RELÉ VEÍCULO AUTOMOTIVO                                                                             ,2920
+11611,RELÉ DE RETARDO                                                                                     ,5945
+11612,RELÉ TEMPERATURA                                                                                    ,5945
+11613,RELE DE TEMPO                                                                                       ,5945
+11614,RELÉ PROTEÇÃO SISTEMA ELÉTRICO                                                                      ,5945
+11615,RELÉ REED SWITCH                                                                                    ,5945
+11616,RELÉ TÉRMICO                                                                                        ,5945
+11617,RELIGADOR AUTOMATICO DE TENSAO                                                                      ,6110
+11618,RELIGADOR TRIFASICO ATE 15 KV INCLUSIVE                                                             ,6110
+11619,RELÓGIO CARIMBADOR                                                                                  ,6645
+11620,RELÓGIO DATADOR                                                                                     ,6645
+11621,RELÓGIO COMPARADOR                                                                                  ,5210
+11622,RELÓGIO DE EQUIPAMENTO DE PROCESSAMENTO DE DADOS                                                    ,7020
+11623,RELÓGIO DE PONTO                                                                                    ,6645
+11624,RELÓGIO DE VIGIA                                                                                    ,6645
+11625,RELÓGIO PARA LABORATÓRIO                                                                            ,6645
+11626,REMADOR - USO MEDICO                                                                                ,6530
+11627,REMENDO CAMARA DE AR                                                                                ,2640
+11627,REMENDO CAMARA DE AR                                                                                ,2640
+11628,REMENDO PARA PNEU                                                                                   ,2640
+11628,REMENDO PARA PNEU                                                                                   ,2640
+11629,REMENDO RAPIDO A FRIO                                                                               ,2640
+11630,REMIFENTANILA CLORIDRATO                                                                            ,6505
+11631,REMO DE EMBARCACAO                                                                                  ,2090
+11631,REMO DE EMBARCACAO                                                                                  ,2090
+11631,REMO DE EMBARCACAO                                                                                  ,2090
+11632,REMOVEDOR USO ODONTOLÓGICO                                                                          ,6520
+11633,REMOVEDOR DE CERA DE ASSOALHO                                                                       ,7930
+11634,REMOVEDOR                                                                                           ,7930
+11635,REMOVEDOR DE NEVE / GRANIZO EM ESTRADA                                                              ,3825
+11636,REMOVEDOR DE PELICULA DE MAQUINA COPIADORA                                                          ,7510
+11637,REMOVEDOR DE PICHACAO                                                                               ,7930
+11638,EXPANSOR DE ENXERTO DE PELE                                                                         ,6515
+11639,REOSTATO                                                                                            ,5905
+11640,REOSTATO DE BAIXA POTENCIA                                                                          ,5905
+11641,REPAGLINIDA                                                                                         ,6505
+11642,REPARADOR - USO OFTALMOLOGICO                                                                       ,6540
+11643,REPARO BOMBA D'AGUA                                                                                 ,2930
+11644,CONJUNTO REPARO CARBURADOR                                                                          ,2910
+11645,REPARO DO MOTOR DE PARTIDA - VEICULO AUTOMOTIVO                                                     ,2920
+11646,REPARO GAZE ESTERIL - USO CIRURGICO                                                                 ,6515
+11647,REPARO BOMBA INJETORA COMBUSTÍVEL                                                                   ,2910
+11647,REPARO BOMBA INJETORA COMBUSTÍVEL                                                                   ,2910
+11648,REPARO PARA GERADOR DE ENERGIA ELETRICA - VEICULO                                                   ,2920
+11649,REPARO VÁLVULA HIDRÁULICA                                                                           ,4510
+11649,REPARO VÁLVULA HIDRÁULICA                                                                           ,4510
+11649,REPARO VÁLVULA HIDRÁULICA                                                                           ,4510
+11650,REPARTIDOR DE AMOSTRA - USO LABORATORIO                                                             ,6640
+11651,REPETIDOR DE ONDA                                                                                   ,6625
+11652,REPETIDOR DE TV                                                                                     ,5850
+11653,REPETIDOR SINCRONO                                                                                  ,5990
+11654,REPETIDOR TELEFONICO E TELEGRAFICO                                                                  ,5805
+11655,REPIPETADOR                                                                                         ,6640
+11656,REPLICADOR COLONIA BACTERIANA                                                                       ,6695
+11657,REPOLHO IN - NATURA                                                                                 ,8915
+11658,REPOSICIONADOR PROTESE                                                                              ,6515
+11659,EQUIPAMENTO REPRODUTOR / PROCESSADOR DE SOM                                                         ,5835
+11660,REPUXADORA INDUSTRIAL DE METAL                                                                      ,3449
+11661,DIENOGESTE                                                                                          ,6505
+11662,RESERVATORIO ÁGUA PURIFICADA- USO LABORATORIO                                                       ,6640
+11663,RESERVATORIO AGUA TIPO AUSTRALIANO DE 14.000 ATE                                                    ,5670
+11664,RESERVATÓRIO CARDIOPLEGIA                                                                           ,6515
+11665,RESERVATORIO CARDIOTOMIA                                                                            ,6515
+11666,RESERVATORIO COMBUSTIVEL PARA MOTOR A JATO -  AERONAVE                                              ,2840
+11667,RESERVATORIO COMBUSTIVEL PARA TURBINA A GAS - AERONAVE                                              ,2840
+11668,RESERVATORIO COMPENSACAO DE AGUA DE RADIADOR DE MOTOR - VEICULO AUTOMOTIVO                          ,2930
+11669,RESERVATORIO PARA LIQUIDO - USO LABORATORIO                                                         ,6640
+11670,RESERVATÓRIO                                                                                        ,6515
+11671,RESFRIADOR PARA BOLSA DE LIQUIDOS                                                                   ,6640
+11672,(3-GLICIDILOXIPROPIL) TRIMETOXISILANO                                                               ,6810
+11673,RESINA ACRÍLICA - USO ODONTOLÓGICO                                                                  ,6520
+11674,RESINA                                                                                              ,6850
+11674,RESINA                                                                                              ,6850
+11674,RESINA                                                                                              ,6850
+11675,RESINA ACRÍLICA USO ODONTOLÓGICO                                                                    ,6520
+11675,RESINA ACRÍLICA USO ODONTOLÓGICO                                                                    ,6520
+11676,RESINA COMPOSTA                                                                                     ,6520
+11677,RESINA COMPOSTA..                                                                                   ,6520
+11678,RESINA DENTAL                                                                                       ,6520
+11679,RESINA SÓLIDA                                                                                       ,6850
+11679,RESINA SÓLIDA                                                                                       ,6850
+11680,RESISTENCIA ( FUSIVEL DE CERAMICA ) BOBINA DE IGNICAO - VEICULO AUTOMOTIVO                          ,5920
+11681,RESISTENCIA ELETRICA                                                                                ,5905
+11682,RESISTOR AJUSTAVEL ( VARIAVEL )                                                                     ,5905
+11683,RESISTOR DE AQUECIMENTO DE LIQUIDO                                                                  ,5905
+11684,RESISTOR ATERRAMENTO                                                                                ,5905
+11685,RESISTOR DE COMPENSACAO                                                                             ,5905
+11686,RESISTOR DE FITA                                                                                    ,5905
+11687,RESISTOR MONTAGEM EM SUPERFÍCIE                                                                     ,5905
+11687,RESISTOR MONTAGEM EM SUPERFÍCIE                                                                     ,5905
+11688,RESISTOR IMPRESSO                                                                                   ,5905
+11689,RESISTOR                                                                                            ,5905
+11690,RESISTOR PARA AQUECIMENTO                                                                           ,5905
+11691,RESISTÊNCIA CÁRTER                                                                                  ,5905
+11692,RESOLUCAO SENO - CO - SENO                                                                          ,5990
+11693,ÓXIDO DE GADOLÍNIO                                                                                  ,6810
+11694,RESPIGADEIRA INDUSTRIAL                                                                             ,3220
+11695,PEÇA EQUIPAMENTO VETERINÁRIO                                                                        ,6515
+11695,PEÇA EQUIPAMENTO VETERINÁRIO                                                                        ,6515
+11696,VENTILADOR ARTIFICIAL ELETRÔNICO                                                                    ,6515
+11696,VENTILADOR ARTIFICIAL ELETRÔNICO                                                                    ,6515
+11697,COROA MÁSCARA SOLDADOR                                                                              ,4240
+11698,RESPIRADOR PARA JATEAMENTO DE AREIA                                                                 ,4240
+11699,RESSETOSCOPIO                                                                                       ,6530
+11700,REANIMADOR MANUAL                                                                                   ,6515
+11700,REANIMADOR MANUAL                                                                                   ,6515
+11701,AMBU                                                                                                ,4240
+11702,RESTAURADOR BLANQUETA                                                                               ,3610
+11703,RESTITUIDOR PARA USO EM AEROFOTOGRAMETRIA                                                           ,6720
+11704,RETARDADOR                                                                                          ,6850
+11705,RETENTOR - USO ODONTOLOGICO                                                                         ,6520
+11706,RETENTOR DE ESCOVA DE CONTATO                                                                       ,5977
+11707,RETENTOR                                                                                            ,5330
+11707,RETENTOR                                                                                            ,5330
+11707,RETENTOR                                                                                            ,5330
+11707,RETENTOR                                                                                            ,5330
+11707,RETENTOR                                                                                            ,5330
+11707,RETENTOR                                                                                            ,5330
+11708,RETENTOR DE ÓLEO                                                                                    ,5330
+11708,RETENTOR DE ÓLEO                                                                                    ,5330
+11709,RETENTOR DE PÓ                                                                                      ,7910
+11710,RETENTOR RODA - VEÍCULO AUTOMOTIVO                                                                  ,2530
+11711,RETENTOR VEDAÇÃO                                                                                    ,5330
+11712,RETICULA DE INSTRUMENTO OPTICO                                                                      ,6650
+11713,RETIFICADOR                                                                                         ,5961
+11714,RETIFICADOR CILINDRICO INDUSTRIAL                                                                   ,3415
+11715,RETIFICADOR CORRENTE                                                                                ,3432
+11716,RETIFICADOR DE OXIDO DE COBRE                                                                       ,6130
+11717,RETIFICADOR CENTRAL TELEFÔNICA                                                                      ,6130
+11718,RETIFICADOR INDUSTRIAL DE PROTECAO CATODICA                                                         ,6130
+11719,RETIFICADOR SEM CENTRO ( CENTERLESS ) INDUSTRIAL                                                    ,3415
+11720,RETIFICADOR UNIVERSAL INDUSTRIAL                                                                    ,3415
+11721,RETIFICADORA HIDRAULICA INDUSTRIAL                                                                  ,3415
+11722,RETIFICADORA INDUSTRIAL                                                                             ,3415
+11722,RETIFICADORA INDUSTRIAL                                                                             ,3415
+11722,RETIFICADORA INDUSTRIAL                                                                             ,3415
+11723,RETOCADOR FOTOGRAFICO                                                                               ,6750
+11724,RETOSCOPIO                                                                                          ,6515
+11725,RETOSSIGMOIDOSCÓPIO                                                                                 ,6515
+11726,RETROESCAVADEIRA                                                                                    ,3805
+11726,RETROESCAVADEIRA                                                                                    ,3805
+11726,RETROESCAVADEIRA                                                                                    ,3805
+11727,REVELADOR - CHAPA POSITIVA / NEGATIVA                                                               ,3610
+11728,REVELADOR FILME FOTOGRÁFICO                                                                         ,6750
+11729,REVELADOR - IMPRESSAO DIGITAL                                                                       ,6750
+11729,REVELADOR - IMPRESSAO DIGITAL LATENTE                                                               ,6750
+11729,REVELADOR - IMPRESSAO DIGITAL LATENTE                                                               ,6750
+11730,REVELADOR COPIADORA                                                                                 ,3610
+11730,REVELADOR COPIADORA                                                                                 ,3610
+11731,REVERBERADOR DIGITAL                                                                                ,5835
+11732,REVERSOR HIDRAULICO                                                                                 ,2990
+11733,REVESTIMENTO - USO ODONTOLOGICO                                                                     ,6520
+11734,REVESTIMENTO / PISO - EPOXI                                                                         ,7220
+11735,REVESTIMENTO / PISO - VINIL                                                                         ,7220
+11736,REVESTIMENTO ALUMINIO                                                                               ,7220
+11737,PLACA CONCRETO                                                                                      ,5620
+11737,PLACA CONCRETO                                                                                      ,5620
+11737,PLACA CONCRETO                                                                                      ,5620
+11738,REVESTIMENTO DE BATERIA                                                                             ,6160
+11739,REVESTIMENTO DE PAREDE                                                                              ,7230
+11740,REVESTIMENTO PAREDE                                                                                 ,7230
+11741,REVESTIMENTO PARA CAIXA DE EMBALAGEM                                                                ,8135
+11742,REVISTA                                                                                             ,7630
+11743,RIBAVIRINA                                                                                          ,6505
+11744,RIFAMICINA                                                                                          ,6505
+11745,RAMUCIRUMABE                                                                                        ,6505
+11746,RIFAMPICINA                                                                                         ,6505
+11747,RIFLES                                                                                              ,1005
+11748,RIBOSE-5-FOSFATO                                                                                    ,6810
+11749,SOLUÇÃO RINGER COM LACTATO SÓDIO                                                                    ,6505
+11750,RINGER                                                                                              ,6505
+11751,RINOLARINGOSCÓPIO                                                                                   ,6530
+11752,RINOSCOPIO                                                                                          ,6530
+11753,RIPA                                                                                                ,5510
+11753,RIPA                                                                                                ,5510
+11753,RIPA                                                                                                ,5510
+11754,RIPAMENTO PARA TELHADO                                                                              ,5650
+11755,RISCADOR                                                                                            ,5120
+11755,RISCADOR                                                                                            ,5120
+11756,RISCADOR DE SOLO PARA MARCACAO / PLANTIO                                                            ,3710
+11757,PEÇA / COMPONENTE EQUIPAMENTO AGRÍCOLA                                                              ,3710
+11757,PEÇA / COMPONENTE EQUIPAMENTO AGRÍCOLA                                                              ,3710
+11757,PEÇA / COMPONENTE EQUIPAMENTO AGRÍCOLA                                                              ,3710
+11757,PEÇA / COMPONENTE EQUIPAMENTO AGRÍCOLA                                                              ,3710
+11757,PEÇA / COMPONENTE EQUIPAMENTO AGRÍCOLA                                                              ,3710
+11757,PEÇA / COMPONENTE EQUIPAMENTO AGRÍCOLA                                                              ,3710
+11757,PEÇA / COMPONENTE EQUIPAMENTO AGRÍCOLA                                                              ,3710
+11757,PEÇA / COMPONENTE EQUIPAMENTO AGRÍCOLA                                                              ,3710
+11758,RISEDRONATO SÓDICO                                                                                  ,6505
+11759,RISPERIDONA                                                                                         ,6505
+11760,RITONAVIR                                                                                           ,6505
+11761,RITUXIMABE                                                                                          ,6505
+11762,RIZOMA EM FLOR                                                                                      ,8730
+11763,RIZOMA EM REPOUSO VEGETATIVO                                                                        ,8730
+11764,RIZOMA EM VEGETACAO                                                                                 ,8730
+11765,EQUIPAMENTO / ACESSÓRIO ROBÓTICO                                                                    ,9999
+11766,ROÇADEIRA MECÂNICA                                                                                  ,3710
+11767,ROÇADEIRA COM TRATOR                                                                                ,3710
+11768,ROÇADEIRA TRATOR ARADO                                                                              ,3710
+11768,ROÇADEIRA TRATOR ARADO                                                                              ,3710
+11769,RODA - VEICULO AUTOMOTIVO                                                                           ,2530
+11770,RODA BORRACHA MACIÇA - VEÍCULO AUTOMOTIVO                                                           ,2530
+11771,RODA CARRO TRANSPORTE MATERIAL                                                                      ,3920
+11771,RODA CARRO TRANSPORTE MATERIAL                                                                      ,3920
+11772,RODA POLIMENTO                                                                                      ,5345
+11773,RODA FERROVIARIA                                                                                    ,2240
+11774,RODA PG                                                                                             ,5345
+11775,RODAPÉ                                                                                              ,5520
+11776,RODA BORRACHA MACIÇA                                                                                ,2510
+11777,RODEIRO DE LOCOMOTIVA                                                                               ,2240
+11778,RODEIRO PARA VAGAO FERROVIARIO                                                                      ,2240
+11779,TIAMETOXAM                                                                                          ,6840
+11779,TIAMETOXAM                                                                                          ,6840
+11780,RODÍZIO TRILHO                                                                                      ,7195
+11781,RODO                                                                                                ,7920
+11781,RODO                                                                                                ,7920
+11781,RODO                                                                                                ,7920
+11781,RODO                                                                                                ,7920
+11782,RODO ASPIRADOR - PISCINA                                                                            ,7910
+11782,RODO ASPIRADOR - PISCINA                                                                            ,7910
+11783,RODOAR                                                                                              ,2590
+11784,ROFECOXIBE (REGISTRO SUSPENSO ANVISA)                                                               ,6505
+11785,ROLADOR DE CARGA - ESTEIRA                                                                          ,3810
+11786,ROLAMENTO ALOJADO                                                                                   ,3110
+11787,ROLAMENTO AUTOCOMPENSADOR ESFERA                                                                    ,3110
+11788,ROLAMENTO AXIAL AGULHA                                                                              ,3110
+11789,ROLAMENTO AXIAL AUTOCOMPENSADOR ROLO                                                                ,3110
+11790,ROLAMENTO AXIAL ESFERA                                                                              ,3110
+11790,ROLAMENTO AXIAL ESFERA                                                                              ,3110
+11790,ROLAMENTO AXIAL ESFERA                                                                              ,3110
+11790,ROLAMENTO AXIAL ESFERA                                                                              ,3110
+11791,ROLAMENTO AXIAL ROLO CILINDRICO                                                                     ,3110
+11792,ROLAMENTO COLAR EMBREAGEM - VEICULO AUTOMOTIVO                                                      ,2520
+11793,ROLAMENTO COMPLETO COM CARCACA                                                                      ,3130
+11794,ROLAMENTO COMPLETO COM FLANGE                                                                       ,3130
+11795,ROLAMENTO RADIAL AGULHA                                                                             ,3110
+11796,ROLAMENTO DE CONE                                                                                   ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11797,ROLAMENTO DE ESFERA                                                                                 ,3110
+11798,ROLAMENTO DE ESTEIRA                                                                                ,3110
+11799,ROLAMENTO DE ROLETE                                                                                 ,3110
+11799,ROLAMENTO DE ROLETE                                                                                 ,3110
+11800,ROLAMENTO ESFERA CONTATO ANGULAR                                                                    ,3110
+11800,ROLAMENTO ESFERA CONTATO ANGULAR                                                                    ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11801,ROLAMENTO                                                                                           ,3110
+11802,ROLAMENTO GAIOLA AGULHA                                                                             ,3110
+11803,ROLAMENTO RIGIDO ESFERA                                                                             ,3110
+11803,ROLAMENTO RIGIDO ESFERA                                                                             ,3110
+11804,ROLAMENTO ROLO                                                                                      ,3110
+11804,ROLAMENTO ROLO                                                                                      ,3110
+11804,ROLAMENTO ROLO                                                                                      ,3110
+11804,ROLAMENTO ROLO                                                                                      ,3110
+11804,ROLAMENTO ROLO                                                                                      ,3110
+11804,ROLAMENTO ROLO                                                                                      ,3110
+11804,ROLAMENTO ROLO                                                                                      ,3110
+11804,ROLAMENTO ROLO                                                                                      ,3110
+11805,ROLDANA                                                                                             ,5340
+11805,ROLDANA                                                                                             ,5340
+11805,ROLDANA                                                                                             ,5340
+11805,ROLDANA                                                                                             ,5340
+11805,ROLDANA                                                                                             ,5340
+11805,ROLDANA                                                                                             ,5340
+11805,ROLDANA                                                                                             ,5340
+11806,ROLDANA DE PORCELANA                                                                                ,5340
+11807,ROLDANA METÁLICA                                                                                    ,5340
+11808,ROLDANA PLASTICA PARA DUREX                                                                         ,7510
+11809,APLICADOR FITA                                                                                      ,7510
+11810,ROLETA BORBOLETA                                                                                    ,3550
+11811,ROLETA - PECA / COMPONENTE                                                                          ,3550
+11812,ROLETE BOMBA PERISTALTICA                                                                           ,6515
+11813,ROLETE CILINDRICO                                                                                   ,3110
+11814,ROLETE DE ESTEIRA - VEICULO AUTOMOTIVO                                                              ,2530
+11815,ROLETE DE ESTEIRA DE VEICULO AUTOMOTIVO                                                             ,2510
+11816,ROLETE DE ROLAMENTO                                                                                 ,3110
+11817,ROLHA                                                                                               ,9390
+11818,ROLHA PLASTICO                                                                                      ,9330
+11819,ROLHA SILICONE                                                                                      ,6640
+11820,BASTÃO IDENTIFACAÇÃO ANIMAL                                                                         ,3770
+11821,"ROLO "" PE DE CARNEIRO "" / ESCARIFICADOR                                                             ",3895
+11822,ROLO DE BORRACHA                                                                                    ,9999
+11823,LIMPADOR ROLO COPIADORA                                                                             ,7510
+11824,ROLO DE VASSOURA                                                                                    ,3830
+11825,ROLO FACA DE USO AGRICOLA                                                                           ,3710
+11826,ROLO MASSA                                                                                          ,7330
+11827,ROLO MASSAGEM                                                                                       ,6530
+11828,ROLO SINTETICO                                                                                      ,9390
+11829,ROMPEDOR - USO MEDICO                                                                               ,6515
+11830,ROPIVACAÍNA                                                                                         ,6505
+11831,ÁCIDO RODIZÔNICO                                                                                    ,6810
+11832,DISPOSITIVO INTRA-ORAL                                                                              ,6520
+11833,ROSCA TRANSPORTADORA                                                                                ,3720
+11833,ROSCA TRANSPORTADORA                                                                                ,3720
+11834,APIXABANA                                                                                           ,6505
+11835,ROSETA DE BANDEIRA                                                                                  ,8345
+11836,ROSETA DE CAVALARIA                                                                                 ,3770
+11837,ROSQUEADEIRA                                                                                        ,3413
+11837,ROSQUEADEIRA                                                                                        ,3413
+11838,ROSQUINHA                                                                                           ,8920
+11839,ROTOR ALTERNADOR DE CORRENTE - VEICULO AUTOMOTIVO                                                   ,6105
+11840,ROTOR DE MOTOR ELETRICO                                                                             ,6105
+11841,ROTOR DE TURBINA A VAPOR                                                                            ,2825
+11842,ROTOR DE TURBINA HIDRÁULICA                                                                         ,2830
+11843,ROTOR DISTRIBUIDOR ENERGIA ELETRICA - VEICULO AUTO                                                  ,2920
+11843,ROTOR DISTRIBUIDOR ENERGIA ELETRICA - VEICULO AUTO                                                  ,2920
+11844,ROTOR - USO LABORATÓRIO                                                                             ,6680
+11845,ROTORES DE HELICES DE AERONAVES                                                                     ,1610
+11846,RÓTULO IMPRESSO                                                                                     ,7690
+11847,ROTURA - ESTANCAMENTO SANGUE                                                                        ,6515
+11848,ROUPA CONDUTIVA P/ MANUTENCAO DE LINHA ENERGIZADA                                                   ,6150
+11849,ROUPA MERGULHADOR                                                                                   ,4220
+11849,ROUPA MERGULHADOR                                                                                   ,4220
+11849,ROUPA MERGULHADOR                                                                                   ,4220
+11849,ROUPA MERGULHADOR                                                                                   ,4220
+11850,ROUPA IMPERMEAVEL                                                                                   ,4240
+11851,ROUPA INTIMA INFANTIL                                                                               ,8450
+11852,ROUPA PROTEÇÃO FIM ESPECÍFICO                                                                       ,8415
+11853,ROUPAO MASCULINO                                                                                    ,8420
+11854,ROXITROMICINA                                                                                       ,6505
+11855,RUCULA IN - NATURA                                                                                  ,8915
+11856,RUGINA                                                                                              ,6515
+11856,RUGINA                                                                                              ,6515
+11857,RUGOSIMETRO                                                                                         ,5210
+11857,RUGOSIMETRO                                                                                         ,5210
+11857,RUGOSIMETRO                                                                                         ,5210
+11858,RUBÍDIO                                                                                             ,6810
+11859,RUTÊNIO                                                                                             ,6810
+11860,SABONETE ÍNTIMO                                                                                     ,6508
+11861,SABAO DE ALUMINIO ( GELATINIZANTE DE GASOLINA )                                                     ,6850
+11862,SABAO DE BARBA                                                                                      ,8520
+11863,SABÃO BARRA                                                                                         ,7930
+11864,SABÃO PASTA                                                                                         ,7930
+11865,SABÃO PÓ                                                                                            ,7930
+11865,SABÃO PÓ                                                                                            ,7930
+11865,SABÃO PÓ                                                                                            ,7930
+11866,SABAO EXCETO TOUCADOR                                                                               ,7930
+11867,SABAO LIQUIDO                                                                                       ,7930
+11868,SABÃO RALADO                                                                                        ,7930
+11869,SABONETE                                                                                            ,8520
+11869,SABONETE                                                                                            ,8520
+11870,SABONETE LÍQUIDO                                                                                    ,8520
+11870,SABONETE LÍQUIDO                                                                                    ,8520
+11871,SABONETE                                                                                            ,6508
+11872,SABONETEIRA                                                                                         ,4510
+11872,SABONETEIRA                                                                                         ,4510
+11873,SABRE                                                                                               ,1095
+11874,SACA - CUBO                                                                                         ,9999
+11875,RISCADOR DE LAMINADO FENÓLICO MELAMÍNICO                                                            ,5120
+11876,SACA PINO                                                                                           ,5120
+11876,SACA PINO                                                                                           ,5120
+11877,SACA-FILTRO                                                                                         ,5120
+11878,SACA - PREGO                                                                                        ,5120
+11879,SACA - ROLAMENTO                                                                                    ,5120
+11879,SACA - ROLAMENTO                                                                                    ,5120
+11880,SACA - ROLHA                                                                                        ,7330
+11881,SACA - ROLHA A GAS                                                                                  ,7330
+11882,CERÔMERO ODONTOLÓGICO                                                                               ,6520
+11883,SACA FIBRONA                                                                                        ,6515
+11883,SACA FIBRONA                                                                                        ,6515
+11884,SACA MANDRIL - USO ODONTOLOGICO                                                                     ,6520
+11885,SACARIMETRO                                                                                         ,6640
+11886,SACARINA                                                                                            ,6810
+11887,SACAROSE                                                                                            ,6810
+11888,SACCHAROMYCES BOULARDII - 17                                                                        ,6505
+11889,IMPLANTE CRÂNIOFACIAL ANATÔMICO                                                                     ,6515
+11890,SACO DE ALGODÃO                                                                                     ,8105
+11891,SACO DE ALUMINIO                                                                                    ,8105
+11892,SACO DE EQUIPAMENTO PESSOAL                                                                         ,8465
+11893,SACO DE FIBRA NATURAL                                                                               ,8105
+11894,SACO DE FIBRA SINTETICA                                                                             ,8105
+11895,SACO DE JUTA                                                                                        ,8105
+11896,SACO DE LONA                                                                                        ,8105
+11897,SACO PAPEL                                                                                          ,8105
+11898,SACO DE PAPEL MULTIFOLHEADO                                                                         ,8105
+11899,SACO DE PELE                                                                                        ,8325
+11900,SACO P/ HAMPER                                                                                      ,8105
+11901,SACO ESTERILIZAÇÃO                                                                                  ,6515
+11902,SACO                                                                                                ,8105
+11902,SACO                                                                                                ,8105
+11902,SACO                                                                                                ,8105
+11902,SACO                                                                                                ,8105
+11902,SACO                                                                                                ,8105
+11903,SACO PLÁSTICO LIXO                                                                                  ,8105
+11903,SACO PLÁSTICO LIXO                                                                                  ,8105
+11904,MEMBRANA PLÁSTICA                                                                                   ,8105
+11904,MEMBRANA PLÁSTICA                                                                                   ,8105
+11905,SACO EXTRATOR                                                                                       ,6515
+11906,COBRE CORPO                                                                                         ,9930
+11907,SACOLA DE MATERIAL ESPORTIVO                                                                        ,7810
+11908,SACOLA                                                                                              ,8105
+11908,SACOLA                                                                                              ,8105
+11908,SACOLA                                                                                              ,8105
+11908,SACOLA                                                                                              ,8105
+11909,SACUDIDEIRA                                                                                         ,3625
+11910,SAFRANINA                                                                                           ,6810
+11911,SAIBRO                                                                                              ,5610
+11912,SAIS PARA REIDRATAÇÃO ORAL                                                                          ,6505
+11913,SAL DE FRUTA                                                                                        ,6505
+11914,BENZIL-ETANOLAMINA                                                                                  ,6810
+11915,SALA COFRE BLINDADA                                                                                 ,7110
+11916,SALADEIRA                                                                                           ,7350
+11917,SALBUTAMOL                                                                                          ,6505
+11918,SALEIRO                                                                                             ,7350
+11919,SALGADOS DIVERSOS                                                                                   ,8920
+11919,SALGADOS DIVERSOS                                                                                   ,8920
+11919,SALGADOS DIVERSOS                                                                                   ,8920
+11920,AZINA DE SALICILALDEÍDO                                                                             ,6810
+11921,SALICILATO DE METILA                                                                                ,6810
+11922,SALICILATO DE METILA                                                                                ,6505
+11922,SALICILATO DE METILA                                                                                ,6505
+11923,D-(-)-SALICINA                                                                                      ,6810
+11924,SALINÔMETRO                                                                                         ,6630
+11924,REFRATÔMETRO                                                                                        ,6630
+11924,REFRATÔMETRO                                                                                        ,6630
+11924,REFRATÔMETRO                                                                                        ,6630
+11925,SALIVADOR - USO ODONTOLOGICO                                                                        ,6520
+11926,SALMETEROL XINAFOATO                                                                                ,6505
+11927,SALSA IN - NATURA                                                                                   ,8915
+11928,SALSAO IN - NATURA                                                                                  ,8915
+11929,SALTO ORTOPÉDICO                                                                                    ,6515
+11930,SALTO PRE - FABRICADO DE CALCADO                                                                    ,8335
+11931,SALVA - VIDAS INFLAVEL INDIVIDUAL                                                                   ,4220
+11932,SISTEMA PARA DISTRAÇÃO ÓSSEA                                                                        ,6515
+11933,SANDUÍCHE                                                                                           ,8920
+11934,SANFONA EM MALHA                                                                                    ,8315
+11935,SANGUE CARNEIRO DESFIBRINADO - USO LABORATORIO                                                      ,6550
+11936,CONJUNTO SANGUE PADRÃO                                                                              ,6550
+11937,SAPATA DE FREIO - VEICULO FERROVIARIO                                                               ,2240
+11938,SAPATEIRA                                                                                           ,7105
+11939,SAPATILHA HOSPITALAR                                                                                ,6532
+11940,SAPATILHA DE CABO / CORDA                                                                           ,4030
+11941,SAPATO ORTOPÉDICO                                                                                   ,6515
+11942,CALÇADO TERAPÊUTICO                                                                                 ,6515
+11942,CALÇADO TERAPÊUTICO                                                                                 ,6515
+11943,SAPATO MASCULINO                                                                                    ,8430
+11943,SAPATO MASCULINO                                                                                    ,8430
+11943,SAPATO MASCULINO                                                                                    ,8430
+11944,SAPROPTERINA DICLORIDRATO                                                                           ,6505
+11945,SAPONACEO EM PO                                                                                     ,7930
+11946,SAPONACEO EM TABLETE                                                                                ,7930
+11947,PENTANONA                                                                                           ,6810

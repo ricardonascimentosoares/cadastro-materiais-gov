@@ -1,0 +1,501 @@
+codigo,descricao,codigo_classe
+16077,RODÍZIO GIRATÓRIO                                                                                   ,3920
+16078,HASTE ORTOPÉDICA IMPLANTÁVEL                                                                        ,6515
+16079,PAPEL REGISTRO                                                                                      ,6515
+16080,CORTADOR                                                                                            ,7330
+16080,CORTADOR                                                                                            ,7330
+16081,ELEMENTO IMPRESSÃO MÁQUINA ESCREVER                                                                 ,7510
+16082,MESA REFEITÓRIO                                                                                     ,7195
+16082,MESA REFEITÓRIO                                                                                     ,7195
+16082,MESA REFEITÓRIO                                                                                     ,7195
+16082,MESA REFEITÓRIO                                                                                     ,7195
+16082,MESA REFEITÓRIO                                                                                     ,7195
+16082,MESA REFEITÓRIO                                                                                     ,7195
+16083,ESMERILHADEIRA                                                                                      ,5130
+16083,ESMERILHADEIRA                                                                                      ,5130
+16083,ESMERILHADEIRA                                                                                      ,5130
+16083,ESMERILHADEIRA                                                                                      ,5130
+16083,ESMERILHADEIRA                                                                                      ,5130
+16084,MARTELO PERFURADOR                                                                                  ,5130
+16085,ESTAÇÃO LIMPEZA TANQUE                                                                              ,8145
+16085,ESTAÇÃO LIMPEZA TANQUE                                                                              ,8145
+16086,SUPLEMENTO NUTRICIONAL.                                                                             ,8940
+16087,TANQUE AGITADOR                                                                                     ,8145
+16088,SUPORTE SACO HAMPER                                                                                 ,6530
+16089,MANGUEIRA EXTINTOR INCÊNDIO                                                                         ,4210
+16090,VÁLVULA EXTINTOR INCÊNDIO                                                                           ,4210
+16090,VÁLVULA EXTINTOR INCÊNDIO                                                                           ,4210
+16091,PUNHO EXTINTOR INCÊNDIO                                                                             ,4210
+16092,DIFUSOR EXTINTOR INCÊNDIO                                                                           ,4210
+16093,MANÔMETRO EXTINTOR INCÊNDIO                                                                         ,4210
+16094,TRANSFORMADOR SAÍDA HORIZONTAL                                                                      ,7060
+16095,HIDROCLOROTIAZIDA                                                                                   ,6810
+16096,CONJUNTO BROCA ODONTOLÓGICA                                                                         ,6520
+16097,DIAZEPAM                                                                                            ,6810
+16098,CARBAMAZEPINA                                                                                       ,6810
+16099,ALBENDAZOL                                                                                          ,6810
+16100,ANTIPIRINA (FENAZONA)                                                                               ,6810
+16101,BENZOATO DE SÓDIO                                                                                   ,6810
+16102,MÓDULO IMPRESSÃO                                                                                    ,7070
+16103,RÉGUA DE ESCALA                                                                                     ,6675
+16103,RÉGUA DE ESCALA                                                                                     ,6675
+16104,AMITRIPTILINA                                                                                       ,6810
+16105,METILPARABENO (4-HIDROXIBENZOATO DE METILA)                                                         ,6810
+16106,MANETE PARA MÁQUINA COPIADORA                                                                       ,3610
+16107,MEMBRANA SUBSTITUIÇÃO DURA-MÁTER                                                                    ,6515
+16108,MEMBRANA REFORÇO TECIDOS                                                                            ,6515
+16109,ESTOJO LIMPEZA ARMAMENTO                                                                            ,1095
+16109,ESTOJO LIMPEZA ARMAMENTO                                                                            ,1095
+16110,MANGA INCUBADORA                                                                                    ,6530
+16111,OBRÉIA                                                                                              ,6910
+16112,SERRA-FITA                                                                                          ,3449
+16113,TETRACAÍNA                                                                                          ,6810
+16114,CONJUNTO RECONSTRUÇÃO LIGAMENTO (VER BR0287125)                                                     ,6515
+16115,BUCHA FIXAÇÃO                                                                                       ,5805
+16116,ÓXIDO DE BORO                                                                                       ,6810
+16117,EXTENSÃO ÓPTICA                                                                                     ,6015
+16117,EXTENSÃO ÓPTICA                                                                                     ,6015
+16118,CHUPETA ESMERILHADORA                                                                               ,5120
+16119,PLUGUE PROLONGADOR                                                                                  ,5935
+16120,CONJUNTO TREFINAS                                                                                   ,6515
+16121,SISTEMA CIRCUITO FECHADO TV                                                                         ,6350
+16122,REDE CONTROLE ACESSO                                                                                ,6350
+16123,LEITORA CARTÃO PROXIMIDADE                                                                          ,6350
+16124,CARTÃO PROXIMIDADE VEÍCULO ATIVO                                                                    ,6350
+16125,CILINDRO LEITOR COPIADOR                                                                            ,7070
+16126,CHUMBO TETRAETILA                                                                                   ,6810
+16127,BATERIA TELEFONE                                                                                    ,6140
+16128,CONDICIONADOR METAIS                                                                                ,9150
+16129,TUBO SILICONE                                                                                       ,6640
+16130,SUPORTE MICROTUBO                                                                                   ,6640
+16131,TUBO CENTRÍFUGA                                                                                     ,6640
+16132,BANDEJA ODONTOLÓGICA                                                                                ,6520
+16133,SILICONE                                                                                            ,7930
+16134,COLEÇÃO PESOS PADRÃO                                                                                ,6670
+16134,COLEÇÃO PESOS PADRÃO                                                                                ,6670
+16135,FITA PARA ACABAMENTO EM PISOS/CARPETES                                                              ,7220
+16136,MEDIDOR BANCADA                                                                                     ,6630
+16136,MEDIDOR BANCADA                                                                                     ,6630
+16137,RECIPIENTE LIXO PERFUROCORTANTE                                                                     ,6530
+16138,PAPEL FILTRO QUALITATIVO                                                                            ,6640
+16139,IODETO DE POTÁSSIO                                                                                  ,6810
+16140,DISCO COMPACTO CARD                                                                                 ,7090
+16141,IMÃ                                                                                                 ,9999
+16142,SUPLEMENTO ALIMENTAR                                                                                ,8940
+16143,LAURIL ÉTER SULFOSUCCINATO DE SÓDIO                                                                 ,6810
+16144,Pneu Carrinho Mão                                                                                   ,2610
+16145,PNEU CARRINHO MÃO                                                                                   ,2610
+16145,PNEU CARRINHO MÃO                                                                                   ,2610
+16146,LAMINADOR ELÉTRICO                                                                                  ,3422
+16147,FENTANILA                                                                                           ,6810
+16148,CLORETO DE TRICICLOHEXILA                                                                           ,6810
+16149,LÂMPADA XENOPHOT                                                                                    ,6240
+16150,IODOFÓRMIO                                                                                          ,6810
+16151,MENTONEIRA                                                                                          ,6520
+16152,TAMPA COPO                                                                                          ,7350
+16153,SOLUÇÕES - USO ODONTOLÓGICO                                                                         ,6520
+16154,PAPEL ESTERLIZAÇÃO                                                                                  ,6640
+16155,AREJADOR PARA TORNEIRA                                                                              ,4510
+16156,TRIBUTIL FOSFATO                                                                                    ,6810
+16157,TRAVA FELTRO BLOCO MAGNETO                                                                          ,2925
+16158,PATCH PANEL                                                                                         ,7050
+16159,OLEATO DE METILA                                                                                    ,6810
+16160,NITRATO DE PRATA                                                                                    ,6810
+16161,NITRATO DE BISMUTO                                                                                  ,6810
+16162,DISSULFIRAM                                                                                         ,6505
+16163,P-FENILENODIAMINA                                                                                   ,6810
+16163,P-FENILENODIAMINA                                                                                   ,6810
+16164,PROTETOR ASSENTO SANITÁRIO                                                                          ,8540
+16165,EIXO BICICLETA                                                                                      ,2530
+16166,CORRENTE BICICLETA                                                                                  ,2530
+16167,CATRACA BICICLETA                                                                                   ,2530
+16168,PEDAL BICICLETA                                                                                     ,2530
+16169,GERENCIADOR IMAGEM                                                                                  ,6350
+16170,CONJUNTO PARA EMBOLIZAÇÃO                                                                           ,6505
+16171,PNEUMOTONÔMETRO                                                                                     ,6540
+16172,FLUIDO HIDRÁULICO                                                                                   ,9150
+16173,SISTEMA CPAP                                                                                        ,6515
+16174,DEPÓSITO PLÁSTICO                                                                                   ,7240
+16175,P0RCA PARAFUSO CARTER                                                                               ,2995
+16176,PORCA PARAFUSO CARTER                                                                               ,2995
+16177,ADAPTADOR BANDAS ORTODÔNTICAS                                                                       ,6520
+16178,ACETILACETONATO DE FERRO                                                                            ,6810
+16179,TESTA TRITICUM                                                                                      ,6505
+16180,CABO-ELETRODO                                                                                       ,6515
+16180,CABO-ELETRODO                                                                                       ,6515
+16181,VÁLVULA BAIXA PRESSÃO                                                                               ,6685
+16182,MÓDULO DIMMER                                                                                       ,5830
+16183,COIFA LABORATÓRIO                                                                                   ,6640
+16184,BIOINDICADOR                                                                                        ,6640
+16185,DEXPANTENOL                                                                                         ,6505
+16186,PIPERIDOLATO CLORIDRATO                                                                             ,6505
+16187,BITARTARATO DE COLINA                                                                               ,6810
+16188,RESIDRONATO SÓDICO (BUSQUE EM RISEDRONATO)                                                          ,6505
+16189,CORDA ELÁSTICA                                                                                      ,7810
+16190,ANILHA                                                                                              ,7810
+16191,HOME THEATER                                                                                        ,7730
+16191,HOME THEATER                                                                                        ,7730
+16192,REPARO TORNEIRA                                                                                     ,4510
+16192,REPARO TORNEIRA                                                                                     ,4510
+16192,REPARO TORNEIRA                                                                                     ,4510
+16192,REPARO TORNEIRA                                                                                     ,4510
+16193,DETECTOR VEÍCULO                                                                                    ,6350
+16194,PROLONGADOR PARAFUSO                                                                                ,5305
+16194,PROLONGADOR PARAFUSO                                                                                ,5305
+16195,ESTEIRA CAIXA CLARA                                                                                 ,7720
+16196,PONTA IRRIGAÇÃO                                                                                     ,4730
+16197,CANO COBRE                                                                                          ,4710
+16198,BORRACHA PORTA GELADEIRA                                                                            ,4110
+16199,TELA PARA AVIÁRIO                                                                                   ,5660
+16200,REPARO EXTINTOR                                                                                     ,4210
+16201,CORREIA MOTOR VENTILADOR                                                                            ,4140
+16202,LÁPIS MOTORIZAÇÃO                                                                                   ,5130
+16202,LÁPIS MOTORIZAÇÃO                                                                                   ,5130
+16203,TRENA ELETRÔNICA                                                                                    ,5210
+16204,TERPINEOL                                                                                           ,6810
+16205,BUCHA FIXAÇÃO ACESSÓRIO                                                                             ,6350
+16206,MESA SUPORTE GABINETE ODONTOLOGICO                                                                  ,6520
+16207,LOXOPROFENO SÓDICO                                                                                  ,6505
+16208,PIRVÍNIO                                                                                            ,6505
+16209,NORMETANDRONA + METILESTRADIOL                                                                      ,6505
+16210,FENTICONAZOL NITRATO                                                                                ,6505
+16211,GRAMPEADOR PNEUMÁTICO                                                                               ,3695
+16212,RESERVATÓRIO DE SUCÇÃO                                                                              ,6515
+16213,INJETOR                                                                                             ,6515
+16213,INJETOR                                                                                             ,6515
+16213,INJETOR                                                                                             ,6515
+16214,CABEÇOTE REFLETOR - USO ODONTOLÓGICO                                                                ,6520
+16215,JANELA AERONAVE                                                                                     ,1680
+16216,SANFONA VÁLVULA REGULADORA EXAUSTÃO                                                                 ,4460
+16217,MARTELO                                                                                             ,6515
+16218,ESTATOR                                                                                             ,4320
+16219,LENTE RETROPROJETOR                                                                                 ,6730
+16220,SEPARADOR CAVIDADE                                                                                  ,6520
+16221,ACABAMENTO PARA VÁLVULA HIDRÁULICA                                                                  ,4510
+16221,ACABAMENTO PARA VÁLVULA HIDRÁULICA                                                                  ,4510
+16221,ACABAMENTO PARA VÁLVULA HIDRÁULICA                                                                  ,4510
+16222,ALÇA METAL NÃO FERROSO                                                                              ,9535
+16223,ARCO EXTRA ORAL                                                                                     ,6520
+16224,PÁRA-BRISA                                                                                          ,1680
+16225,COMPONENTES DIVERSOS DE VEÍCULOS                                                                    ,2590
+16226,CALÇO ESCAPAMENTO VEÍCULO                                                                           ,2590
+16227,GUARNIÇÃO                                                                                           ,5330
+16227,GUARNIÇÃO                                                                                           ,5330
+16227,GUARNIÇÃO                                                                                           ,5330
+16228,BARBEXACLONA                                                                                        ,6505
+16229,BANCO SUECO                                                                                         ,7830
+16230,ESPESSANTE QUÍMICO                                                                                  ,6850
+16231,FENILSELENILA                                                                                       ,6810
+16232,SACA-POLIA                                                                                          ,5120
+16232,SACA-POLIA                                                                                          ,5120
+16233,GUIA CATETER                                                                                        ,6515
+16234,FENILETILAMINA                                                                                      ,6810
+16235,PRENSA BLOCAGEM                                                                                     ,3610
+16236,SISTEMA MULTIUSO CIMENTAÇÃO                                                                         ,6520
+16237,VÁLVULA CONTROLE PORTA                                                                              ,2510
+16238,VÁLVULA FREIO ESTACIONAMENTO                                                                        ,2530
+16239,VÁLVULA RETENÇÃO MOLA ESTACIONAMENTO                                                                ,2530
+16240,PINENO                                                                                              ,6810
+16241,MANTA TÉRMICA*                                                                                      ,6532
+16242,TIOACETAMIDA  (TAA)                                                                                 ,6810
+16243,NISTATINA + METRONIZADOL + CLORETO BENZALCÔNIO                                                      ,6505
+16244,TAMPA NOTEBOOK                                                                                      ,7060
+16245,CHAVE SELETORA                                                                                      ,2590
+16246,PRESILHA VEÍCULO AUTOMOTIVO                                                                         ,2540
+16246,PRESILHA VEÍCULO AUTOMOTIVO                                                                         ,2540
+16247,HASTE GUIA                                                                                          ,2510
+16248,CABO APARELHO ELETRÔNICO                                                                            ,7730
+16249,TANQUE METEOROLÓGICO                                                                                ,6660
+16250,4-AMINOANTIPIRINA (4-AA)                                                                            ,6810
+16251,ELETRÓLITO                                                                                          ,6640
+16252,FURADEIRA INDUSTRIAL                                                                                ,5130
+16253,SELETOR / DISTRIBUIDOR VÍDEO                                                                        ,5895
+16253,SELETOR / DISTRIBUIDOR VÍDEO                                                                        ,5895
+16253,SELETOR / DISTRIBUIDOR VÍDEO                                                                        ,5895
+16253,SELETOR / DISTRIBUIDOR VÍDEO                                                                        ,5895
+16254,ELETRODO.                                                                                           ,6640
+16255,VÁLVULA QUATRO VIAS                                                                                 ,2990
+16256,TRAVA ROLAMENTO                                                                                     ,2530
+16257,VASSOURA JARDINAGEM                                                                                 ,3750
+16258,ÓXIDO DE VANÁDIO                                                                                    ,6810
+16259,BALANCIM                                                                                            ,9999
+16260,RETICULO CONTAGEM LINHA                                                                             ,1240
+16261,PEÇAS E COMPONENTES DA CARENAGEM AERONAVES                                                          ,1680
+16262,PROJETIL E COMPONENTES MUNIÇÃO ATÉ 30MM                                                             ,1305
+16263,VELAME EMBARCAÇÃO                                                                                   ,2010
+16264,VAGÃO ABERTO                                                                                        ,2220
+16265,AGULHA LEITO RODOVIA                                                                                ,2230
+16266,ENZALUTAMIDA                                                                                        ,6505
+16267,SOLUÇÃO DE GLICOSE                                                                                  ,6505
+16268,SOLUÇÃO DE P.V.P.I.                                                                                 ,6505
+16269,TANQUE COMBUSTÍVEL                                                                                  ,2910
+16269,TANQUE COMBUSTÍVEL                                                                                  ,2910
+16270,CONVERSOR CABO COAXIAL                                                                              ,5963
+16271,TESTADOR ELETRÔNICO CARTUCHO                                                                        ,7070
+16272,TORNO HORIZONTAL                                                                                    ,3416
+16272,TORNO HORIZONTAL                                                                                    ,3416
+16272,TORNO HORIZONTAL                                                                                    ,3416
+16273,BLOCO RECIBO ENTREGA - RE                                                                           ,7540
+16274,MANCAL LINEAR FECHADO                                                                               ,3120
+16275,CONJUNTO CIRÚRGICO                                                                                  ,6515
+16275,CONJUNTO CIRÚRGICO                                                                                  ,6515
+16276,SUSPENSÃO VEÍCULO AUTOMOTIVO - AMORTECEDOR                                                          ,2510
+16277,TRAVESSA TETO VEÍCULO AUTOMOTIVO                                                                    ,2510
+16278,ÁCIDO 2-TIOFÊNICOCARBOXÍLICO HIDRAZIDA                                                              ,6810
+16278,ÁCIDO 2-TIOFÊNICOCARBOXÍLICO HIDRAZIDA                                                              ,6810
+16279,COROA ENGRENAGEM BICICLETA                                                                          ,2530
+16280,SUPORTE PEDAL - VEÍCULO AUTOMOTIVO                                                                  ,2530
+16281,ESCOVA DEGERMAÇÃO                                                                                   ,6515
+16282,SACCHAROMYCES CEREVISIAE                                                                            ,6505
+16283,MANIVELA COMPONENTE AUTOMOTIVO                                                                      ,2990
+16284,MÁQUINA REABASTECIMENTO CARTUCHO IMPRESSORA                                                         ,3540
+16285,PORTA VAI-VEM                                                                                       ,5520
+16286,MESA ELÉTRICA  (CONSULTAR INC 09639)                                                                ,6540
+16287,CONJUNTO PARA UROSTOMIA                                                                             ,6515
+16288,CAIXA TRANSMISSÃO ROÇADEIRA                                                                         ,3750
+16289,CAVE BIELA                                                                                          ,5120
+16290,CHAVE CANO                                                                                          ,5120
+16290,CHAVE CANO                                                                                          ,5120
+16291,CARBOXIMALTOSE FÉRRICA                                                                              ,6505
+16292,CLOROPLATINATO DE POTÁSSIO                                                                          ,6810
+16293,TUBO NÍVEL ÁGUA MOTOR GASOLINA                                                                      ,2805
+16294,EIXO MANIVELA - MOTOR DIESEL                                                                        ,2815
+16295,CORREIA ALTERNADOR                                                                                  ,2920
+16295,CORREIA ALTERNADOR                                                                                  ,2920
+16295,CORREIA ALTERNADOR                                                                                  ,2920
+16295,CORREIA ALTERNADOR                                                                                  ,2920
+16296,ESTOJO PRISIONEIRO CUBO RODA                                                                        ,2530
+16297,TUBO SISTEMA EMBREAGEM                                                                              ,2520
+16298,BANDEJA FOTOCOPIADORA                                                                               ,7070
+16299,PEÇA / COMPONENTE BOMBA INJETORA                                                                    ,2910
+16299,PEÇA / COMPONENTE BOMBA INJETORA                                                                    ,2910
+16299,PEÇA / COMPONENTE BOMBA INJETORA                                                                    ,2910
+16299,PEÇA / COMPONENTE BOMBA INJETORA                                                                    ,2910
+16299,PEÇA / COMPONENTE BOMBA INJETORA                                                                    ,2910
+16299,PEÇA / COMPONENTE BOMBA INJETORA                                                                    ,2910
+16299,PEÇA / COMPONENTE BOMBA INJETORA                                                                    ,2910
+16299,PEÇA / COMPONENTE BOMBA INJETORA                                                                    ,2910
+16300,COMPONENTES E ACESSÓRIOS  SISTEMA PARTIDA FRIA                                                      ,2910
+16301,COMPONENTE SISTEMA ALIMENTAÇÃO                                                                      ,2910
+16302,TUBO INJEÇÃO BOMBA ACELERAÇÃO AUTOMOTIVA                                                            ,2910
+16303,LERCANIDIPINO                                                                                       ,6505
+16304,PEÇAS/COMPONENTES SISTEMA ALIMENTAÇÃO COMBUSTÍVEL                                                   ,2915
+16305,COMPONENTES E ACESSÓRIOS ELETROELETRÔNICOS                                                          ,2920
+16306,COMPONENTES/ACESSÓRIOS SISTEMA ELÉTRICO AERONAVES                                                   ,2925
+16307,RADIADOR E COMPONENTES - VEÍCULO AUTOMOTIVO                                                         ,2930
+16308,ACESSÓRIO FILTRO COMBUSTÍVEL                                                                        ,2910
+16309,COMPONENTES E ACESSÓRIOS ESCAPAMENTO AUTOMOTIVO                                                     ,2990
+16310,RETENTOR E DEMAIS COMPONENTES MOTOR                                                                 ,2990
+16311,CABO DIREÇÃO/ACELERAÇÃO/REVERSÃO-EMBARCAÇÃO                                                         ,2530
+16312,PRENDEDOR SUTURA                                                                                    ,6510
+16313,MANGUEIRA ASPIRAÇÃO                                                                                 ,4720
+16313,MANGUEIRA ASPIRAÇÃO                                                                                 ,4720
+16314,MOTOR TRATOR PODADOR                                                                                ,3750
+16315,CADEIRA SOBRE LONGARINA                                                                             ,7110
+16315,CADEIRA SOBRE LONGARINA                                                                             ,7110
+16315,CADEIRA SOBRE LONGARINA                                                                             ,7110
+16316,REPARO FOTOCOPIADORA                                                                                ,7070
+16317,PASTA PERIOSTOMAL                                                                                   ,6515
+16318,POÇO TRANQÜILIZADOR                                                                                 ,6660
+16319,PENETRADOR METALOGRÁFICO                                                                            ,6640
+16320,VANÁDIO                                                                                             ,6810
+16321,TRIMETILCLOROSILANO                                                                                 ,6810
+16322,MESA PLÁSTICA                                                                                       ,7105
+16322,MESA PLÁSTICA                                                                                       ,7105
+16323,SIMEPREVIR                                                                                          ,6505
+16324,TRIETILAMINA                                                                                        ,6810
+16325,ADIPÔMETRO                                                                                          ,6515
+16326,DAPAGLIFLOZINA                                                                                      ,6505
+16326,DAPAGLIFLOZINA                                                                                      ,6505
+16327,RECARREGADOR BATERIA                                                                                ,6140
+16328,BOLSA TRANSPORTE                                                                                    ,8105
+16328,BOLSA TRANSPORTE                                                                                    ,8105
+16328,BOLSA TRANSPORTE                                                                                    ,8105
+16328,BOLSA TRANSPORTE                                                                                    ,8105
+16328,BOLSA TRANSPORTE                                                                                    ,8105
+16328,BOLSA TRANSPORTE                                                                                    ,8105
+16329,ENDARSECTOR                                                                                         ,6515
+16330,VERALIPIDA                                                                                          ,6505
+16331,4-(DIMETIL)AMINOPIRIDINA  (DMAP)                                                                    ,6810
+16332,ASENAPINA MALEATO                                                                                   ,6505
+16333,LUPA MEDIÇÃO                                                                                        ,5210
+16334,VALERONATO DE BETAMETASONA/SULFATO DE GENTAMICINA                                                   ,6505
+16335,CLORETO DE ISOPROPILA                                                                               ,6810
+16336,VITAMINA D3 + VITAMINA A                                                                            ,6505
+16337,DIETILDITIOCARBAMATO DE SÓDIO                                                                       ,6810
+16338,REVESTIMENTO TEXTURA                                                                                ,8010
+16339,SUPLEMENTO MICROPLASMA                                                                              ,6550
+16340,NORFLOXACINO                                                                                        ,6505
+16341,D-GALACTOPIRANOSÍDEO                                                                                ,6810
+16342,ENZIMAS PANCREÁTICAS                                                                                ,6505
+16343,DIETILPIROCARBONATO (DEPC)                                                                          ,6810
+16344,ÓXIDO DE ZINCO                                                                                      ,6505
+16344,ÓXIDO DE ZINCO                                                                                      ,6505
+16345,TANQUE PRESSURIZAÇÃO                                                                                ,6636
+16345,TANQUE PRESSURIZAÇÃO                                                                                ,6636
+16345,TANQUE PRESSURIZAÇÃO                                                                                ,6636
+16346,SUPORTE TANQUE PRESSURIZAÇÃO                                                                        ,3920
+16347,COLECALCIFEROL + RETINOL                                                                            ,6505
+16348,QUADRO                                                                                              ,7195
+16348,QUADRO                                                                                              ,7195
+16348,QUADRO                                                                                              ,7195
+16348,QUADRO                                                                                              ,7195
+16348,QUADRO                                                                                              ,7195
+16348,QUADRO                                                                                              ,7195
+16348,QUADRO                                                                                              ,7195
+16349,TRAPIDIL                                                                                            ,6810
+16350,ERGOTAMINA TARTARATO                                                                                ,6505
+16351,"ÁCIDO 3-AMINO-2,3-DIIDROBENZÓICO                                                                    ",6810
+16352,RUFINAMIDA                                                                                          ,6505
+16353,TRIMETAZIDINA DICLORIDRATO                                                                          ,6505
+16354,GUARNIÇÃO ESTRIBO                                                                                   ,2540
+16355,PEPTONA DE SOJA                                                                                     ,6550
+16356,MEIOS DE CULTURA                                                                                    ,6550
+16357,FITA MÁQUINA PROTOCOLADORA                                                                          ,7510
+16358,CHAVEIRO LASER PROFISSIONAL                                                                         ,5340
+16359,PRENDEDOR ODONTOLÓGICO GUARDANAPO                                                                   ,6520
+16360,PIRIBEDIL                                                                                           ,6505
+16361,FEBENDAZOL                                                                                          ,6509
+16361,FEBENDAZOL                                                                                          ,6509
+16362,SOLUÇÃO                                                                                             ,6550
+16362,SOLUÇÃO                                                                                             ,6550
+16363,CUBETA LABORATÓRIO                                                                                  ,6640
+16363,CUBETA LABORATÓRIO                                                                                  ,6640
+16364,CAMPO CIRÚRGICO 1                                                                                   ,6510
+16364,CAMPO CIRÚRGICO                                                                                     ,6510
+16364,CAMPO CIRÚRGICO                                                                                     ,6510
+16364,CAMPO CIRÚRGICO                                                                                     ,6510
+16364,CAMPO CIRÚRGICO 1                                                                                   ,6510
+16365,CONTADOR DE CÉLULAS                                                                                 ,6640
+16366,CD GRAVADO                                                                                          ,7025
+16367,3-AMINOBENZONITRILA                                                                                 ,6810
+16368,SISTEMA FIBRAS                                                                                      ,6520
+16369,TIRA ABRASIVA - USO ODONTOLÓGICO                                                                    ,6520
+16369,TIRA ABRASIVA - USO ODONTOLÓGICO                                                                    ,6520
+16370,IODO                                                                                                ,6810
+16371,PAD BOLSO                                                                                           ,7040
+16372,CARTÃO SPEED                                                                                        ,7530
+16373,BOTA DE UNNA                                                                                        ,6510
+16374,PLACA PERIFÉRICA                                                                                    ,7060
+16375,TENSIÔMETRO                                                                                         ,6515
+16376,PINÇA ENXERTO                                                                                       ,6515
+16377,PARTICULADOR ÓSSEO                                                                                  ,6515
+16378,PENEIRA FRITURA                                                                                     ,7330
+16379,TABULEIRO COZINHA                                                                                   ,7330
+16380,APARELHO PARAMÉTRICO                                                                                ,6685
+16381,PRÓTESE QUADRIL                                                                                     ,6515
+16382,PLACA ADAPTADORA                                                                                    ,7080
+16383,CARTÃO ADAPTADOR                                                                                    ,7080
+16384,REEMBASADOR RESILIENTE                                                                              ,6520
+16385,SISTEMA AQUECIMENTO AR                                                                              ,4520
+16386,"""SOFTWARE RECONHECIMENTO VOZ""                                                                       ",7099
+16387,COPOLÍMERO POLIETILENOGLICOL-POLIPROPILENOGLICOL                                                    ,6850
+16388,CENTRAL MONITORAMENTO                                                                               ,6350
+16388,CENTRAL MONITORAMENTO                                                                               ,6350
+16389,ÁCIDOS GRAXOS POLIINSATURADOS DE ORIGEM MARINHA                                                     ,6505
+16390,REGISTRO DE AR                                                                                      ,4510
+16391,PEDRA POROSA                                                                                        ,5610
+16391,PEDRA POROSA                                                                                        ,5610
+16392,PAPEL NÃO CLORADO                                                                                   ,7510
+16393,ANALISADOR QUALIDADE                                                                                ,6625
+16394,ROSCA POSTIÇA                                                                                       ,2990
+16395,BARREIRA INFRAVERMELHA                                                                              ,3960
+16396,TRACIONADOR                                                                                         ,6520
+16397,ADESIVO ESTRUTURAL                                                                                  ,5680
+16397,ADESIVO ESTRUTURAL                                                                                  ,5680
+16398,BUTORFANOL TARTARATO                                                                                ,6509
+16399,CAIXA MEDIÇÃO                                                                                       ,5975
+16400,MEDIDOR NÍVEL CAPACITIVO                                                                            ,6680
+16401,SUPORTE FIBRA / PANO                                                                                ,7920
+16402,SISTEMA DISTRAÇÃO OMBRO                                                                             ,6515
+16403,VÁLVULA DESCARGA                                                                                    ,4510
+16403,VÁLVULA DESCARGA                                                                                    ,4510
+16403,VÁLVULA DESCARGA                                                                                    ,4510
+16404,SUPORTE ADAPTAÇÃO TRIPÉ                                                                             ,6760
+16404,SUPORTE ADAPTAÇÃO TRIPÉ                                                                             ,6760
+16405,CLOROFENOL                                                                                          ,6810
+16406,TESTE OFTALMOLÓGICO                                                                                 ,6540
+16407,BALCÃO TALHERES                                                                                     ,7125
+16408,CONJUNTO CURETA PERIODONTAL                                                                         ,6520
+16409,MÁQUINA LAVAR LOUÇAS                                                                                ,3510
+16410,INSTRUMENTAL IMPLANTODONTIA                                                                         ,6520
+16411,CARCAÇA ANIMAL                                                                                      ,8820
+16412,CONJUNTO IMPLANTE                                                                                   ,6520
+16413,PAPEL DUPLO OFÍCIO                                                                                  ,7540
+16414,CONJUNTO CIRÚRGICO                                                                                  ,6515
+16415,FONTE ESTAÇÃO TRABALHO                                                                              ,7060
+16416,REDE PUÇÁ                                                                                           ,7810
+16417,"""CAMARÃO""                                                                                           ",8905
+16418,"""CAMARÃO SECO""                                                                                      ",8905
+16419,MÁSCARA CONTRA AGENTES BIOLÓGICOS                                                                   ,4240
+16420,REQUADRO                                                                                            ,5670
+16421,PARAFORMALDEÍDO                                                                                     ,6810
+16422,EQUIPAMENTO MULTIUSO COZINHA                                                                        ,7310
+16422,EQUIPAMENTO MULTIUSO COZINHA                                                                        ,7310
+16422,EQUIPAMENTO MULTIUSO COZINHA                                                                        ,7310
+16423,CONJUNTO ANESTESIA BARAKA                                                                           ,6515
+16424,APLICADOR ETIQUETAS CD / DVD                                                                        ,7510
+16425,CRIPTOXANTINA                                                                                       ,6810
+16426,VEÍCULO TRANSPORTE CARGA                                                                            ,2320
+16427,SULFATO DE ALUMÍNIO E POTÁSSIO                                                                      ,6810
+16428,BLUSA UNIFORME                                                                                      ,8410
+16428,BLUSA UNIFORME                                                                                      ,8410
+16429,PANELA CUSCUZ                                                                                       ,7330
+16430,CONJUNTO IMPLANTODONTIA                                                                             ,6520
+16431,"""SOFTWARE APLICATIVO""                                                                               ",7099
+16432,PNEU EMPILHADEIRA / CARREGADEIRA                                                                    ,2610
+16432,PNEU EMPILHADEIRA / CARREGADEIRA                                                                    ,2610
+16433,FRENTE PLÁSTICA                                                                                     ,4130
+16434,GAXETA MANCAL MOTOR VEÍCULO                                                                         ,5330
+16435,FUNDO NIVELADOR                                                                                     ,8030
+16436,METRONIZADOL                                                                                        ,6810
+16437,JOGO DE PERIÓTOMOS                                                                                  ,6520
+16438,PAPEL DUPLO CARTA                                                                                   ,7540
+16439,VERMELHO DE FENOL                                                                                   ,6810
+16440,"ÁCIDO 3,5-DINITROSALICÍLICO                                                                         ",6810
+16441,"1,4-BENZENODIMETANOL                                                                                ",6810
+16442,DOXAPRAM CLORIDRATO                                                                                 ,6509
+16443,ÁCIDO MANDÉLICO                                                                                     ,6810
+16444,ÁCIDO FURÓICO                                                                                       ,6810
+16445,ETILNITROSURÉIA                                                                                     ,6810
+16446,INDENO                                                                                              ,6810
+16447,MIO-INOSITOL                                                                                        ,6505
+16448,METABISSULFITO DE POTÁSSIO                                                                          ,6810
+16449,ESPONJA FLORAL                                                                                      ,8730
+16450,CONJUNTO PARA CONIOTOMIA                                                                            ,6515
+16451,RESERVATÓRIO OMAYA                                                                                  ,6515
+16452,CARTUCHO TINTA IMPRESSORA CITIZEN                                                                   ,7090
+16453,CARDIOLITE                                                                                          ,6505
+16454,GAVETEIRO FIXO                                                                                      ,7110
+16454,GAVETEIRO FIXO                                                                                      ,7110
+16455,THIDIAZURON                                                                                         ,6550
+16456,PICLORAM                                                                                            ,6840
+16457,GAIOLA                                                                                              ,3770
+16457,GAIOLA                                                                                              ,3770
+16457,GAIOLA                                                                                              ,3770
+16458,DODECANO                                                                                            ,6810
+16459,MÁSCARA RESPIRATÓRIA                                                                                ,6515
+16460,CANETA GRAVADORA                                                                                    ,5130
+16461,ZUCLOPENTIXOL                                                                                       ,6505
+16462,CONJUNTO ELETRODO                                                                                   ,6515
+16463,MÁQUINA PICADEIRA ENSILADEIRA                                                                       ,3710
+16463,MÁQUINA PICADEIRA ENSILADEIRA                                                                       ,3710
+16464,MESA PARA AUDITÓRIO                                                                                 ,7195
+16465,BANCADA EQUIPAMENTO ELETRÔNICO                                                                      ,7195
+16466,ACESSÓRIO MOBILIÁRIO HOSPITALAR                                                                     ,6530
+16467,CARTÃO FREQUÊNCIA                                                                                   ,7540
+16468,MICROSCÓPIO METALOGRÁFICO                                                                           ,6640
+16469,ESCULINA                                                                                            ,6810
+16470,RAFINOSE                                                                                            ,6810
+16471,ALANTOÍNA                                                                                           ,6810
+16472,CABO COBRE                                                                                          ,6145
+16473,CABO ALUMÍNIO                                                                                       ,6145
+16474,SUPORTE FIXAÇÃO SERRA COPO                                                                          ,5340
+16475,HEMISSUCCINATO SÓDICO DE CLORAFENICOL                                                               ,6505
+16476,DEXRAZOXANO                                                                                         ,6505
+16477,FLUORETO DE POTÁSSIO                                                                                ,6810
+16478,DETOMIDINA CLORIDRATO                                                                               ,6509
+16479,MINI DISCO                                                                                          ,7740
+16480,CONJUNTO SALADEIRA                                                                                  ,7350
+16481,BUPIVACAÍNA CLORIDRATO + EPINEFRINA                                                                 ,6505
+16482,BUPIVACAÍNA CLORIDRATO + GLICOSE                                                                    ,6505

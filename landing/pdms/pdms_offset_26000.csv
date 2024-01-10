@@ -1,0 +1,364 @@
+codigo,descricao,codigo_classe
+19967,VITAMINA B12                                                                                        ,6505
+19967,VITAMINA B12                                                                                        ,6505
+19967,VITAMINA B12                                                                                        ,6505
+19968,ETÓXIDO                                                                                             ,6810
+19968,ETÓXIDO                                                                                             ,6810
+30001,ORBIFLOXACINO                                                                                       ,6509
+30002,DEUTETRABENAZINA                                                                                    ,6505
+30003,VITAMINA E                                                                                          ,6509
+30005,TEPOTINIBE                                                                                          ,6505
+30006,MIFAMURTIDA                                                                                         ,6505
+30007,ZANUBRUTINIBE                                                                                       ,6505
+30008,VOLANESORSENA                                                                                       ,6505
+30009,RAMELTEONA                                                                                          ,6505
+30010,LUMASIRANA                                                                                          ,6505
+30011,MIFAMURTIDA                                                                                         ,6505
+30011,MIFAMURTIDA                                                                                         ,6505
+30012,MOXETUMOMABE                                                                                        ,6505
+30012,MOXETUMOMABE                                                                                        ,6505
+30014,MIRTAZAPINA                                                                                         ,6509
+30016,GOLODIRSEN                                                                                          ,6505
+30017,MATERIAL P/ TERAPIA PRESSÃO SUBATMOSFÉRICA  / A VÁCUO                                               ,6510
+30017,MATERIAL P/ TERAPIA PRESSÃO SUBATMOSFÉRICA - VÁCUO                                                  ,6510
+30018,RUGINA USO MÉDICO                                                                                   ,6515
+30019,DESCOLADOR USO MÉDICO                                                                               ,6515
+30019,DESCOLADOR / DISSECTOR USO MÉDICO                                                                   ,6515
+30020,ANÁLOGO SINTÉTICO DO ODOR FACIAL FELINO                                                             ,6509
+30021,PELÍCULA PROTETORA                                                                                  ,6510
+30022,CURATIVO / COBERTURA                                                                                ,6510
+30022,CURATIVO / COBERTURA                                                                                ,6510
+30023,AMIVANTAMABE                                                                                        ,6505
+30024,VILAZODONA                                                                                          ,6505
+30025,XILOMETAZOLINA                                                                                      ,6505
+30026,DINOTEFURAM                                                                                         ,6840
+30027,PROTIOCONAZOL                                                                                       ,6840
+30028,VOSORITIDA                                                                                          ,6505
+30029,MÁSCARA CIRÚRGICA                                                                                   ,6532
+30030,HIDRÓXIDO DE POTÁSSIO                                                                               ,6505
+30031,NIRMATRELVIR                                                                                        ,6505
+30032,MÁSCARA PROTEÇÃO RESP. C/ ANVISA                                                                    ,6532
+30033,CONJUNTO PERFUSÃO ÓRGÃOS                                                                            ,6515
+30033,CONJUNTO PERFUSÃO ÓRGÃOS                                                                            ,6515
+30034,EPTINEZUMABE                                                                                        ,6505
+30035,ALFA AVALGLICOSIDASE                                                                                ,6505
+30036,NERATINIBE                                                                                          ,6505
+30037,VISÃO COMPUTACIONAL USO MÉDICO                                                                      ,6525
+30038,TRANSFLUTRINA                                                                                       ,6840
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30039,INSTRUMENTAL CIRÚRGICO                                                                              ,6515
+30040,FIO DE SUTURA AGULHADO                                                                              ,6515
+30040,FIO DE SUTURA AGULHADO                                                                              ,6515
+30040,FIO DE SUTURA AGULHADO                                                                              ,6515
+30040,FIO DE SUTURA AGULHADO                                                                              ,6515
+30040,FIO DE SUTURA AGULHADO                                                                              ,6515
+30040,FIO DE SUTURA AGULHADO                                                                              ,6515
+30040,FIO DE SUTURA AGULHADO                                                                              ,6515
+30040,FIO DE SUTURA AGULHADO                                                                              ,6515
+30040,FIO DE SUTURA AGULHADO                                                                              ,6515
+30041,MATERIAL ESPECIAL P/ VIDEOCIRURGIA                                                                  ,6515
+30041,MATERIAL ESPECIAL P/ VIDEOCIRURGIA                                                                  ,6515
+30042,DL METIONINA                                                                                        ,6505
+30042,METIONINA                                                                                           ,6505
+30043,AGULHA P/ FIO DE SUTURA                                                                             ,6515
+30043,AGULHA P/ FIO DE SUTURA                                                                             ,6515
+30044,FIO DE SUTURA S/ AGULHA                                                                             ,6515
+30044,FIO DE SUTURA S/ AGULHA                                                                             ,6515
+30044,FIO DE SUTURA S/ AGULHA                                                                             ,6515
+30044,FIO DE SUTURA S/ AGULHA                                                                             ,6515
+30044,FIO DE SUTURA S/ AGULHA                                                                             ,6515
+30045,KIT FIOS DE SUTURA                                                                                  ,6515
+30046,GOIVA USO MÉDICO                                                                                    ,6515
+30046,GOIVA USO MÉDICO                                                                                    ,6515
+30046,GOIVA USO MÉDICO                                                                                    ,6515
+30047,MÁQUINA AUTOTRANSFUSÃO                                                                              ,6515
+30048,OSTEÓTOMO USO MÉDICO                                                                                ,6515
+30048,OSTEÓTOMO USO MÉDICO                                                                                ,6515
+30049,PROTEÍNA C                                                                                          ,6505
+30050,POLATUZUMABE                                                                                        ,6505
+30051,FIO / ELETRODO P/ MARCA-PASSO TEMPORÁRIO EXTERNO                                                    ,6515
+30052,MARCA-PASSO CARDÍACO EXTERNO TEMPORÁRIO                                                             ,6515
+30053,COLCHÃO PIRAMIDAL / CAIXA DE OVO -  HOSPITALAR                                                      ,6530
+30053,COLCHÃO PIRAMIDAL / CAIXA DE OVO -  HOSPITALAR                                                      ,6530
+30053,COLCHÃO PIRAMIDAL / CAIXA DE OVO - HOSPITALAR                                                       ,6530
+30054,MOLNUPIRAVIR                                                                                        ,6505
+30055,FARINHA DE COCO                                                                                     ,8920
+30056,DIODO SUPRESSOR                                                                                     ,5961
+30057,LUSPATERCEPTE                                                                                       ,6505
+30057,LUSPATERCEPTE                                                                                       ,6505
+30058,ANACINRA                                                                                            ,6505
+30059,TEBENTAFUSP                                                                                         ,6505
+30060,TECOVIRIMAT                                                                                         ,6505
+30061,NELARABINA                                                                                          ,6505
+30062,MÁQUINA DE PINTURA                                                                                  ,4940
+30063,AMINOPIRALIDE                                                                                       ,6840
+30064,GRAVADORA DE CHAPAS DIGITAIS                                                                        ,3610
+30065,DAPOXETINA                                                                                          ,6505
+30066,BRODALUMABE                                                                                         ,6505
+30067,DOSTARLIMABE                                                                                        ,6505
+30068,RAVULIZUMABE                                                                                        ,6505
+30068,RAVULIZUMABE                                                                                        ,6505
+30069,ENFORTUMABE                                                                                         ,6505
+30070,SOTORASIBE                                                                                          ,6505
+30071,TALAZOPARIBE                                                                                        ,6505
+30072,EVOGLIPTINA                                                                                         ,6505
+30073,ESCETAMINA                                                                                          ,6505
+30073,ESCETAMINA                                                                                          ,6505
+30074,CARBETOCINA                                                                                         ,6505
+30075,AGULHA ESCLEROTERAPIA VIA ENDOSCÓPICA                                                               ,6515
+30076,AGULHA BIÓPSIA                                                                                      ,6515
+30076,AGULHA BIÓPSIA                                                                                      ,6515
+30076,AGULHA BIÓPSIA                                                                                      ,6515
+30076,AGULHA BIÓPSIA                                                                                      ,6515
+30077,PROBE P/ LITOTRIPSIA                                                                                ,6515
+30078,PAPILÓTOMO                                                                                          ,6515
+30079,ÁLCOOL ALÍLICO                                                                                      ,6810
+30080,MARCADOR DE BIÓPSIA TECIDUAL                                                                        ,6515
+30081,ÁCIDO HIALURÔNICO                                                                                   ,6505
+30082,AGULHA BIÓPSIA VIA ENDOSCÓPICA                                                                      ,6515
+30083,PEGCETACOPLANA                                                                                      ,6505
+30084,MICROCATETER                                                                                        ,6515
+30084,MICROCATETER                                                                                        ,6515
+30084,MICROCATETER                                                                                        ,6515
+30085,ALFAOLIPUDASE                                                                                       ,6505
+30086,BINIMETINIBE                                                                                        ,6505
+30087,BOSUTINIBE                                                                                          ,6505
+30088,CEFTOBIPROL                                                                                         ,6505
+30089,ENCORAFENIBE                                                                                        ,6505
+30089,ENCORAFENIBE                                                                                        ,6505
+30090,EPLERENONA                                                                                          ,6505
+30091,SACITUZUMABE                                                                                        ,6505
+30092,TISAGENLECLEUCEL                                                                                    ,6505
+30093,AVENTAL CIRÚRGICO - PARAMENTAÇÃO                                                                    ,6532
+30093,AVENTAL CIRÚRGICO - PARAMENTAÇÃO                                                                    ,6532
+30093,AVENTAL CIRÚRGICO - PARAMENTAÇÃO                                                                    ,6532
+30094,AVENTAL PROCEDIMENTO - PARAMENTAÇÃO                                                                 ,6532
+30094,AVENTAL PROCEDIMENTO - PARAMENTAÇÃO                                                                 ,6532
+30094,AVENTAL PROCEDIMENTO - PARAMENTAÇÃO                                                                 ,6532
+30095,VESTIMENTA HOSPITALAR                                                                               ,6532
+30095,VESTIMENTA HOSPITALAR                                                                               ,6532
+30095,VESTIMENTA HOSPITALAR                                                                               ,6532
+30096,AGULHA PUNÇÃO ÓSSEA                                                                                 ,6515
+30096,AGULHA PUNÇÃO ÓSSEA                                                                                 ,6515
+30096,AGULHA PUNÇÃO ÓSSEA                                                                                 ,6515
+30096,AGULHA PUNÇÃO ÓSSEA                                                                                 ,6515
+30097,ÁCIDO FUMÁRICO                                                                                      ,6505
+30098,ZIRCÔNIO HIDRATADO                                                                                  ,6505
+30099,SAFINAMIDA                                                                                          ,6505
+30100,CATETER BALÃO P/ ANGIOPLASTIA PERIFÉRICA                                                            ,6515
+30100,CATETER BALÃO P/ ANGIOPLASTIA PERIFÉRICA                                                            ,6515
+30101,TEZEPELUMABE                                                                                        ,6505
+30102,BULBO GOTEJADOR                                                                                     ,9999
+30103,VUTRISIRANA                                                                                         ,6505
+30104,LACTITOL                                                                                            ,6505
+30105,CONCRETO PRONTO                                                                                     ,5610
+30105,CONCRETO PRONTO                                                                                     ,5610
+30106,TUCATINIBE                                                                                          ,6505
+30107,CAMPO CIRÚRGICO                                                                                     ,6532
+30108,CAMPO CIRÚRGICO DESCARTÁVEL                                                                         ,6532
+30108,CAMPO CIRÚRGICO DESCARTÁVEL                                                                         ,6532
+30108,CAMPO CIRÚRGICO DESCARTÁVEL                                                                         ,6532
+30109,CAMPO CIRÚRGICO INCISIONAL ADESIVO                                                                  ,6532
+30109,CAMPO CIRÚRGICO INCISIONAL ADESIVO                                                                  ,6532
+30110,BALÃO INTRAGÁSTRICO                                                                                 ,6515
+30111,DELAFLOXACINO                                                                                       ,6505
+30112,ANIFROLUMABE                                                                                        ,6505
+30113,ELETRIPTANA                                                                                         ,6505
+30114,SOMATROGONA                                                                                         ,6505
+30115,MAVACANTENO                                                                                         ,6505
+30116,INEBILIZUMABE                                                                                       ,6505
+30117,FINERENONA                                                                                          ,6505
+30118,EQUIPAMENTO P/ AQUECIMENTO - USO MÉDICO                                                             ,6515
+30118,EQUIPAMENTO P/ AQUECIMENTO - USO MÉDICO                                                             ,6515
+30119,NAXITAMABE                                                                                          ,6505
+30120,TREFINA / TREPANO OFTALMOLÓGICO                                                                     ,6540
+30120,TREFINA / TREPANO OFTALMOLÓGICO                                                                     ,6540
+30120,TREFINA / TREPANO OFTALMOLÓGICO                                                                     ,6540
+30121,TOLVAPTANO                                                                                          ,6505
+30122,ÁLCOOL  BENZÍLICO                                                                                   ,6505
+30123,SERRA CIRÚRGICA MANUAL                                                                              ,6515
+30124,PERFURADOR CIRÚRGICO MANUAL                                                                         ,6515
+30125,TOLVAPTANA                                                                                          ,6505
+30126,TRI-HEPTANOÍNA                                                                                      ,6505
+30127,SEMOLA                                                                                              ,8920
+30128,EQUIPO DE INFUSÃO VENOSA GRAVITACIONAL                                                              ,6515
+30128,EQUIPO DE INFUSÃO VENOSA GRAVITACIONAL                                                              ,6515
+30129,EQUIPO DE TRANSFUSÃO DE HEMOCOMPONENTES                                                             ,6515
+30129,EQUIPO DE TRANSFUSÃO DE HEMOCOMPONENTES                                                             ,6515
+30130,EQUIPO DE DIÁLISE PERITONEAL                                                                        ,6515
+30130,EQUIPO DE DIÁLISE PERITONEAL                                                                        ,6515
+30131,EQUIPO ESPECIAL - USO MÉDICO                                                                        ,6515
+30131,EQUIPO ESPECIAL - USO MÉDICO                                                                        ,6515
+30132,EQUIPO DE NUTRIÇÃO ENTERAL                                                                          ,6515
+30133,URÂNIO                                                                                              ,6810
+30134,FENILBUTIRATO DE SÓDIO                                                                              ,6505
+30135,EQUIPO P/ BOMBA DE INFUSÃO                                                                          ,6515
+30136,PEMIGATINIBE                                                                                        ,6505
+30137,AMIFAMPRIDINA                                                                                       ,6505
+30138,SACITUZUMABE GOVITECANA                                                                             ,6505
+30139,ESPESOLIMABE                                                                                        ,6505
+30140,MOBOCERTINIBE                                                                                       ,6505
+30141,MOTOR CIRÚRGICO                                                                                     ,6515
+30142,ACESSÓRIO P/ MOTOR CIRÚRGICO                                                                        ,6515
+30143,TECLISTAMABE                                                                                        ,6505
+30144,BELZUTIFANO                                                                                         ,6505
+30145,TREMELIMUMABE                                                                                       ,6505
+30146,BALOXAVIR MARBOXILA                                                                                 ,6505
+30147,VERDURA PROCESSADA                                                                                  ,8915
+30147,VERDURA PROCESSADA                                                                                  ,8915
+30148,FLECAINIDA                                                                                          ,6505
+30149,CEVIMELINE                                                                                          ,6505
+30150,PONTEIRA P/ ASPIRADOR ULTRASSÔNICO                                                                  ,6515
+30150,PONTEIRA P/ ASPIRADOR ULTRASSÔNICO                                                                  ,6515
+30151,LÂMINA SHAVER                                                                                       ,6515
+30152,LÂMINA P/ SERRA CIRÚRGICA                                                                           ,6515
+30153,TOMOGRAFIA COMPUTADORIZADA POR EMISSAO DE POSITRONS E TOMOGRAFIA COMPUTADORIZADA PET/TC             ,6525
+30154,TRICOTOMIZADOR CIRÚRGICO ELÉTRICO                                                                   ,6515
+30155,PRETOMANIDA                                                                                         ,6505
+30156,AGULHA CABELO                                                                                       ,8530
+30157,TINTA CABELO                                                                                        ,8510
+30157,TINTA CABELO                                                                                        ,8510
+A1111,FITA ADESIVA PLASTICA                                                                               ,7510
+AAAAE,DECIBELÍMEDRO                                                                                       ,5220
+AAAAF,PAPEL NÃO HIGIÊNICO                                                                                 ,8540
+AAAAG,CARTUCHO TINTA                                                                                      ,7045
+AAAAH,CARTUCHO TINTA XEROX                                                                                ,7045
+AAAAI,MONITO DE VIDEO                                                                                     ,7025
+AAAAJ,MONITOR DE VIDEO                                                                                    ,7025
+AAAAL,LIVRO VISTAS ADVOGADO                                                                               ,7530
+AAAAM,VITAMINAS                                                                                           ,6505
+AAAAN,PLACA MÂE                                                                                           ,7021
+AAAAO,MANOMETRO - USO IRRADIACAO                                                                          ,6685
+AAAAP,MACA RESGATE                                                                                        ,4240
+AAAAQ,HAMBURGER                                                                                           ,8905
+AAAAR,HAMBURGER                                                                                           ,8905
+AAAAS,ESPETINHO DE PEITO DE FRANGO                                                                        ,8905
+AAAAT,HAMBURGER DE CARNE BOVINA                                                                           ,8905
+AAAAU,QUIBE DE CARNE BOVINA                                                                               ,8905
+AAAAV,PAIO                                                                                                ,8905
+AAAAW,RASPA INTEGRAL DE MANDIOCA                                                                          ,8710
+AAAAX,FILME POLIETILENO PARA PLASTIFICAçãO                                                                ,3610
+AAAAY,SACO  PAPEL                                                                                         ,8105
+AAABB,MACA RESGATE 1                                                                                      ,4240
+AAABC,LIVRO DE ENGENHARIA                                                                                 ,7610
+AAABE,ROUPEIRO DE AÇO                                                                                     ,7125
+AAABF,SACO POLIETILENO TRANÇADO                                                                           ,8105
+AAABG,CARRINHO                                                                                            ,6530
+AAABH,CARRINHO CILINDRO OXIGÊNIO                                                                          ,6530
+AAABI,PROVETA GRADUADA                                                                                    ,6640
+AAABJ,CARRINHO CILINDRO OXIGENIO                                                                          ,6530
+AAABM,COCCIDIOSTÁTICO 1                                                                                   ,8710
+AAABN,BANDEJA PORTA OVOS                                                                                  ,8145
+AAABO,CâMARA FISSãO - REATOR NUCLEAR                                                                      ,4470
+AAABP,GLUCONATO DE CALCIO /MF                                                                             ,6505
+AAABQ,CARRINHO TRANSPORTE MATERIAL                                                                        ,3920
+AAABS,AGULHA P/ PUNCAO TRANSEPTAL ADULTO(BROCKENBROUGHT)                                                  ,6515
+AAABT,AGULHA PUNCAO TRANSEPTAL PEDIAT. BROCKENBROUGHT                                                     ,6515
+AAABU,"CATETER 4,5F P/ATRIOSEPTOSTOMIA C/ BALAO                                                            ",6515
+AAABW,MICROTUBOS                                                                                          ,6640
+AAABX,VASSOURA AÇO                                                                                        ,3750
+AAABY,MACA PARA RESGATE                                                                                   ,4240
+AAABZ,EMBALAGEM - PORTA RADIOGRAFIA ELEMENTO COMBUSTÍVEL                                                  ,8115
+AAACA,ENVELOPE- ACONDICIONAMENTO RADIOGRAFIAS                                                             ,8115
+AAACB,ESPÁTULA ARAME AÇO INOX - USO LABORATÓRIO                                                           ,6640
+AAACC,AR CONDICIONADO                                                                                     ,4120
+AAACE,CATETER P/ ATRIOSEPTOSTOMIA 5F C/ BALãO                                                             ,6515
+AAACF,CATETER 5F P/ ATRIOSEPTOSTOMIA C/ BALãO                                                             ,6515
+AAACG,CATETER 6F P/ ATRIOSEPTOSTOMIA C/ BALAO                                                             ,6515
+AAACH,CATETER 6F P/ ATRIOSEPTOSTOMIA C/ BALãO                                                             ,6515
+AAACI,CATETER ANGIOGRAFICO MULTI-TRACK                                                                    ,6515
+AAACJ,BEBEDOURO DE ÁGUA REFRIGERADO PARA GARRAFÃO                                                         ,4110
+AAACM,SEMENTE TOMATE                                                                                      ,8730
+AAACW,TUBO LÁTEX                                                                                          ,6640
+AAACX,BANCO MADEIRA MACIÇA                                                                                ,7110
+AAACZ,BOBINA PAPEL IMPRESSORA                                                                             ,7530
+AAADD,COLESTEROLE                                                                                         ,6505
+AAADE,FARINHA DE CARNE E OSSOS                                                                            ,8710
+AAADH,VAGINA ARTIFICIAL                                                                                   ,9999
+AAADK,APLICADOR UNIVERSAL DE SEMEM CAPRINO E OVINO                                                        ,9999
+AAADQ,GRUPO CILINDRO FOTOCOPIADORA                                                                        ,7490
+AAADS,LEITOR OTICO MANUAL CCD                                                                             ,7025
+AAADV,ALIMENTADOR INDIVIDUAL DE ABELHAS                                                                   ,3720
+AAAEC,VÁLVULA ROTATIVA                                                                                    ,4810
+AAAFB,EIXO PRINCIPAL                                                                                      ,4130
+AAAFC,KIT PARA MOTOR DE CENTRAL DE AR CONDICIONADO                                                        ,4130
+AAAFX,RESISTÊNCIA CERÂMICA                                                                                ,5905
+AAAFZ,SULFATO DE FRAMICETINA+PREDNISOLONA+GRAMICIDINA+CL                                                  ,6505
+AAAGI,CHAPA DE COBRE                                                                                      ,9610
+AAAGN,SULFATO FRAMICETINA                                                                                 ,6505
+AAAGO,MICROCOMPUTADOR                                                                                     ,7025
+AAAGQ,BENTONITA SÓDICA ATIVADA                                                                            ,9620
+AAAHG,CADEIRA ESCRITORIO                                                                                  ,7110
+AAAHM,REGULADOR GAS                                                                                       ,4320
+AAAIC,TACHÃO                                                                                              ,6350
+AAAIE,MOLA                                                                                                ,5340
+AAAIH,"PROCESSADOR, PENTIUM IV, 1.8 GHZ                                                                    ",7025
+AAAII,CALÇA BOTA                                                                                          ,8415
+AAAIJ,envelope                                                                                            ,7510
+AAAIK,PEÇAS/COMPONENTES - MAQUINA DE COSTURA                                                              ,7290
+AAAIO,FOSFATO BICALCICO                                                                                   ,8710
+AAAIQ,OXIDO DE ZINCO                                                                                      ,8710
+AAAIV,"PORCA 3/16 X 5/16"" CHUVEIRO                                                                         ",4510
+AAAIW,"ARRUELA 3/16 X 3/8"" CHUVEIRO                                                                        ",4510
+AAAIY,"PARAFUSO CABEÇA PANELA 3/16X7/8"" CHUVEIRO                                                           ",4510
+AAAIZ,CONTATO GAVETA ESQUERDO INFERIOR/SUPERIOR CHUVEIRO                                                  ,4510
+AAAJD,ANEL CROMADO PARTE SUPERIOR CHUVEIRO                                                                ,4510
+AAAJG,"PARAFUSO CABEÇA CILÍNDRICA 3/16X3/4"" CHUVEIRO                                                       ",4510
+AAAJH,"ARRUELA 3/16 X 5/8"" CHUVEIRO                                                                        ",4510
+AAAJI,"PARAFUSO CABEÇA PANELA 3/16X7/16"" CHUVEIRO                                                          ",4510
+AAAJJ,"PARAFUSO CABEÇA LENTILHADA 5/32X5/16"" CHUVEIRO                                                      ",4510
+AAAJK,DIAFRAGMA-CHUVEIRO                                                                                  ,4510
+AAAJL,"PARAFUSO CABEÇA REDONDO 3/16X1.1/8"" CHUVEIRO                                                        ",4510
+AAAJM,"PORCA EM TERMOPLÁSTICO 1/4"" CHUVEIRO                                                                ",4510
+AAAJN,"NIPLE COMPLETO EM TERMOPLASTICO 1/2"" CHUVEIRO                                                       ",4510
+AAAJP,"PORCA 5/32 X 5/16"" CHUVEIRO                                                                         ",4510
+AAAJQ,"PARAFUSO CABEÇA PANELA 5/32X7/8"" CHUVEIRO                                                           ",4510
+AAAJW,BEBEDOURO AGUA GARRAFÃO REFRIGERADO                                                                 ,4110
+AAAKI,MADEIRA CONSTRUçãO                                                                                  ,5510
+AAAKN,OXIDO MAGNÉSIO                                                                                      ,8710
+AAALB,PROPULSOR AERADOR                                                                                   ,4630
+AAALD,LÂMPADA PARA LUPA                                                                                   ,6650
+AAALG,LENTE PARA RETROPROJETOR                                                                            ,6730
+AAALK,GRAMPEADOR                                                                                          ,4510
+AAALL,LIVRO TECNICO                                                                                       ,7610
+AAALY,ADAPTADOR DE FILTRO                                                                                 ,6640
+AAAMB,CONJUNTO DE RESINAS                                                                                 ,6640
+AAANE,DISCO MAGNETICO RIGIDO EXTERNO                                                                      ,7025
+AAANF,DISCO MAGNETICO                                                                                     ,7025
+AAANG,DISCO RIGIO EXTERNO                                                                                 ,7025
+AAANH,DISCO RIGIDO EXTERNO                                                                                ,7025
+AAANR,ÓLEO MINERAL                                                                                        ,6505
+AAANU,"5-BROMO-4-CLORO-3-INDOLIL FOSFATO, SAL DISSÓDICO                                                    ",6505
+AAAOD,AUTO TRANSFORMADOR A SECO COMPENSADOR DE PARTIDA                                                    ,5950
+AAAOT,COMPUTADOR                                                                                          ,5530
+AAAOU,FOCO CIRÚRGICO 2                                                                                    ,6530
+AAAPH,COLETOR DE DESCARGA VEÍCULO AUTOMOTIVO                                                              ,2530
+AAAPI,JUNTA COLETOR DESCARGA VEÍCULO AUTOMOTIVO                                                           ,2530
+AAAPL,DECANOATO DE NADROLONA                                                                              ,6505
+AAAPW,MESA DE MADEIRA EM CEREJEIRA                                                                        ,7110
+AAAPX,MESA PARA ESCRITORIO                                                                                ,7110
+AAAPY,MESA PARA MICROCOMPUTADOR                                                                           ,7110
+AAAPZ,MESA PARA MICRO                                                                                     ,7110
+AAAQA,ESCADA PARA ESCRITORIO                                                                              ,5440
+AAAQB,GONADOTROFINA CORIÔNICA HUMANA                                                                      ,6505
+AAAQC,"CLORIDRATO DE ANAGRELIDA 0,5 MG                                                                     ",6505
+AAAQD,"Cloridrato de Anagrelida 0,5 mg                                                                     ",6505
+AAAQW,LIVRO DIDATICO                                                                                      ,7610
+AAAQX,LIVRO JURIDICO                                                                                      ,7610
+AAARC,"HERBICIDA SELETIVO, METOLACLORO 960 G/L, INDICADO                                                   ",6840
+AAARD,"HERBICIDA SELETIVO, METOLACLORO 960 G/L, PRé-EMERG                                                  ",6840
+AAARG,CAIXA PLASTICA CORRUGADO POLIONDAS                                                                  ,9330
+AAARL,"CAPACITOR POTÊNCIA - ACIMA 7,2 KV                                                                   ",5910

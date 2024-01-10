@@ -1,0 +1,501 @@
+codigo,descricao,codigo_classe
+01982,ÁLCOOL OCTÍLICO                                                                                     ,6810
+01983,GLIOXAL                                                                                             ,6810
+01984,ÁCIDO CLORÍDRICO DILUÍDO                                                                            ,6810
+01985,LUFENUROM                                                                                           ,6840
+01986,ESPINOSADE                                                                                          ,6840
+01987,FOSFETO DE ALUMÍNIO                                                                                 ,6840
+01988,"ÁCIDO 2,4-DICLOROFENOXIACÉTICO                                                                      ",6840
+01989,TRIFLUMUROM                                                                                         ,6840
+01990,"1,6-DIAMINOHEXANO                                                                                   ",6810
+01991,ÁCIDO LINOLÊICO                                                                                     ,6810
+01992,ÁCIDO LÁTICO                                                                                        ,6810
+01993,NITROBENZENO                                                                                        ,6810
+01994,ÁCIDO SULFUROSO                                                                                     ,6810
+01994,ÁCIDO SULFUROSO                                                                                     ,6810
+01995,ÁCIDO LINOLÊNICO                                                                                    ,6810
+01996,"ÁCIDO 2,6-DIPICOLÍNICO                                                                              ",6810
+01997,ÁCIDO MALEICO (CIS-BUTENODIOICO)                                                                    ,6810
+01998,CEFOTAXIMA                                                                                          ,6810
+01998,CEFOTAXIMA                                                                                          ,6810
+01999,ÁCIDO MALÔNICO                                                                                      ,6810
+02000,ÁCIDO MEFENÂMICO                                                                                    ,6505
+02001,ÁCIDO MOLÍBDICO                                                                                     ,6810
+02002,ÁCIDO CLOROSULFÔNICO                                                                                ,6810
+02003,NICOSSULFUROM                                                                                       ,6840
+02004,ÁCIDO GLICIRRÍZICO                                                                                  ,6810
+02004,ÁCIDO GLICIRRÍZICO                                                                                  ,6810
+02005,ÁCIDO NALIDÍXICO                                                                                    ,6810
+02006,ÁCIDO MUCOPOLISSACÁRIDO-POLISSULFÚRICO                                                              ,6505
+02007,AZITROMICINA                                                                                        ,6810
+02008,ÁCIDO NALIDÍXICO                                                                                    ,6505
+02009,ÁCIDO NICOTÍNICO                                                                                    ,6810
+02010,ÁCIDO NICOTÍNICO                                                                                    ,6505
+02011,ÁCIDO OLÉICO                                                                                        ,6810
+02012,"ÁCIDO 2,7-BIS(2-ARSONOFENILAZO)CROMOTRÓPICO                                                         ",6810
+02013,ÁCIDO OXÁLICO                                                                                       ,6810
+02014,ÁCIDO P-CUMÁRICO                                                                                    ,6810
+02015,ÁCIDO TÂNICO                                                                                        ,6810
+02016,GALANTAMINA                                                                                         ,6810
+02017,ÁCIDO PERACÉTICO                                                                                    ,6840
+02018,ÁCIDO PERCLÓRICO                                                                                    ,6810
+02019,ÁCIDO PERIÓDICO                                                                                     ,6810
+02020,ÁCIDO PÍCRICO                                                                                       ,6810
+02021,ÁCIO TIOGLICÓLICO                                                                                   ,6810
+02022,4-FLUOROBENZILA                                                                                     ,6810
+02023,REDUTOR / ELEVADOR PH                                                                               ,6550
+02024,ÁCIDO ROSÓLICO                                                                                      ,6810
+02025,ÁCIDO SALICÍLICO                                                                                    ,6505
+02026,CARBONATO DE COBRE                                                                                  ,6810
+02027,ÁCIDO SALICÍLICO                                                                                    ,6810
+02028,ÁCIDO SULFÂMICO                                                                                     ,6810
+02029,ÁCIDO 5-SULFOSALICÍLICO                                                                             ,6810
+02029,ÁCIDO 5-SULFOSALICÍLICO                                                                             ,6810
+02030,"ÁCIDO TARTÁRICO (2,3-DI-HIDROXIBUTANODIOICO)                                                        ",6810
+02031,DARATUMUMABE                                                                                        ,6505
+02032,ÁCIDO TRANEXÂMICO                                                                                   ,6505
+02033,DISPRÓSIO                                                                                           ,6810
+02034,VIMPOCETINA                                                                                         ,6505
+02035,ÁCIDO URSODESOXICÓLICO                                                                              ,6505
+02036,ÁCIDO VALPRÓICO                                                                                     ,6505
+02037,ÁCIDO P-NITROBENZÓICO                                                                               ,6810
+02038,ÁCIDO 3-N-MORFOLINO PROPANSULFÔNICO (MOPS)                                                          ,6810
+02039,ACIDULANTE                                                                                          ,6850
+02039,ACIDULANTE                                                                                          ,6850
+02040,ACIONADOR DE JOGO TIPO JOYSTICK                                                                     ,7820
+02041,ACIONADOR DISCO MAGNÉTICO / ÓPTICO - PROCESSAMENTO                                                  ,7010
+02042,ACIONADOR ELETROMAGNÉTICO                                                                           ,5945
+02043,ACIONADOR ESPOLETA                                                                                  ,1375
+02043,ACIONADOR ESPOLETA                                                                                  ,1375
+02044,ACIONADOR / JOYSTICK                                                                                ,6350
+02045,ACIONADOR INTERNO DO ALTERNADOR ( ESTATOR ) DE CORRENTE ELETRICA - VEICULO AUTOMOTIVO               ,2920
+02046,ACIONAMENTO ELETRICO / MANUAL - TORNEIRA / CHUVEIR                                                  ,4540
+02047,FERRO CHATO                                                                                         ,9510
+02048,MATERIAL P/ VNI - CPAP / BIPAP                                                                      ,6515
+02048,MATERIAL P/ VNI - CPAP / BIPAP                                                                      ,6515
+02048,MATERIAL P/ VNI - CPAP / BIPAP                                                                      ,6515
+02049,ACONDICIONADOR MORTUARIO                                                                            ,9930
+02050,ACOPLADOR OPTRÔNICO                                                                                 ,5980
+02051,ACOPLAMENTO ELASTICO DE TRANSMISSAO DE FORCA                                                        ,3040
+02052,ACOPLAMENTO FLEXIVEL                                                                                ,3040
+02052,ACOPLAMENTO FLEXIVEL                                                                                ,3040
+02052,ACOPLAMENTO FLEXIVEL                                                                                ,3040
+02052,ACOPLAMENTO FLEXIVEL                                                                                ,3040
+02052,ACOPLAMENTO FLEXIVEL                                                                                ,3040
+02053,ACOPLAMENTO HIDRODINAMICO                                                                           ,3040
+02054,ACOPLAMENTO MECANICO RIGIDO                                                                         ,3040
+02055,MÓDULO VEDAÇÃO                                                                                      ,9390
+02056,ACRÍLICO AUTOPOLIMERIZÁVEL                                                                          ,6520
+02057,ACTINOMICINA                                                                                        ,6505
+02058,AMENDOIM INDUSTRIAL                                                                                 ,8925
+02059,ACUCAR CONFEITEIRO                                                                                  ,8925
+02060,AÇÚCAR CRISTAL                                                                                      ,8925
+02061,ACUCAR MASCAVO                                                                                      ,8925
+02062,ACUCAR NAO REFINADO                                                                                 ,8925
+02063,"""AÇÚCAR""                                                                                            ",8925
+02064,PETISQUEIRA                                                                                         ,7350
+02065,ACUMULADOR DE CILINDRO HIDRAULICO DE AERONAVE                                                       ,2915
+02066,ACUMULADOR DE PRESSAO                                                                               ,3040
+02067,ACUMULADOR E ACESSÓRIO                                                                              ,9999
+02068,ACUMULADOR ELETRICO ESTACIONARIO ALCALINO                                                           ,6140
+02069,ACUMULADOR ELETRICO ESTATICO ESTACIONARIO CHUMBO - ACIDO                                            ,6140
+02070,ACUMULADOR HIDRAULICO DE MOTOR DE AERONAVE                                                          ,2995
+02071,ACUMULADOR NUCLEAR NAO RECARREGAVEL                                                                 ,4470
+02072,TOSADOR USO VETERINÁRIO                                                                             ,6515
+02073,ADAPTADOR                                                                                           ,6515
+02074,ADAPTADOR BROCA ODONTOLÓGICA                                                                        ,6520
+02075,ACESSÓRIO PARA RADIOLOGIA                                                                           ,6525
+02075,ACESSÓRIO PARA RADIOLOGIA                                                                           ,6525
+02075,ACESSÓRIO PARA RADIOLOGIA                                                                           ,6525
+02076,ADAPTADOR DE ANTENA                                                                                 ,5985
+02077,ADAPTADOR DE ANTENA DE GUIA                                                                         ,5985
+02078,ADAPTADOR DE ANTENA DE ONDA                                                                         ,5985
+02079,PONTO DE ACESSO                                                                                     ,7050
+02079,PONTO DE ACESSO                                                                                     ,7050
+02079,PONTO DE ACESSO                                                                                     ,7050
+02079,PONTO DE ACESSO                                                                                     ,7050
+02080,ADAPTADOR DE CARBURADOR                                                                             ,2910
+02081,ADAPTADOR DE COLETOR DE ADMISSAO DE MOTOR A GASOLINA                                                ,2805
+02082,ADAPTADOR DE COMPASSO DE DESENHISTA                                                                 ,6675
+02083,CADERNO DIGITAL/DIGITALIZADOR                                                                       ,7040
+02084,ADAPTADOR DE CONTADOR                                                                               ,5962
+02085,ADAPTADOR                                                                                           ,5935
+02085,ADAPTADOR                                                                                           ,5935
+02085,ADAPTADOR                                                                                           ,5935
+02085,ADAPTADOR                                                                                           ,5935
+02086,ADAPTADOR DE FERRAMENTA MANUAL                                                                      ,5120
+02087,ADAPTADOR FILTRO                                                                                    ,6640
+02088,ADAPTADOR DE PRATO DE INSTRUMENTO DE PERCUSSAO                                                      ,7720
+02089,ADAPTADOR DE TERMINAL DE BATERIA                                                                    ,5940
+02090,ADAPTADOR DE TUBO RESPIRADOR DE MOTOR A GASOLINA                                                    ,2805
+02091,REGULADOR DE CILINDRO DE GAS                                                                        ,8120
+02092,ADAPTADOR DE VOZ PARA EQUIPAMENTO DE PROCESSAMENTO DE DADOS                                         ,7025
+02093,ADAPTADOR GARRAFA TÉRMICA                                                                           ,7330
+02094,ADAPTADOR HIDRAULICO DE BOMBA DE LUBRIFICACAO                                                       ,4930
+02095,ADAPTADOR PARA GRAVADOR SONORO                                                                      ,5835
+02096,ADAPTADOR PARA LUZ DE REFLETOR                                                                      ,6210
+02097,CONECTOR USO MÉDICO                                                                                 ,6515
+02097,CONECTOR USO MÉDICO                                                                                 ,6515
+02098,LENTE INTRAOCULAR                                                                                   ,6540
+02099,ADAPTADOR TAMBOR DE FREIO - VEICULO AUTOMOTIVO                                                      ,2530
+02100,ADENOSINA                                                                                           ,6505
+02101,PEÇA EQUIPAMENTO CIRÚRGICO                                                                          ,6515
+02102,ADESIVO PROPAGANDA                                                                                  ,9905
+02102,ADESIVO PROPAGANDA                                                                                  ,9905
+02102,ADESIVO PROPAGANDA                                                                                  ,9905
+02102,ADESIVO PROPAGANDA                                                                                  ,9905
+02102,ADESIVO PROPAGANDA                                                                                  ,9905
+02102,ADESIVO PROPAGANDA                                                                                  ,9905
+02102,ADESIVO PROPAGANDA                                                                                  ,9905
+02102,ADESIVO PROPAGANDA                                                                                  ,9905
+02103,ADESIVO CIRÚRGICO                                                                                   ,6515
+02103,ADESIVO CIRÚRGICO                                                                                   ,6515
+02104,ADESIVO COLAGEM                                                                                     ,8040
+02104,ADESIVO COLAGEM                                                                                     ,8040
+02104,ADESIVO COLAGEM                                                                                     ,8040
+02105,ADESIVO DE GAXETA                                                                                   ,8040
+02106,ADESIVO JUNTA MOTOR                                                                                 ,8040
+02106,ADESIVO JUNTA MOTOR                                                                                 ,8040
+02107,ADESIVO USO GERAL                                                                                   ,8040
+02107,ADESIVO USO GERAL                                                                                   ,8040
+02108,CADEIRA ODONTOLÓGICA                                                                                ,6520
+02109,ACESSÓRIOS - USO ODONTOLÓGICO                                                                       ,6520
+02109,ACESSÓRIOS - USO ODONTOLÓGICO                                                                       ,6520
+02109,ACESSÓRIOS - USO ODONTOLÓGICO                                                                       ,6520
+02109,ACESSÓRIOS - USO ODONTOLÓGICO                                                                       ,6520
+02109,ACESSÓRIOS - USO ODONTOLÓGICO                                                                       ,6520
+02110,HIPOSSULFITO DE SÓDIO                                                                               ,6505
+02111,ADITAMENTO DE PISTOLA DE LUBRIFICACAO                                                               ,4930
+02112,AGENTE FOSFATIZANTE                                                                                 ,6850
+02113,ADITIVO DE ELASTOMETRO                                                                              ,6850
+02114,ADITIVO FOTOGRAFICO                                                                                 ,6750
+02115,ADITIVO LUBRIFICANTE                                                                                ,6850
+02116,ADITIVO                                                                                             ,6850
+02116,ADITIVO                                                                                             ,6850
+02117,ADITIVO RADIADOR                                                                                    ,6850
+02117,ADITIVO RADIADOR                                                                                    ,6850
+02118,NIMOTUZUMABE                                                                                        ,6505
+02119,ADRICA DE BANDEIRA                                                                                  ,4020
+02120,ALFAGALSIDASE                                                                                       ,6505
+02121,ADUBADEIRA USO MANUAL                                                                               ,3710
+02121,ADUBADEIRA USO MANUAL                                                                               ,3710
+02122,ADUBO QUÍMICO                                                                                       ,8720
+02123,ADUELA                                                                                              ,5670
+02124,AERADOR                                                                                             ,4630
+02124,AERADOR                                                                                             ,4630
+02125,AEROGRAFO                                                                                           ,6675
+02126,AEROGRAFO ( METEOROLOGIA)                                                                           ,6660
+02127,AEROGRAFO PARA PINTURA                                                                              ,6675
+02128,AEROMETRO - USO MEDICO                                                                              ,6545
+02129,AEROMETRO DE BAUME                                                                                  ,6545
+02130,AEROMETRO PARA ACIDO SULFURICO                                                                      ,6545
+02131,"N,N-(DIMETIL)ETILENODIAMINA                                                                         ",6810
+02132,AEROMETRO PARA ANALISE QUIMICA                                                                      ,6630
+02133,AEROMETRO PARA LABORATORIO                                                                          ,6640
+02134,FTALATO DE DIBUTILA                                                                                 ,6810
+02135,AEROMETRO PARA SALMOURA                                                                             ,6545
+02136,AEROMETRO PARA USO MEDICO                                                                           ,6640
+02137,PEÇAS / ACESSÓRIOS AEROMODELO                                                                       ,1550
+02138,AFASTADOR CIRÚRGICO DESCARTÁVEL                                                                     ,6515
+02138,AFASTADOR CIRÚRGICO DESCARTÁVEL                                                                     ,6515
+02139,PUPILÔMETRO                                                                                         ,6540
+02140,AFERIDOR                                                                                            ,5220
+02141,AFIADOR FACA MANUAL/ELÉTRICO                                                                        ,7330
+02141,AFIADOR MANUAL/ELÉTRICO                                                                             ,7330
+02142,CONJUNTO AFIADOR FERRAMENTA                                                                         ,3460
+02142,CONJUNTO AFIADOR FERRAMENTA                                                                         ,3460
+02143,AFIADOR DE FERRAMENTA DE PRECISAO                                                                   ,5220
+02144,AFIADORA FERRAMENTA GRAVACAO                                                                        ,3415
+02145,AFINADOR DE INSTRUMENTO MUSICAL                                                                     ,7720
+02146,ÁGAR                                                                                                ,6550
+02147,ERLOSAMIDA                                                                                          ,6505
+02148,DINOPROSTONA                                                                                        ,6505
+02149,BETACAROTENO                                                                                        ,6505
+02150,PEGASPARGASE                                                                                        ,6505
+02151,AGENDA TELEFÔNICA                                                                                   ,7510
+02152,UMECTANTE                                                                                           ,6850
+02153,AGENTE EMBÓLICO                                                                                     ,6515
+02154,DIFENOCONAZOL                                                                                       ,6840
+02154,DIFENOCONAZOL                                                                                       ,6840
+02155,AGLUTINOSCOPIO                                                                                      ,6640
+02156,FRIOS                                                                                               ,8905
+02157,P-TOLUIDINA                                                                                         ,6810
+02158,ÁGUA BORICADA                                                                                       ,6505
+02159,HIDRÓXIDO DE CÁLCIO DILUÍDO                                                                         ,6810
+02160,MAQUIAGEM                                                                                           ,8510
+02160,MAQUIAGEM                                                                                           ,8510
+02160,MAQUIAGEM                                                                                           ,8510
+02160,MAQUIAGEM                                                                                           ,8510
+02161,ÁGUA DESIONIZADA                                                                                    ,6550
+02162,ÁGUA DESTILADA                                                                                      ,6550
+02163,HIDRÓXIDO DE SÓDIO DILUÍDO                                                                          ,6810
+02164,ÁGUA POTÁVEL                                                                                        ,8960
+02165,ÉSTER METÍLICO DA N-OMEGA-NITRO-L-ARGININA                                                          ,6810
+02166,ÁGUA SANITÁRIA                                                                                      ,7930
+02167,ÁGUA TÔNICA                                                                                         ,8960
+02168,AGULHA  DE COSTURA                                                                                  ,8315
+02169,AGULHA DE FÍSTULA                                                                                   ,6515
+02170,AGULHA ACUPUNTURA                                                                                   ,6515
+02170,AGULHA ACUPUNTURA                                                                                   ,6515
+02171,AGULHA HIPODÉRMICA                                                                                  ,6515
+02172,AGULHA                                                                                              ,6640
+02173,CURATIVO                                                                                            ,6510
+02173,CURATIVO                                                                                            ,6510
+02174,AGULHA MONOPOLAR                                                                                    ,6515
+02175,AGULHA DE BIÓPSIA                                                                                   ,6515
+02175,AGULHA DE BIÓPSIA                                                                                   ,6515
+02176,AGULHA COLETA SANGUE À VÁCUO                                                                        ,6515
+02177,AGULHA COURO VAZADOR                                                                                ,8315
+02178,AGULHA ANESTÉSICA                                                                                   ,6515
+02179,AGULHA BIOPSIA                                                                                      ,6515
+02179,AGULHA BIOPSIA 1                                                                                    ,6515
+02180,AGULHA DE BOIA DE CARBURADOR DE VEICULO                                                             ,2910
+02181,AGULHA DE BORDAR                                                                                    ,8315
+02182,EQUIPO ESPECIAL                                                                                     ,6515
+02182,EQUIPO DE INFUSÃO DE CONTRASTE                                                                      ,6515
+02183,AGULHA EQUIPAMENTO FONOGRÁFICO                                                                      ,5835
+02184,AGULHA DE ESTOFAR                                                                                   ,8315
+02185,POLIETILENOGLICOL                                                                                   ,6515
+02186,CONJUNTO PROCEDIMENTO MÉDICO                                                                        ,6515
+02187,AGULHA DE MAQUINA DE COSTURA INDUSTRIAL OVERLOQUE                                                   ,8315
+02188,AGULHA DE NAILON ( NYLON ) - PESCA                                                                  ,8315
+02189,AGULHA DE PARA - RAIOS TIPO FRANKLIM                                                                ,5920
+02190,AGULHA DE TAPECARIA                                                                                 ,8315
+02191,DISPOSITIVO P/ CALIBRAÇÃO EQUIPAMENTO DE SAÚDE                                                      ,6515
+02192,AGULHA DESCARTÁVEL                                                                                  ,6515
+02193,AGULHA ESPECIAL - ANESTESIA EPIDURAL                                                                ,6515
+02194,AGULHA GRAVADORA DE ESTENCIL                                                                        ,6675
+02195,AGULHA LEITO FERROVIA                                                                               ,2230
+02196,AGULHA PARA ARTERIOGRAFIA                                                                           ,6515
+02197,AGULHA PARA BORDAR                                                                                  ,8315
+02198,AGULHA PARA ESTOFAR                                                                                 ,8315
+02199,AGULHA PARA LIGADURA                                                                                ,6515
+02200,AGULHA PARA PUNCAO                                                                                  ,6515
+02201,AGULHA PLASTICA - PLUG ADAPTADOR                                                                    ,6515
+02202,IMOBILIZADOR (TALA)                                                                                 ,6515
+02203,AGULHA SUTURA                                                                                       ,6515
+02203,AGULHA SUTURA                                                                                       ,6515
+02203,AGULHA SUTURA                                                                                       ,6515
+02204,AGULHA TRILHO FERROVIA                                                                              ,2230
+02205,TELA CIRÚRGICA                                                                                      ,6515
+02206,CARNE PROCESSADA                                                                                    ,8905
+02207,AIPIM IN NATURA                                                                                     ,8915
+02208,ALAMBIQUE DESTILADOR DE AGUA                                                                        ,4620
+02209,BETA-AGALSIDASE                                                                                     ,6505
+02210,METOXIACETOFENONA                                                                                   ,6810
+02211,APARELHO ORTODÔNTICO                                                                                ,6520
+02212,ALARGADOR CC - USO ODONTOLOGICO                                                                     ,6520
+02213,ALARGADOR DE KERR - USO ODONTOLOGICO                                                                ,6520
+02214,ALARGADOR POÇO PETRÓLEO                                                                             ,3835
+02215,ALARGADOR INDUSTRIAL DE TUBO                                                                        ,3441
+02216,ALARGADOR PARA CANAL - USO ODONTOLOGICO                                                             ,6520
+02217,ALARGADOR PARA FERRAMENTA MANUAL                                                                    ,5110
+02218,ALARGADOR PARA MAQUINA - FERRAMENTA                                                                 ,3455
+02219,ALARME DE FUSIVEL QUEIMADO                                                                          ,6350
+02220,ALARME DE PRESSAO DE OXIGENIO DE AERONAVE                                                           ,6340
+02221,ALARME DE PRESSAO DO OLEO COMBUSTIVEL DE AERONAVE                                                   ,6340
+02222,ALARME DE TREM DE POUSO                                                                             ,6340
+02223,ALARME MANUAL CONTRA GAS                                                                            ,6350
+02224,TUBO ENDOTRAQUEAL                                                                                   ,6515
+02225,ALARME SONORO ANTI - FURTO DE VEICULO AUTOMOTIVO                                                    ,2920
+02226,ALARME SONORO CONTRA INTRUSAO PREDIAL                                                               ,6350
+02227,FIO GUIA                                                                                            ,6515
+02227,FIO GUIA                                                                                            ,6515
+02227,FIO GUIA                                                                                            ,6515
+02227,FIO GUIA                                                                                            ,6515
+02227,FIO GUIA                                                                                            ,6515
+02227,FIO GUIA                                                                                            ,6515
+02228,ALARME TIPO SIRENE INTERMITENTE                                                                     ,6350
+02229,ALAVANCA CIRÚRGICA                                                                                  ,6515
+02229,ALAVANCA CIRÚRGICA                                                                                  ,6515
+02230,FONTE OFTALMOLÓGICA                                                                                 ,6540
+02231,ALAVANCA DE USO FERROVIARIO                                                                         ,2250
+02232,FILTRO CAPILAR DIALISADOR                                                                           ,6515
+02233,ALAVANCA VEÍCULO AUTOMOTIVO                                                                         ,2520
+02234,ALAVANCA                                                                                            ,5120
+02234,ALAVANCA                                                                                            ,5120
+02235,PERIÓTOMO - USO ODONTOLÓGICO                                                                        ,6520
+02236,ALAVANCA TENAX - USO ODONTOLOGICO                                                                   ,6520
+02237,FOLHA ENCAIXE FOTOGRAFIA                                                                            ,6760
+02238,ÁLCOOL ISOPROPÍLICO                                                                                 ,6508
+02239,ALBUMINA HUMANA                                                                                     ,6505
+02240,ALÇA METAL FERROSO                                                                                  ,9515
+02241,CONJUNTO NEFROSTOMIA PERCUTÂNEA                                                                     ,6515
+02242,ALÇA BACTERIOLÓGICA                                                                                 ,6640
+02243,FURFURAL                                                                                            ,6810
+02243,FURFURAL                                                                                            ,6810
+02244,SENSOR PARA EQUIPAMENTO MÉDICO                                                                      ,6515
+02245,MÁSCARA GASOTERAPIA                                                                                 ,6515
+02246,ALCA SALVAMENTO ( SLING )                                                                           ,4240
+02247,ALCALINOMETRO                                                                                       ,6630
+02248,ALCATRAO VEGETAL                                                                                    ,9110
+02249,ÁLCOOL ANIDRO COMBUSTÍVEL                                                                           ,9135
+02250,ÁLCOOL AMÍLICO (PENTÍLICO)                                                                          ,6810
+02251,PIRIDINAMINA                                                                                        ,6810
+02252,ÁLCOOL POLIVINÍLICO                                                                                 ,6505
+02253,ARTESUNATO                                                                                          ,6810
+02254,ÁCIDO GLICURÔNICO                                                                                   ,6810
+02255,ÁLCOOL POLIVINÍLICO (PVA)                                                                           ,6810
+02256,ÁLCOOL CETOESTEARÍLICO                                                                              ,6810
+02257,ÁCIDO MEDRÔNICO                                                                                     ,6810
+02258,URIDINA                                                                                             ,6810
+02259,ÁLCOOL ETÍLICO                                                                                      ,6505
+02259,ÁLCOOL ETÍLICO                                                                                      ,6505
+02260,ÁLCOOL CETÍLICO                                                                                     ,6810
+02261,ALILAMINA                                                                                           ,6810
+02262,BENZILAMINA                                                                                         ,6810
+02262,BENZILAMINA                                                                                         ,6810
+02263,ÁLCOOL PROPÍLICO                                                                                    ,6810
+02264,CODEÍNA                                                                                             ,6810
+02265,ÁLCOOL METÍLICO                                                                                     ,6810
+02266,ÁLCOOL CAPRÍLICO                                                                                    ,6810
+02267,ALCOOLÔMETRO (CONSULTAR ALCOÔMETRO)                                                                 ,6640
+02268,ALCOÔMETRO                                                                                          ,6640
+02269,TIRAMINA                                                                                            ,6810
+02270,BENZENOSSULFONAMIDA                                                                                 ,6810
+02271,ALDRABA                                                                                             ,5340
+02272,FOSAPREPITANTO DIMEGLUMINA                                                                          ,6505
+02273,ALENDRONATO DE SÓDIO                                                                                ,6505
+02274,ALETA LUMINÁRIA                                                                                     ,6210
+02275,ALFACALCIDOL                                                                                        ,6505
+02276,ALFACE IN - NATURA                                                                                  ,8915
+02277,ALFENTANILA CLORIDRATO                                                                              ,6505
+02278,ALFINETE                                                                                            ,6515
+02279,ALFINETE DE GRAVATA                                                                                 ,8440
+02280,ALFINETE DE SEGURANCA                                                                               ,8315
+02281,PINÇA LABORATÓRIO                                                                                   ,6640
+02282,ALFORGE                                                                                             ,8105
+02283,ALGALIA PARA SONDAGEM USO MEDICO                                                                    ,6545
+02284,ALGALIA SONDAGEM - USO MEDICO                                                                       ,6515
+02285,ALGARISMO DE ACO                                                                                    ,7520
+02286,ALGEMA DE VEICULO                                                                                   ,2510
+02287,ALGICIDA                                                                                            ,6850
+02287,ALGICIDA                                                                                            ,6850
+02288,ALGINATO                                                                                            ,6520
+02288,ALGINATO USO ODONTOLÓGICO                                                                           ,6520
+02289,FURALDEÍDO                                                                                          ,6810
+02290,ALGODAO CARDADO                                                                                     ,6510
+02291,ALGODAO CIRURGICO                                                                                   ,6515
+02292,ALGODAO DE ENVERNIZAMENTO                                                                           ,8020
+02293,ALGODÃO INDUSTRIAL                                                                                  ,7510
+02293,ALGODÃO INDUSTRIAL                                                                                  ,7510
+02294,ALGODAO EM ESTADO BRUTO                                                                             ,9420
+02295,ALGODAO EM FARDO                                                                                    ,9420
+02296,ALGODAO EM PASTA PARA FORRO                                                                         ,8320
+02297,ALGODAO HIDROFOBO                                                                                   ,6510
+02298,ALHO EM PASTA                                                                                       ,8950
+02299,ALHO EM PO                                                                                          ,8950
+02300,ALHO PORRO IN - NATURA                                                                              ,8915
+02301,ALICATE - USO HOSPITALAR                                                                            ,6530
+02302,ALICATE                                                                                             ,6515
+02302,ALICATE                                                                                             ,6515
+02302,ALICATE                                                                                             ,6515
+02303,ALICATE ORTODÔNTICO                                                                                 ,6520
+02304,ALICATE AMPERÍMETRO                                                                                 ,5210
+02304,ALICATE AMPERÍMETRO                                                                                 ,5210
+02304,ALICATE AMPERÍMETRO                                                                                 ,5210
+02304,ALICATE AMPERÍMETRO                                                                                 ,5210
+02304,ALICATE AMPERÍMETRO                                                                                 ,5210
+02304,ALICATE AMPERÍMETRO                                                                                 ,5210
+02305,ALICATE BICO                                                                                        ,5110
+02305,ALICATE BICO                                                                                        ,5110
+02306,ALICATE COMPRESSÃO HIDRÁULICO                                                                       ,5120
+02306,ALICATE COMPRESSÃO HIDRÁULICO                                                                       ,5120
+02307,ALICATE COMPRESSÃO MECÂNICO                                                                         ,5120
+02308,ALICATE DE CORTE                                                                                    ,5110
+02308,ALICATE DE CORTE                                                                                    ,5110
+02309,DECAPADOR                                                                                           ,5110
+02310,ALICATE DE MANICURE                                                                                 ,8530
+02311,ALICATE DE PRESSÃO                                                                                  ,5120
+02311,ALICATE DE PRESSÃO                                                                                  ,5120
+02311,ALICATE DE PRESSÃO                                                                                  ,5120
+02311,ALICATE DE PRESSÃO                                                                                  ,5120
+02312,ALICATE EMPALMADOR DE TERMINAL                                                                      ,5120
+02313,ALICATE PARA CLIMPAR                                                                                ,5120
+02314,ALICATE PARA COMPRESSAO DO LACRE CHUMBO                                                             ,5120
+02315,ALICATE PARA CORTAR UNHA                                                                            ,8530
+02315,ALICATE PARA CORTAR UNHA                                                                            ,8530
+02316,ALICATE PARA CUTICULA                                                                               ,8530
+02317,ALICATE ORDENHA DE TUBOS COLETA SANGUE/DERIVADOS                                                    ,6515
+02318,ALICATE REBITADOR PEÇAS / ACESSÓRIOS                                                                ,5120
+02319,ELETRODO LABORATÓRIO                                                                                ,6640
+02320,ALICATE TRAVADOR                                                                                    ,5120
+02321,ALIDADE NIVELADORA                                                                                  ,6675
+02322,ALIMENTADOR DE FORNALHA AUTOMÁTICO                                                                  ,4530
+02323,ALIMENTADOR DE MAQUINA DE SERRARIA                                                                  ,3230
+02324,ALIMENTADOR MATERIAL SECO                                                                           ,3915
+02325,ALIMENTADOR DE MUNICAO                                                                              ,4925
+02326,ALIMENTADOR DE PEÇA                                                                                 ,3915
+02327,"""ALIMENTO CONGELADO CONSUMO HUMANO""                                                                 ",8905
+02328,ALIMENTO DIETÉTICO INDUSTRIALIZADO                                                                  ,8940
+02329,ALIMENTO INDUSTRIALIZADO DE CONSUMO INFANTIL                                                        ,8940
+02330,ALIMENTO MANUFATURADO PARA ANIMAL                                                                   ,8710
+02331,ALIMENTO PARA CRIANÇA                                                                               ,8940
+02332,TRIAZOFÓS                                                                                           ,6840
+02333,ALINHADOR DE CHASSIS                                                                                ,4910
+02334,ALINHADOR DE TRILHO FERROVIARIO                                                                     ,2230
+02335,ALINHADOR FAROL - VEÍCULO AUTOMOTIVO                                                                ,4910
+02336,ALINHADOR RODA - VEICULO AUTOMOTIVO                                                                 ,4910
+02337,ALIZAR DE MADEIRA                                                                                   ,5520
+02338,ALIZAR DE MATERIAL METALICO PARA JANELA                                                             ,5670
+02339,ALMEIRAO IN - NATURA                                                                                ,8915
+02340,ALMITRINA BISMESILATO                                                                               ,6505
+02341,ALMOFADA ASSENTO - VEÍCULO AUTOMOTIVO                                                               ,2540
+02342,ALMOFADA BORRACHA PARA LAGARTA - VEICULO AUTOMOTI                                                   ,2590
+02343,ALMOFADA                                                                                            ,6515
+02344,ALMOFADA ASSENTO                                                                                    ,7210
+02344,ALMOFADA ASSENTO / ENCOSTO                                                                          ,7210
+02344,ALMOFADA ASSENTO                                                                                    ,7210
+02344,ALMOFADA ASSENTO                                                                                    ,7210
+02345,ALMOFADA DE CARIMBO                                                                                 ,7520
+02346,ALMOFADA EMBALAGEM                                                                                  ,8135
+02347,ALMOFADA DE ESQUIFE                                                                                 ,9930
+02348,ALMOFADA MÁQUINA DE DUPLICAR                                                                        ,3610
+02349,ALMOFADA DE OMBRO ( OMBREIRA )                                                                      ,8315
+02350,ALMOFADA DE PASSAR ROUPA INDUSTRIAL                                                                 ,3510
+02351,MONTADORA LÂMINA HISTOLÓGICA                                                                        ,6640
+02352,ALMOFADA COLETA IMPRESSÃO DIGITAL                                                                   ,7520
+02353,ALMOFADA INDUSTRIAL DE MAQUINA DE PASSAR ROUPA                                                      ,3510
+02354,ALMOFARIZ                                                                                           ,6640
+02355,ALMONDEGA EM CONSERVA                                                                               ,8930
+02356,SUPORTE DESEMPENO                                                                                   ,4940
+02357,ALMOTOLIA MANUAL                                                                                    ,4930
+02358,ALOJAMENTO FLUTUANTE                                                                                ,1945
+02359,ALOJAMENTO PRE - FABRICADO                                                                          ,5410
+02360,ALOPURINOL                                                                                          ,6505
+02361,PLANTA IN - NATURA                                                                                  ,8710
+02361,PLANTA IN - NATURA                                                                                  ,8710
+02362,ALPRAZOLAM                                                                                          ,6505
+02362,ALPRAZOLAM                                                                                          ,6505
+02363,ALPROSTADIL                                                                                         ,6505
+02364,ALTAR                                                                                               ,9925
+02365,ALTEPLASE                                                                                           ,6505
+02366,ALTERNADOR                                                                                          ,6115
+02367,ALTERNADOR VEÍCULO AUTOMOTIVO                                                                       ,2920
+02367,ALTERNADOR VEÍCULO AUTOMOTIVO                                                                       ,2920
+02367,ALTERNADOR VEÍCULO AUTOMOTIVO                                                                       ,2920
+02367,ALTERNADOR VEÍCULO AUTOMOTIVO                                                                       ,2920
+02367,ALTERNADOR VEÍCULO AUTOMOTIVO                                                                       ,2920
+02368,ALTÍMETRO                                                                                           ,6675
+02369,ALTIMETRO DE AERONAVE                                                                               ,6610
+02370,ALTIMETRO PARA TOPOGRAFIA                                                                           ,6675
+02371,ALTÍMETRO PORTATIL                                                                                  ,5210
+02372,ALTO-FALANTE                                                                                        ,5965
+02372,ALTO-FALANTE                                                                                        ,5965
+02372,ALTO-FALANTE                                                                                        ,5965
+02373,1-AMINO HIDANTOÍNA                                                                                  ,6810
+02374,NEOSTIGMINA                                                                                         ,6810
+02375,CICLOPENTOLATO                                                                                      ,6810
+02376,ESTAVUDINA                                                                                          ,6810
+02377,CLOROBENZENO                                                                                        ,6810
+02378,ALVEJANTE TECIDO                                                                                    ,7930
+02379,AMÁLGAMA                                                                                            ,6520
+02380,ALVEOLÓTOMO                                                                                         ,6520
+02381,ALVO DE ARCO E FLEXA                                                                                ,7810
+02382,ALVO DE TIRO                                                                                        ,6920
+02382,ALVO DE TIRO                                                                                        ,6920
+02382,ALVO DE TIRO                                                                                        ,6920
+02382,ALVO DE TIRO                                                                                        ,6920
+02383,BASE ALVO DE TIRO                                                                                   ,6920
+02384,AMACIANTE DE CARNE                                                                                  ,8950
+02384,AMACIANTE DE CARNE                                                                                  ,8950

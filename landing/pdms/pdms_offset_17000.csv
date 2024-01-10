@@ -1,0 +1,501 @@
+codigo,descricao,codigo_classe
+13144,UMIDIFICADOR E PURIFICADOR AMBIENTE                                                                 ,4130
+13145,UMIDIFICADOR                                                                                        ,6515
+13146,UNDECILENATO DE ZINCO                                                                               ,6505
+13147,UBIDECARENONA                                                                                       ,6505
+13148,UNIÃO REDUTORA                                                                                      ,4730
+13149,CONEXÃO TUBO CONDUÇÃO                                                                               ,4730
+13150,UNIAO TUBO PRECISAO                                                                                 ,4730
+13151,UNIDADE A DIESEL COM GERADOR DE ENERGIA ELETRICA                                                    ,6115
+13152,UNIDADE A GASOLINA DE GERACAO DE ENERGIA                                                            ,6116
+13153,"""SERVIDOR""                                                                                          ",7010
+13154,PEÇA/ACESSÓRIO/SUPRIMENTO ETIQUETADORA                                                              ,7030
+13155,UNIDADE BLINDADA DE ROLAMENTO                                                                       ,3130
+13156,"""MICROCOMPUTADOR NOTEBOOK""                                                                          ",7010
+13157,UNIDADE COMPLETA DE CELULA COMBUSTIVEL                                                              ,6116
+13158,UNIDADE COMPONENTE DE CENTRAL TELEFONICA                                                            ,5805
+13159,UNIDADE COMPONENTE DE CENTRAL TELEGRAFICA                                                           ,5805
+13160,PAINEL                                                                                              ,5805
+13161,UNIDADE CORONARIANA - USO MEDICO                                                                    ,6530
+13162,UNIDADE DE APARELHO DE CRIPTOLOGIA                                                                  ,5811
+13163,UNIDADE DE BOMBEAMENTO DE ESGOTO                                                                    ,4630
+13164,UNIDADE CD-ROM                                                                                      ,7030
+13165,UNIDADE DE COMANDO                                                                                  ,9999
+13166,UNIDADE DE COMANDO DE IGNICAO ELETRONICA - VEICULOAUTOMOTIVO                                        ,5962
+13167,MICRO-COMPUTADOR                                                                                    ,7010
+13168,UNIDADE DE CONTROLE DE FITA MAGNETICA                                                               ,7020
+13169,UNIDADE LASER                                                                                       ,7070
+13170,UNIDADE DE CRISTAL PIEZOELETRICO                                                                    ,5955
+13171,UNIDADE FITA MAGNETICA                                                                              ,7030
+13172,MÁQUINA ETIQUETADORA                                                                                ,3550
+13173,UNIDADE DE FITA MAGNETICA EM CARTUCHO                                                               ,7025
+13174,UNIDADE DE GRAVAÇÃO EXTERNA / INTERNA                                                               ,7030
+13175,UNIDADE DE LIMPEZA FITA MAGNETICA                                                                   ,7035
+13176,UNIDADE DE TRATAMENTO DE GAS SF6                                                                    ,4330
+13177,UNIDADE DE TRATAMENTO DE OLEO ISOLANTE                                                              ,4330
+13178,UNIDADE ELETROCIRURGICA                                                                             ,6530
+13179,UNIDADE ESPECIAL PARA TRABALHO EM SONDA ( UTILITY UNITS )                                           ,4940
+13180,UNIDADE ESTERILIZADORA                                                                              ,6530
+13181,UNIDADE FLUXO LAMINAR                                                                               ,6640
+13182,UNIDADE GRAVADORA CD / DVD                                                                          ,7030
+13183,UNIDADE INDUSTRIAL MOVEL PARA LAVAGEM A SECO                                                        ,3510
+13184,UNIDADE INDUSTRIAL MOVEL PARA LAVANDERIA                                                            ,3510
+13185,UNIDADE MOVEL LUBRIFICACAO E ABASTECIMENTO                                                          ,4940
+13186,UNIDADE MOVEL PARA TRATAMENTO DE OLEO                                                               ,4330
+13187,USTEQUINUMABE                                                                                       ,6505
+13187,USTEQUINUMABE                                                                                       ,6505
+13187,USTEQUINUMABE                                                                                       ,6505
+13188,4-NITROFENIL-BETA-D-GLICURONÍDEO                                                                    ,6810
+13189,UNIDADE RENAL - USO MEDICO                                                                          ,6530
+13190,UNIDADE RESPIRATORIO - USO MEDICO                                                                   ,6530
+13191,UNIDADE RETIFICADORA TELEFONICA E TELEGRAFICA                                                       ,5805
+13192,UNIDADE SUBCOMPONENTE DE CENTRAL TELEFONICA                                                         ,5805
+13193,UNIDADE SUBCOMPONENTE DE CENTRAL TELEGRAFICA                                                        ,5805
+13194,UNIDADE TERMICA - USO MEDICO                                                                        ,6530
+13195,UNIDADES CONSUMIVEIS DE DETONACAO E DISPARO DE ARMAS NUCLEARES                                      ,1135
+13196,UNIDADES DE FORCA DE HELICES DE AERONAVES                                                           ,1610
+13197,ECHARPE                                                                                             ,8410
+13198,UNIFORME MASCULINO                                                                                  ,8405
+13199,URANIO                                                                                              ,9610
+13200,URETERORRENOSCÓPIO                                                                                  ,6515
+13200,URETERORRENOSCÓPIO                                                                                  ,6515
+13201,URNA CREMATORIA                                                                                     ,9930
+13202,URNA FUNERÁRIA                                                                                      ,9930
+13203,USINA DE ASFALTO                                                                                    ,3895
+13203,USINA DE ASFALTO                                                                                    ,3895
+13204,USINA DE BRITAGEM                                                                                   ,3830
+13205,USINA DE SOLO CIMENTO                                                                               ,3895
+13206,UTENSILIO CONJUGADO COM UNIDADE DE AQUECIMENTO DE ALIMENTO                                          ,7310
+13207,UTENSILIO DE CRISTAL                                                                                ,3635
+13208,UTENSILIO DE VIDRO                                                                                  ,3635
+13209,UTENSÍLIO DOMÉSTICO                                                                                 ,7210
+13209,UTENSÍLIO DOMÉSTICO                                                                                 ,7210
+13209,UTENSÍLIO DOMÉSTICO                                                                                 ,7210
+13209,UTENSÍLIO DOMÉSTICO                                                                                 ,7210
+13209,UTENSÍLIO DOMÉSTICO                                                                                 ,7210
+13209,UTENSÍLIO DOMÉSTICO                                                                                 ,7210
+13210,UTENSILIO DOMESTICO DE PAPEL                                                                        ,7210
+13211,UTENSÍLIO DOMÉSTICO DE PLÁSTICO                                                                     ,7210
+13212,UTENSILIO DOMESTICO TEXTIL                                                                          ,7210
+13213,UVA IN - NATURA                                                                                     ,8915
+13214,UVA PASSA                                                                                           ,8915
+13215,SULFANILAMIDA                                                                                       ,6509
+13215,SULFANILAMIDA                                                                                       ,6509
+13216,TRICLORFOM                                                                                          ,6509
+13217,ESTRADIOL                                                                                           ,6509
+13218,IMUNOMODULADOR                                                                                      ,6509
+13219,VACUO EXTRATOR - USO MEDICO                                                                         ,6530
+13220,VACUÔMETRO                                                                                          ,6685
+13221,VAGAO - TANQUE                                                                                      ,2220
+13222,VAGAO ABERTO                                                                                        ,2220
+13223,VAGAO CONSTRUIDO ESPECIALMENTE PARA SERVICO PESADO / TRANSPORTE DE MINERIO E PEDRA                  ,2220
+13224,VAGAO DE DESCARGA AUTOMOTIVA                                                                        ,2220
+13225,VAGAO EQUIPADO COM BATEDOR DE BALASTRO                                                              ,2220
+13226,VAGAO FERROVIARIO                                                                                   ,2220
+13227,VAGAO FERROVIARIO DE TRANSPORTE DE TURMA                                                            ,2220
+13228,VAGAO FERROVIARIO GUINDASTE                                                                         ,2220
+13229,VAGAO FRIGORIFICO                                                                                   ,2220
+13230,VAGAO PARA ANIMAL                                                                                   ,2220
+13231,VAGAO PARA BAGAGEM                                                                                  ,2220
+13232,VAGAO PARA PASSAGEIROS                                                                              ,2220
+13233,VAGAO POSTAL                                                                                        ,2220
+13234,VAGEM IN - NATURA                                                                                   ,8915
+13235,VAGONETA                                                                                            ,3920
+13236,VALACICLOVIR                                                                                        ,6505
+13237,BETAMETASONA VALERATO                                                                               ,6505
+13238,ANIDRIDO SUCCÍNICO                                                                                  ,6810
+13239,VALETADEIRA                                                                                         ,3805
+13240,VALIDADOR ELETRONICO DE BILHETE                                                                     ,7040
+13241,SULFETO DE ZINCO                                                                                    ,6810
+13242,VALISE DE ROUPA                                                                                     ,8460
+13243,VALPROATO DE SÓDIO                                                                                  ,6505
+13244,VIMINOL HIDROXIBENZOATO                                                                             ,6505
+13245,VÁLVULA                                                                                             ,4820
+13245,VÁLVULA                                                                                             ,4820
+13245,VÁLVULA                                                                                             ,4820
+13245,VÁLVULA                                                                                             ,4820
+13245,VÁLVULA                                                                                             ,4820
+13245,VÁLVULA                                                                                             ,4820
+13245,VÁLVULA                                                                                             ,4820
+13245,VÁLVULA                                                                                             ,4820
+13245,VÁLVULA                                                                                             ,4820
+13245,VÁLVULA                                                                                             ,4820
+13246,VALVULA AGULHA CARBURADOR                                                                           ,2910
+13247,VALVULA ANGULAR                                                                                     ,4820
+13248,VALVULA                                                                                             ,4820
+13249,VALVULA CAMARA DE AR                                                                                ,2640
+13250,VALVULA CARDIACA                                                                                    ,6515
+13251,VALVULA DE ALIVIO MANUAL                                                                            ,4820
+13252,VALVULA DE BATENTE                                                                                  ,4510
+13253,VALVULA DE COMANDO HIDRAULICO                                                                       ,4810
+13253,VALVULA DE COMANDO HIDRAULICO                                                                       ,4810
+13254,VÁLVULA DE CONTROLE DE FLUXO                                                                        ,4810
+13255,VALVULA DE CONTROLE SISTEMA RESFRIAMENTO MOTOR  - AERONAVE                                          ,2935
+13256,VALVULA DE ESCAPAMENTO DE CARBURADOR DE MOTOR                                                       ,2910
+13257,VALVULA DE ESCAPAMENTO DO MOTOR A GASOLINA                                                          ,2805
+13258,VALVULA DE ESTILETE DE CARBURADOR DE MOTOR                                                          ,2910
+13259,VÁLVULA REDUTORA                                                                                    ,4810
+13260,VALVULA DE GUILHOTINA                                                                               ,4820
+13261,VALVULA DE INTENSIFICACAO DE RADIACAO                                                               ,5855
+13262,VALVULA DE MANGOTE                                                                                  ,4820
+13263,VALVULA DE MICROONDA                                                                                ,5960
+13264,VALVULA DE MOTOR DE EMBARCACAO                                                                      ,2815
+13265,VALVULA COMBUSTÍVEL                                                                                 ,2910
+13266,VALVULA DE PRESSAO E VACUO MANUAL                                                                   ,4820
+13267,VÁLVULA SEGURANÇA                                                                                   ,4820
+13268,VALVULA DE SEGURANCA MANUAL                                                                         ,4820
+13269,VALVULA DE SUCCAO / DESCARGA DE COMPRESSOR                                                          ,4810
+13270,VALVULA DIODO                                                                                       ,5960
+13271,VALVULA DISPERSORA                                                                                  ,4810
+13272,VALVULA DO SISTEMA DE COMBUSTIVEL DE AERONAVE                                                       ,2915
+13273,VÁLVULA DERIVAÇÃO LOMBO-PERITONEAL                                                                  ,6515
+13274,VÁLVULA ESFÉRICA                                                                                    ,4810
+13275,VALVULA FOTOELETRICA                                                                                ,5960
+13276,VALVULA INJECAO D' AGUA SISTEMA DE COMBUSTIVEL  - AERONAVE                                          ,2915
+13277,VALVULA OBLIQUA                                                                                     ,4820
+13278,VALVULA OPERADA A MOTOR ELETRICO                                                                    ,4810
+13279,SISTEMA DERIVAÇÃO                                                                                   ,6515
+13280,VALVULA PENTODO                                                                                     ,5960
+13281,VÁLVULA PNEUMÁTICA                                                                                  ,4810
+13282,VALVULA REGULADORA DE NIVEL                                                                         ,4810
+13283,VÁLVULA REGULADORA DE PRESSÃO / PEÇAS E ACESSÓRIOS                                                  ,4810
+13283,VÁLVULA REGULADORA DE PRESSÃO / PEÇAS E ACESSÓRIOS                                                  ,4810
+13284,VALVULA REGULADORA DE PRESSAO - SISTEMA HIDRAULICO                                                  ,4820
+13285,VALVULA REGULADORA DE VAZAO                                                                         ,4810
+13285,VALVULA REGULADORA DE VAZAO                                                                         ,4810
+13286,VÁLVULA RESPIRADOR                                                                                  ,6515
+13286,VÁLVULA VENTILADOR PULMONAR ELETRÔNICO                                                              ,6515
+13287,VALVULA RETIFICADORA                                                                                ,5960
+13288,VALVULA SISTEMA COLETA A VACUO                                                                      ,4820
+13289,VALVULA TERMOPLASTICA                                                                               ,4810
+13290,VÁLVULA TERMOSTÁTICA                                                                                ,4810
+13291,VALVULA TETRODO                                                                                     ,5960
+13292,VALVULA TRIODO                                                                                      ,5960
+13293,VALVULA UNIDIRECIONAL                                                                               ,6515
+13294,VÁLVULA VENTOSA                                                                                     ,4810
+13294,VÁLVULA VENTOSA                                                                                     ,4810
+13294,VÁLVULA VENTOSA                                                                                     ,4810
+13294,VÁLVULA VENTOSA                                                                                     ,4810
+13295,VALVULAS ESPECIFICAS DO SISTEMA DE FREIO DE AERONAVES                                               ,1630
+13296,VALVULÓTOMO                                                                                         ,6530
+13297,VANCOMICINA CLORIDRATO                                                                              ,6505
+13298,VAPOJET - USO HOSPITALAR                                                                            ,6530
+13299,VAPORIZADOR DE AMBIENTE                                                                             ,4130
+13300,VARA DE FECHADURA TIPO CREMONA                                                                      ,5340
+13301,VARA DE MANOBRA                                                                                     ,6150
+13302,VARA PESCA                                                                                          ,7810
+13303,PERFIL NÃO METÁLICO                                                                                 ,9390
+13303,PERFIL NÃO METÁLICO                                                                                 ,9390
+13303,PERFIL NÃO METÁLICO                                                                                 ,9390
+13303,PERFIL NÃO METÁLICO                                                                                 ,9390
+13304,PONTA PROVA MULTÍMETRO                                                                              ,5210
+13305,VARETA DE METAL PRECIOSO                                                                            ,9545
+13306,VARETA SOLDA                                                                                        ,3439
+13306,VARETA SOLDA                                                                                        ,3439
+13306,VARETA SOLDA                                                                                        ,3439
+13306,VARETA SOLDA                                                                                        ,3439
+13307,VARETA DE VIDRO                                                                                     ,9340
+13308,VARETA MEDIDORA DE NIVEL DO OLEO DE MOTOR A GASOLINA                                                ,2805
+13309,VARDENAFILA                                                                                         ,6505
+13310,VARIADOR DE POTENCIA ELETRICA                                                                       ,6110
+13311,VARIADOR DE VELOCIDADE - MOTOR  / VENTILADOR / BOMBA / ACIONAMENTO REGULAVEL                        ,5999
+13312,VARISTOR                                                                                            ,5905
+13312,VARISTOR                                                                                            ,5905
+13313,VARREDEIRA                                                                                          ,3825
+13314,VAZADOR                                                                                             ,5110
+13315,ÁCIDO 2-CLOROETILFOSFÔNICO                                                                          ,6840
+13316,VANADATO DE AMÔNIO                                                                                  ,6810
+13317,BILIRRUBINA                                                                                         ,6810
+13318,VASELINA SOLIDA (VER PETROLATO)                                                                     ,9150
+13319,VASO COLETOR / COMPONENTE                                                                           ,6515
+13320,VASO                                                                                                ,7290
+13320,VASO                                                                                                ,7290
+13320,VASO                                                                                                ,7290
+13320,VASO                                                                                                ,7290
+13320,VASO                                                                                                ,7290
+13320,VASO                                                                                                ,7290
+13321,VASO PRESSAO - TANQUE AQUECIDO                                                                      ,5430
+13322,VASO SANITÁRIO                                                                                      ,4510
+13322,VASO SANITÁRIO                                                                                      ,4510
+13323,AMBRISENTANA                                                                                        ,6505
+13324,SALICILATO DE BISMUTO                                                                               ,6505
+13325,VASOPRESSINA                                                                                        ,6505
+13326,ÁCIDO QUENODESOXICÓLICO                                                                             ,6505
+13327,VASSOURA                                                                                            ,7920
+13328,VASSOURA MECANICA - PEÇAS E ACESSÓRIOS                                                              ,3825
+13329,VECURÔNIO                                                                                           ,6505
+13330,VEDA JUNTA DE AZULEJO                                                                               ,5610
+13331,VEDADOR DE MULTIAPLICACAO                                                                           ,5330
+13332,VEDADOR DE OLEO                                                                                     ,5330
+13333,VEDANTE TORNEIRA                                                                                    ,5330
+13334,VEDETA ( LANCHA )                                                                                   ,1940
+13335,VEGETAL IN - NATURA                                                                                 ,8915
+13336,VEICULO ANFIBIO SOBRE LAGARTA                                                                       ,2350
+13337,VEICULO ANFIBIO SOBRE MEIA LAGARTA                                                                  ,2350
+13338,VEICULO ANFIBIO SOBRE RODAS                                                                         ,2320
+13339,VEICULO AUTOMOTIVO (MOTOR HOME) - COMERCIAL / RESIDENCIAL                                           ,2320
+13339,VEICULO AUTOMOTIVO (MOTOR HOME) - COMERCIAL / RESIDENCIAL                                           ,2320
+13340,VEICULO AUTOPROPULSOR PARA VIA FERREA -  DETECCAO                                                   ,2220
+13341,VEICULO AUTOPROPULSOR PARA VIA FERREA - SUBSTITUIR                                                  ,2220
+13342,VEICULO AUTOPROPULSOR REPERFILADOR / RETIFICADOR                                                    ,2220
+13343,VEICULO BASCULANTE GRANELEIRO                                                                       ,2320
+13344,VEÍCULO CARROCERIA ABERTA                                                                           ,2320
+13345,VEICULO DE MANUTENCAO PARA LEVANTAR / NIVELAR / AL                                                  ,2220
+13346,VEICULO DESGUARNECEDOR DE LASTRO PARA LIMPEZA / RE                                                  ,2220
+13347,VEICULO EQUIPADO COM BOMBA PARA CONCRETO                                                            ,2320
+13348,VEICULO LABORATORIO DENTARIO SOBRE RODAS                                                            ,2320
+13349,VEICULO LAVANDERIA SOBRE RODAS                                                                      ,2320
+13350,VEICULO MANIPULACAO E TRANSPORTE DE  CARGA EXPLOSIVA - CONTROLE REMOTO ( ROBO )                     ,2350
+13351,VEICULO OFICINA SOBRE RODAS                                                                         ,2320
+13352,VEICULO PARA LAVAR RUAS                                                                             ,2320
+13353,VEICULO PARA REGULAR E DISTRIBUIR LASTRO - VIA FER                                                  ,2220
+13354,VEICULO PARA TRANSPORTAR AUTOMOVEL / CAMINHAO                                                       ,2320
+13355,VEICULO PARA TRANSPORTAR BOBINA                                                                     ,2320
+13356,VEICULO PARA TRANSPORTAR CONTAINER                                                                  ,2320
+13357,VEICULO QUE SE MOVIMENTA SOBRE COLCHAO DE AR                                                        ,2305
+13358,VEICULOS / REBOQUES PARA TRANSPORTE DE VEICULOS ESPACIAIS                                           ,1850
+13359,VEICULOS ESPACIAIS - SISTEMA DE CONTROLE  /  COMPONENTES                                            ,5998
+13360,VEICULOS ESPACIAIS COMPLETO MONTADOS / DESMONTADO S                                                 ,1810
+13361,VELA DE FILTRO                                                                                      ,4610
+13362,VELA DE IGNICAO DE AERONAVE                                                                         ,2925
+13363,VELA DE PROPULSAO DE EMBARCACAO                                                                     ,2090
+13364,VELADOR PARA CAMARA DE ION DE REATOR NUCLEAR                                                        ,4470
+13365,VELAME DE EMBARCACAO                                                                                ,2010
+13366,VELCRO                                                                                              ,8315
+13366,VELCRO                                                                                              ,8315
+13366,VELCRO                                                                                              ,8315
+13367,VELOCIMETRO                                                                                         ,2540
+13368,VELOCIPEDE                                                                                          ,7820
+13369,ÁCIDO IODÍDRICO                                                                                     ,6810
+13370,CLOMAZONA                                                                                           ,6840
+13371,VENEZIANA                                                                                           ,7230
+13372,VENLAFAXINA                                                                                         ,6505
+13373,VENTILADOR DE EMBARCACAO                                                                            ,4140
+13374,VENTILADOR DE REFRIGERACAO DE MOTOR AUTOMOTIVO                                                      ,2930
+13375,VENTILADOR DE SOTAO ( RESPIRADOURO )                                                                ,4140
+13376,VENTILADOR INDUSTRIAL                                                                               ,4140
+13377,MOTOVENTILADOR                                                                                      ,4140
+13378,VENTILADORES DE AERONAVES                                                                           ,1680
+13379,VENTILÔMETRO                                                                                        ,6530
+13380,VENTOINHA                                                                                           ,4140
+13380,VENTOINHA                                                                                           ,4140
+13381,VENTOINHA PARA RADIADOR - VEICULO AUTOMOTIVO                                                        ,2930
+13382,VENTOSA                                                                                             ,6530
+13382,VENTOSA                                                                                             ,6530
+13382,VENTOSA                                                                                             ,6530
+13382,VENTOSA                                                                                             ,6530
+13383,VERALIPRIDA (RETIRADO DE MERCADO)                                                                   ,6505
+13384,VERAPAMIL CLORIDRATO                                                                                ,6505
+13385,HEPTANO-1-TIOL                                                                                      ,6810
+13386,TIOFENO                                                                                             ,6810
+13387,VERDE MALAQUITA                                                                                     ,6550
+13388,VERDURA IN NATURA*                                                                                  ,8915
+13389,VERGA DE VELAME                                                                                     ,2020
+13390,VERGALHÃO                                                                                           ,9510
+13391,VERGALHÃO ARMAÇÃO CONCRETO                                                                          ,9510
+13392,VERIFICADOR DE SEQUENCIA DE FASE                                                                    ,6625
+13393,DIETIL-ETOXIMETILENO MALONATO                                                                       ,6810
+13394,VERMICULITE EXPANDIDA                                                                               ,5610
+13395,VERMÍFUGO (BUSCAR PELO PRINCÍPIO ATIVO)                                                             ,6509
+13396,VERNIZ DENTÁRIO                                                                                     ,6520
+13396,VERNIZ DENTÁRIO                                                                                     ,6520
+13397,VERNIZ INDUSTRIAL                                                                                   ,8010
+13398,VERNIZ ISOLANTE                                                                                     ,5970
+13399,VERNIZ                                                                                              ,8010
+13399,VERNIZ                                                                                              ,8010
+13399,VERNIZ                                                                                              ,8010
+13400,VERRUMA                                                                                             ,5133
+13401,CAPA COLETE BALÍSTICO                                                                               ,8470
+13401,CAPA COLETE BALÍSTICO                                                                               ,8470
+13402,VESTUARIO ANTI - CHAMA                                                                              ,4210
+13403,VESTUARIO ANTIGRAVITACIONAL                                                                         ,8475
+13404,VESTUÁRIO COMBATE A INCÊNDIO                                                                        ,4240
+13405,VESTUÁRIO DE SEGURANÇA                                                                              ,8415
+13406,VESTUARIO EXTERNO FEMININO                                                                          ,8410
+13407,VESTUÁRIO PARA COMBATE                                                                              ,8415
+13408,VESTUARIO PARA DESPORTO / UNIFORME ESPORTIVO                                                        ,8415
+13409,SHORT FEMININO                                                                                      ,8410
+13409,SHORT FEMININO                                                                                      ,8410
+13409,SHORT FEMININO                                                                                      ,8410
+13410,VESTUÁRIO PARA PROTEÇÃO                                                                             ,8415
+13410,VESTUÁRIO PARA USO NÃO CONVENCIONAL                                                                 ,8415
+13411,VESTUARIO PRESSURIZADO                                                                              ,8475
+13412,VESTUARIO PROTECAO - BAIXA TEMPERATURA                                                              ,8415
+13413,SAPATO SEGURANÇA                                                                                    ,8415
+13413,SAPATO SEGURANÇA                                                                                    ,8415
+13413,SAPATO SEGURANÇA                                                                                    ,8415
+13413,SAPATO SEGURANÇA                                                                                    ,8415
+13414,MONITOR DE IMAGEM E CIRURGIA - USO MÉDICO                                                           ,6530
+13414,MONITOR DE IMAGEM E CIRURGIA - USO MÉDICO                                                           ,6530
+13414,MONITOR DE IMAGEM E CIRURGIA - USO MÉDICO                                                           ,6530
+13415,VETOMETRO - USO OFTALMOLOGICO                                                                       ,6540
+13416,VIATURA TRANSPORTE ESPECIALIZADO FRIGORIFICO                                                        ,2320
+13417,VIBRADOR                                                                                            ,6130
+13418,VIBRADOR                                                                                            ,6515
+13419,VIBRADOR - USO ODONTOLOGICO                                                                         ,6520
+13420,VIBRADOR CONCRETO                                                                                   ,3895
+13420,VIBRADOR CONCRETO                                                                                   ,3895
+13421,VÁLVULA ELETRÔNICA                                                                                  ,5960
+13422,VÍDEO DE EDITOR DE TEXTO                                                                            ,7490
+13423,VIDEOCASSETE                                                                                        ,7730
+13424,VIDEOENDOSCÓPIO                                                                                     ,6515
+13425,VIDRACARIA DE LABORATORIO                                                                           ,6640
+13426,LÂMINA LABORATÓRIO                                                                                  ,6640
+13427,VIDRO BOX                                                                                           ,5620
+13428,VIDRO - USO ODONTOLOGICO                                                                            ,6520
+13429,VIDRO - VEICULO AUTOMOTIVO                                                                          ,2510
+13430,VIDRO BIOPSIA - LABORATORIO                                                                         ,6640
+13431,VIDRO RELÓGIO                                                                                       ,6640
+13432,VIDRO PARA ARQUITETURA PRE - CORTADO                                                                ,5620
+13433,VIDRO CAIXILHO                                                                                      ,5620
+13434,VIDRO                                                                                               ,9340
+13435,VIGA DE ANCORAGEM DE TORRE PRE - FABRICADA                                                          ,5445
+13436,VIGA DE CONCRETO PRE - FABRICADA                                                                    ,5620
+13437,VIGA DE MADEIRA                                                                                     ,5510
+13438,VIGA ESTRUTURA METALICA                                                                             ,5670
+13439,VIGA SUSTENTACAO ( EPI )                                                                            ,4240
+13440,VIGA V                                                                                              ,5450
+13441,VIGABATRINA                                                                                         ,6505
+13442,VIGIA ( NAVIO )                                                                                     ,2040
+13443,VIGOTA DE MADEIRA                                                                                   ,5510
+13444,VIMBLASTINA                                                                                         ,6505
+13445,VINCRISTINA                                                                                         ,6505
+13446,VINHO MEDICINAL                                                                                     ,8965
+13447,VINHO SACRAMENTAL                                                                                   ,9925
+13448,VINORELBINA                                                                                         ,6505
+13449,MALONATO DE DIMETILA                                                                                ,6810
+13450,VIOLETA DE GENCIANA                                                                                 ,6505
+13451,FORMIATO DE ETILA                                                                                   ,6810
+13452,VIRA                                                                                                ,8315
+13453,VISCOSÍMETRO                                                                                        ,6635
+13453,VISCOSÍMETRO                                                                                        ,6635
+13454,VISEIRA DE SOLDADOR                                                                                 ,4240
+13455,VISOR DE MICROFILME                                                                                 ,6730
+13456,VISOR DE NÍVEL                                                                                      ,6680
+13457,VISOR DE REFLEXO - AERONAVE                                                                         ,1680
+13458,VISOR DE SOL DE AERONAVES                                                                           ,1680
+13459,VISOR DE VALVULA DE RAIO CATODICO                                                                   ,5999
+13460,VISOR NOTURNO                                                                                       ,5855
+13461,VISOR QUE UTILIZA RADIACAO PROJETADA POR FONTE PROXIMA DE RAIO INFRAVERMELHO                        ,5855
+13462,VISORES TELESCOPICOS PARA EMBARCACOES                                                               ,1240
+13463,VINFLUNINA                                                                                          ,6505
+13464,ÁCIDO ERÚCICO                                                                                       ,6810
+13465,OXINITRATO DE ZIRCÔNIO IV                                                                           ,6810
+13466,ÁCIDO TIÓCTICO                                                                                      ,6505
+13467,VITAMINA A                                                                                          ,6505
+13468,COBAMAMIDA                                                                                          ,6505
+13469,"VITAMINA "" K1 "" ( FITOMENADIONA )                                                                   ",6505
+13470,VITAMINAS DO COMPLEXO B                                                                             ,6505
+13471,PITAVASTATINA                                                                                       ,6505
+13471,PITAVASTATINA                                                                                       ,6505
+13472,VITELINATO DE PRATA                                                                                 ,6505
+13472,VITELINATO DE PRATA                                                                                 ,6505
+13473,VIVEIRO AGRICOLA                                                                                    ,6636
+13474,BERÇÁRIO PARA ALEVINAGEM                                                                            ,3770
+13475,VIVEIRO DE PLANTAS                                                                                  ,3750
+13476,VOADEIRA                                                                                            ,1940
+13477,VOLANTE MOTOR                                                                                       ,2815
+13478,VOLANTE DIREÇÃO                                                                                     ,2530
+13479,VOLTÍMETRO DIGITAL                                                                                  ,6625
+13479,VOLTÍMETRO DIGITAL                                                                                  ,6625
+13480,VULCANIZADOR - USO ODONTOLOGICO                                                                     ,6520
+13481,VULCANIZADOR REMENDO CAMARA DE AR                                                                   ,2640
+13481,VULCANIZADOR REMENDO CAMARA DE AR                                                                   ,2640
+13482,VULCANIZADOR REMENDO PNEU                                                                           ,2640
+13483,VARFARINA SÓDICA                                                                                    ,6505
+13484,XAMPU                                                                                               ,8510
+13485,XAMPU                                                                                               ,6509
+13486,ÁCIDO FTÁLICO                                                                                       ,6810
+13487,XAXIM                                                                                               ,7290
+13488,XÍCARA DESCARTÁVEL                                                                                  ,7350
+13489,XILENO                                                                                              ,6810
+13490,XILOSE                                                                                              ,6810
+13491,XISTO BETUMINOSO                                                                                    ,9620
+13492,ZALCITABINA (HIVID SUSPENSO PELO ROCHE)                                                             ,6505
+13493,ZARAGATOA                                                                                           ,6515
+13494,ZIDOVUDINA                                                                                          ,6505
+13495,ZIDOVUDINA + LAMIVUDINA                                                                             ,6505
+13496,ZINCO                                                                                               ,6810
+13497,ZIPER                                                                                               ,8315
+13498,ZIPER CIRURGICO                                                                                     ,6510
+13499,ZOLPIDEM                                                                                            ,6505
+13499,ZOLPIDEM                                                                                            ,6505
+13500,ZOPICLONA                                                                                           ,6505
+13501,ZORRA DE ALMOXARIFADO                                                                               ,3920
+13502,TULE TECIDO                                                                                         ,8305
+13503,AGULHA BORDAR                                                                                       ,8315
+13504,AGULHA TAPEÇARIA                                                                                    ,8315
+13504,AGULHA TAPEÇARIA                                                                                    ,8315
+13505,ALFINETE SEGURANÇA                                                                                  ,8315
+13506,UNIDADE DESCONTAMINAÇÃO AR                                                                          ,4460
+13507,LUPA ELETRÔNICA                                                                                     ,6650
+13508,PEÇA / ACESSÓRIO - PURIFICAÇÃO GASES                                                                ,4460
+13509,APAGADOR MEMÓRIA                                                                                    ,7060
+13510,TECLADO MICROCOMPUTADOR                                                                             ,7060
+13511,ACESSORIO DE EQUIPAMENTO DE JATO DE AREIA                                                           ,3426
+13512,PEÇAS / ACESSÓRIOS FRESADORA                                                                        ,3460
+13513,ACESSORIO DE FURADEIRA ELETRICA                                                                     ,3460
+13514,ACESSORIO DE MANDRILADORA                                                                           ,3460
+13515,ACESSORIO DE OFICINA DE TRATAMENTO SUPERFICIAL DE METAL                                             ,3426
+13516,ACESSORIO DE REVELACAO FOTOGRAFICA                                                                  ,6740
+13517,ACESSÓRIO DE TORNO MECÂNICO                                                                         ,3460
+13518,ACESSÓRIO FOTOGRÁFICO                                                                               ,6760
+13519,ACESSORIO NAO METALICO PARA MONTAGEM DE TUBO SUBTERRANEO                                            ,5630
+13520,ADAPTADOR DE LAMPADA SOQUETE / ROSCA / SOQUETE                                                      ,6250
+13521,ADUBO VEGETAL                                                                                       ,8720
+13521,ADUBO VEGETAL                                                                                       ,8720
+13522,BROMOBENZENO                                                                                        ,6810
+13523,ALICATE DE UNHA DE USO VETERINARIO                                                                  ,6515
+13524,ALICATE VASADOR                                                                                     ,5110
+13525,ALIMENTAÇÃO INFANTIL                                                                                ,8940
+13526,ALIMENTO IN-NATURA PARA ANIMAL                                                                      ,8710
+13527,ALIMENTO INDUSTRIALIZADO CONSUMO HUMANO                                                             ,8905
+13528,APARELHO TELEFÔNICO CELULAR / ACESSÓRIOS                                                            ,5805
+13528,APARELHO TELEFÔNICO CELULAR / ACESSÓRIOS                                                            ,5805
+13528,APARELHO TELEFÔNICO CELULAR / ACESSÓRIOS                                                            ,5805
+13528,APARELHO TELEFÔNICO CELULAR / ACESSÓRIOS                                                            ,5805
+13529,APARELHO VÁCUO LABORATÓRIO                                                                          ,6640
+13530,REFIL                                                                                               ,9999
+13530,REFIL                                                                                               ,9999
+13530,REFIL                                                                                               ,9999
+13530,REFIL                                                                                               ,9999
+13530,REFIL                                                                                               ,9999
+13531,POTE                                                                                                ,9999
+13532,ARTIGO DE CRISTAL PARA MESA                                                                         ,7350
+13533,ARTIGO DE PORCELANA PARA MESA                                                                       ,7350
+13534,ARTIGO DE VIDRO PARA MESA                                                                           ,7350
+13535,MEMBRANA AUTOCLAVE                                                                                  ,6530
+13536,BERÇO COLORAÇÃO LÂMINAS                                                                             ,6640
+13537,BOBINA DE FIO                                                                                       ,8130
+13538,CABO DE USO EM ENERGIA ELÉTRICA                                                                     ,6145
+13539,CÂMARA FILMAGEM / FILMADORA                                                                         ,6710
+13540,CAMARA DE FUMIGACAO                                                                                 ,4230
+13541,CLORETO DE MANGANÊS                                                                                 ,6810
+13542,COMBUSTIVEL PARA AVIACAO                                                                            ,9130
+13543,COMPONENTE SISTEMA MICROONDAS                                                                       ,5860
+13544,CONECTOR ELÉTRICO                                                                                   ,5935
+13544,CONECTOR ELÉTRICO                                                                                   ,5935
+13544,CONECTOR ELÉTRICO                                                                                   ,5935
+13544,CONECTOR ELÉTRICO                                                                                   ,5935
+13545,CONEXAO HIDRAULICA - MATERIAL METALICO FERROSO                                                      ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730
+13546,CONEXÃO HIDRÁULICA                                                                                  ,4730

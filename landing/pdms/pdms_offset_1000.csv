@@ -1,0 +1,501 @@
+codigo,descricao,codigo_classe
+00614,SERROTE PODA                                                                                        ,3750
+00614,SERROTE PODA                                                                                        ,3750
+00614,SERROTE PODA                                                                                        ,3750
+00615,MANGUEIRA HIDRÁULICA                                                                                ,4720
+00615,MANGUEIRA HIDRÁULICA                                                                                ,4720
+00615,MANGUEIRA HIDRÁULICA                                                                                ,4720
+00615,MANGUEIRA HIDRÁULICA                                                                                ,4720
+00615,MANGUEIRA HIDRÁULICA                                                                                ,4720
+00615,MANGUEIRA HIDRÁULICA                                                                                ,4720
+00615,MANGUEIRA HIDRÁULICA                                                                                ,4720
+00616,MANGUEIRA JARDIM                                                                                    ,4720
+00617,MANGUEIRA SUCÇÃO - SERVIÇOS LEVES                                                                   ,4720
+00617,MANGUEIRA SUCÇÃO - SERVIÇOS LEVES                                                                   ,4720
+00618,MANGUEIRA SUCÇÃO - SERVIÇOS PESADOS                                                                 ,4720
+00618,MANGUEIRA SUCÇÃO - SERVIÇOS PESADOS                                                                 ,4720
+00619,MANGUEIRA SUCÇÃO - SERVIÇOS SUPER PESADOS                                                           ,4720
+00620,TUBO FLEXÍVEL                                                                                       ,4720
+00620,TUBO FLEXÍVEL                                                                                       ,4720
+00620,TUBO FLEXÍVEL                                                                                       ,4720
+00621,ANEL BORRACHA                                                                                       ,4730
+00621,ANEL BORRACHA                                                                                       ,4730
+00622,NIPLE PARA TUBOS CANOS - ROSCÁVEL                                                                   ,4730
+00623,TÊ - CONEXÃO PARA TUBOS CANOS - ROSCÁVEL                                                            ,4730
+00623,TÊ - CONEXÃO PARA TUBOS CANOS - ROSCÁVEL                                                            ,4730
+00624,TÊ - CONEXÃO PARA TUBOS E CANOS - SOLDÁVEL                                                          ,4730
+00624,TÊ - CONEXÃO PARA TUBOS E CANOS - SOLDÁVEL                                                          ,4730
+00625,UNIÃO SOLDÁVEL                                                                                      ,4730
+00626,UNIÃO ROSCÁVEL                                                                                      ,4730
+00627,SERROTE CARPINTEIRO                                                                                 ,5110
+00628,TALHADEIRA                                                                                          ,5110
+00628,TALHADEIRA                                                                                          ,5110
+00628,TALHADEIRA                                                                                          ,5110
+00629,CHAVE ESTRELA - MILIMETRADA                                                                         ,5120
+00630,CHAVE ESTRELA - POLEGADA                                                                            ,5120
+00630,CHAVE ESTRELA - POLEGADA                                                                            ,5120
+00630,CHAVE ESTRELA - POLEGADA                                                                            ,5120
+00631,PREGO ANELADO                                                                                       ,5315
+00632,PREGO ARDOX COM CABEÇA                                                                              ,5315
+00633,PREGO ARDOX SEM CABEÇA                                                                              ,5315
+00634,BUCHA PARAFUSO                                                                                      ,5365
+00634,BUCHA PARAFUSO                                                                                      ,5365
+00634,BUCHA PARAFUSO                                                                                      ,5365
+00634,BUCHA PARAFUSO                                                                                      ,5365
+00635,PREGO COM CABEÇA                                                                                    ,5315
+00635,PREGO COM CABEÇA                                                                                    ,5315
+00636,PREGO COM CABEÇA DUPLA                                                                              ,5315
+00637,PREGO PARA TACO                                                                                     ,5315
+00638,PREGO QUADRADO                                                                                      ,5315
+00639,PREGO SEM CABEÇA                                                                                    ,5315
+00640,PREGO PARA TELHA                                                                                    ,5315
+00641,PREGO VIDRACEIRO                                                                                    ,5315
+00642,ARRUELA                                                                                             ,5310
+00642,ARRUELA                                                                                             ,5310
+00642,ARRUELA                                                                                             ,5310
+00642,ARRUELA                                                                                             ,5310
+00642,ARRUELA                                                                                             ,5310
+00643,CABO TELEFÔNICO                                                                                     ,6145
+00644,GÁS LIQUEFEITO DE PETRÓLEO - GLP                                                                    ,9130
+00645,GASOLINA AVIAÇÃO                                                                                    ,9130
+00646,ÓLEO DIESEL.                                                                                        ,9140
+00647,CAMINHÃO CARGA                                                                                      ,2320
+00647,CAMINHÃO CARGA                                                                                      ,2320
+00647,CAMINHÃO CARGA                                                                                      ,2320
+00647,CAMINHÃO CARGA                                                                                      ,2320
+00647,CAMINHÃO CARGA                                                                                      ,2320
+00647,CAMINHÃO CARGA                                                                                      ,2320
+00648,VEÍCULO TRANSPORTE PESSOAL                                                                          ,2320
+00648,VEÍCULO TRANSPORTE PESSOAL                                                                          ,2320
+00648,VEÍCULO TRANSPORTE PESSOAL                                                                          ,2320
+00648,VEÍCULO TRANSPORTE PESSOAL                                                                          ,2320
+00648,VEÍCULO TRANSPORTE PESSOAL                                                                          ,2320
+00648,VEÍCULO TRANSPORTE PESSOAL                                                                          ,2320
+00649,VIATURA TRANSPORTE ESPECIALIZADO CISTERNA                                                           ,2320
+00650,VIATURA TRANSPORTE ESPECIALIZADO FRIGORÍFICO                                                        ,2320
+00651,CARRETA TRANSPORTE EMBARCAÇÃO                                                                       ,2330
+00651,CARRETA TRANSPORTE EMBARCAÇÃO                                                                       ,2330
+00652,PINÇA FREIO - VEÍCULO AUTOMOTIVO                                                                    ,2530
+00652,PINÇA FREIO - VEÍCULO AUTOMOTIVO                                                                    ,2530
+00653,BICICLETA                                                                                           ,2340
+00653,BICICLETA                                                                                           ,2340
+00654,TRICICLO                                                                                            ,2340
+00654,TRICICLO                                                                                            ,2340
+00654,TRICICLO                                                                                            ,2340
+00654,TRICICLO                                                                                            ,2340
+00655,PALHETA LIMPADOR PÁRA-BRISA                                                                         ,2540
+00655,PALHETA LIMPADOR PÁRA-BRISA                                                                         ,2540
+00656,TUBO AÇO CARBONO COM COSTURA                                                                        ,4710
+00656,TUBO AÇO CARBONO COM COSTURA                                                                        ,4710
+00657,TUBO AÇO CARBONO SEM COSTURA                                                                        ,4710
+00657,TUBO AÇO CARBONO SEM COSTURA                                                                        ,4710
+00658,TUBO FLEXÍVEL POLIETILENO                                                                           ,4720
+00659,TUBO PVC SOLDÁVEL                                                                                   ,4710
+00660,TUBO PVC ROSCÁVEL                                                                                   ,4710
+00661,MANGUEIRA HIDRANTE                                                                                  ,4720
+00662,TUBO METÁLICO FLEXÍVEL                                                                              ,4720
+00663,TUBO POLIETILENO FLEXÍVEL                                                                           ,4720
+00664,ADAPTADOR TUBO PRECISÃO                                                                             ,4730
+00665,BUCHA INSTALAÇÃO PREDIAL ÁGUA FRIA                                                                  ,4730
+00666,COTOVELO TUBO CONDUÇÃO METÁLICO                                                                     ,4730
+00667,NIPLE TUBO CONDUÇÃO METÁLICA                                                                        ,4730
+00668,UNIÃO TUBO CONDUÇÃO METÁLICA                                                                        ,4730
+00669,UNIÃO TUBO PRECISÃO                                                                                 ,4730
+00670,TELA                                                                                                ,9390
+00670,TELA                                                                                                ,9390
+00670,TELA                                                                                                ,9390
+00671,CHAVE FUSÍVEL REPETIDORA                                                                            ,6110
+00672,SECCIONADOR AUTOMÁTICO                                                                              ,6110
+00673,ACUMULADOR TENSÃO                                                                                   ,6130
+00674,BARRAMENTO BLINDADO                                                                                 ,6150
+00675,CABO AUDIOFREQUÊNCIA                                                                                ,6145
+00676,CABO COAXIAL                                                                                        ,6145
+00676,CABO COAXIAL                                                                                        ,6145
+00677,CABO FLEXÍVEL ESTANHADO                                                                             ,6145
+00678,CABO MONOFÁSICO                                                                                     ,6145
+00679,VELA ILUMINAÇÃO                                                                                     ,6260
+00679,VELA ILUMINAÇÃO                                                                                     ,6260
+00680,GASOLINA COMUM                                                                                      ,9130
+00681,CERA                                                                                                ,9160
+00681,CERA                                                                                                ,9160
+00681,CERA                                                                                                ,9160
+00682,CERA ABELHA                                                                                         ,9160
+00682,CERA ABELHA                                                                                         ,9160
+00683,CERA ABELHA ALVEOLADA                                                                               ,9160
+00684,BRAÇADEIRA                                                                                          ,2590
+00684,BRAÇADEIRA                                                                                          ,2590
+00685,VEÍCULO AUTOMOTIVO - PICAPE                                                                         ,2320
+00686,REBOQUE TRANSPORTE ANIMAL                                                                           ,2330
+00687,AR CONDICIONADO PORTÁTIL                                                                            ,4120
+00688,VENTILADOR TETO                                                                                     ,4140
+00689,TERMINAL TUBO FLEXÍVEL                                                                              ,4730
+00690,ALICATE BICO MEIA CANA                                                                              ,5110
+00691,ALICATE BICO MEIA CANA RETO COM CORTE                                                               ,5110
+00692,ALICATE BICO MEIA CANA RETO SEM CORTE                                                               ,5120
+00693,ALICATE DESCASCAR FIO                                                                               ,5110
+00693,ALICATE DESCASCAR FIO                                                                               ,5110
+00694,ALICATE VAZADOR DE COURO DE TAMBOR                                                                  ,5110
+00695,ARCO SERRA                                                                                          ,5110
+00696,FACÃO                                                                                               ,5110
+00697,BOLSA FERRAMENTA                                                                                    ,5140
+00698,ISOLAMENTO TÉRMICO FLEXÍVEL                                                                         ,5640
+00699,FIO REVESTIMENTO BAIXA TENSÃO                                                                       ,6145
+00700,TÁBUA PASSAR ROUPA                                                                                  ,7290
+00701,QUEROSENE.                                                                                          ,9140
+00702,ALICATE UNIVERSAL                                                                                   ,5110
+00703,COIFA                                                                                               ,4140
+00704,EXAUSTOR                                                                                            ,4140
+00704,EXAUSTOR                                                                                            ,4140
+00704,EXAUSTOR                                                                                            ,4140
+00704,EXAUSTOR                                                                                            ,4140
+00705,EXAUSTOR CENTRÍFUGO                                                                                 ,4140
+00706,HÉLICE VENTILADOR                                                                                   ,4140
+00707,VENTILADOR AXIAL                                                                                    ,4140
+00708,DEPURADOR/EXAUSTOR AR                                                                               ,4140
+00709,ÁCIDO ACÉTICO                                                                                       ,6810
+00710,VENTILADOR                                                                                          ,4140
+00710,VENTILADOR                                                                                          ,4140
+00710,VENTILADOR                                                                                          ,4140
+00710,VENTILADOR                                                                                          ,4140
+00710,VENTILADOR                                                                                          ,4140
+00710,VENTILADOR                                                                                          ,4140
+00711,ÁCIDO FÓRMICO                                                                                       ,6810
+00712,ÁCIDO FLUORÍDRICO                                                                                   ,6810
+00713,ÁCIDO NÍTRICO                                                                                       ,6810
+00714,AMILORIDA                                                                                           ,6810
+00715,ÁLCOOL ETÍLICO LIMPEZA DE AMBIENTES                                                                 ,7930
+00716,NITROBENZILDENAMINO                                                                                 ,6810
+00717,CARBONATO DE CÁLCIO                                                                                 ,6810
+00718,AR CONDICIONADO CENTRAL                                                                             ,4120
+00719,ÁLCOOL BENZÍLICO                                                                                    ,6810
+00720,DISSULFETO DE DIETILA                                                                               ,6810
+00721,CLORETO DE ANTIMÔNIO                                                                                ,6810
+00722,CORANTE                                                                                             ,6820
+00722,CORANTE                                                                                             ,6820
+00723,EPINASTINA                                                                                          ,6810
+00724,ÁCIDO CAPRÍLICO                                                                                     ,6810
+00725,CICLOFOSFAMIDA                                                                                      ,6810
+00726,CÚRCUMA                                                                                             ,6820
+00727,MISTURA URUCUM E CÚRCUMA                                                                            ,6820
+00728,URUCUM                                                                                              ,6820
+00729,CLOXACILINA                                                                                         ,6810
+00730,ÁCIDO ANTRANÍLICO                                                                                   ,6810
+00731,FENAZINA                                                                                            ,6810
+00732,HIDROXILAMINA                                                                                       ,6810
+00732,HIDROXILAMINA                                                                                       ,6810
+00733,ACETATO DE LÍTIO                                                                                    ,6810
+00734,CARTAPE                                                                                             ,6840
+00735,RITONAVIR                                                                                           ,6810
+00736,ÍNDIO                                                                                               ,6810
+00737,IRÍDIO                                                                                              ,6810
+00738,GÁLIO                                                                                               ,6810
+00739,NITRATO DE PRATA SOLUÇÃO (VER CLASSE 6810)                                                          ,6850
+00740,RUTINA                                                                                              ,6810
+00741,CLORPROMAZINA                                                                                       ,6810
+00742,SULFITO DE SÓDIO                                                                                    ,6810
+00743,METAMITRONA                                                                                         ,6840
+00743,METAMITRONA                                                                                         ,6840
+00744,ÓXIDO DE TÁLIO                                                                                      ,6810
+00745,CAPACHO                                                                                             ,7220
+00746,CARPETE                                                                                             ,7220
+00746,CARPETE                                                                                             ,7220
+00747,ACOLCHOADO                                                                                          ,7210
+00747,ACOLCHOADO                                                                                          ,7210
+00747,ACOLCHOADO                                                                                          ,7210
+00748,"""COLCHA CAMA""                                                                                       ",7210
+00749,"""COLCHÃO""                                                                                           ",7210
+00750,FRONHA                                                                                              ,7210
+00750,FRONHA                                                                                              ,7210
+00750,FRONHA                                                                                              ,7210
+00750,FRONHA                                                                                              ,7210
+00751,"""LENÇOL CAMA""                                                                                       ",7210
+00751,"""LENÇOL CAMA""                                                                                       ",7210
+00752,"""TOALHA BANHO""                                                                                      ",7210
+00753,TOALHA MESA                                                                                         ,7210
+00753,TOALHA MESA                                                                                         ,7210
+00753,TOALHA MESA                                                                                         ,7210
+00754,TOALHA ROSTO                                                                                        ,7210
+00754,TOALHA ROSTO                                                                                        ,7210
+00754,TOALHA ROSTO                                                                                        ,7210
+00755,TAPETE BANHEIRO                                                                                     ,7220
+00755,TAPETE BANHEIRO                                                                                     ,7220
+00756,TRAVESSEIRO                                                                                         ,7210
+00756,TRAVESSEIRO                                                                                         ,7210
+00756,TRAVESSEIRO                                                                                         ,7210
+00756,TRAVESSEIRO                                                                                         ,7210
+00756,TRAVESSEIRO                                                                                         ,7210
+00757,REVESTIMENTO PISO                                                                                   ,7220
+00757,REVESTIMENTO PISO                                                                                   ,7220
+00757,REVESTIMENTO PISO                                                                                   ,7220
+00757,REVESTIMENTO PISO                                                                                   ,7220
+00757,REVESTIMENTO PISO                                                                                   ,7220
+00758,TAPETE                                                                                              ,7220
+00758,TAPETE                                                                                              ,7220
+00758,TAPETE                                                                                              ,7220
+00758,TAPETE                                                                                              ,7220
+00758,TAPETE                                                                                              ,7220
+00759,FORRO GESSO                                                                                         ,7230
+00760,PERSIANA                                                                                            ,7230
+00760,PERSIANA                                                                                            ,7230
+00760,PERSIANA                                                                                            ,7230
+00761,SANCA                                                                                               ,7230
+00762,CESTO ROUPA                                                                                         ,7240
+00763,BALCÃO FRIGORÍFICO                                                                                  ,4110
+00763,BALCÃO FRIGORÍFICO                                                                                  ,4110
+00764,BALDE                                                                                               ,7240
+00764,BALDE                                                                                               ,7240
+00764,BALDE                                                                                               ,7240
+00765,ESCADA DOMÉSTICA                                                                                    ,5440
+00765,ESCADA DOMÉSTICA                                                                                    ,5440
+00766,LAREIRA                                                                                             ,7290
+00767,MÁQUINA COSTURA TECIDO                                                                              ,7290
+00767,MÁQUINA COSTURA TECIDO                                                                              ,7290
+00767,MÁQUINA COSTURA TECIDO                                                                              ,7290
+00768,SECADOR MÃOS                                                                                        ,7290
+00769,SECADOR ROUPA TIPO VARAL                                                                            ,7290
+00770,FLOREIRA                                                                                            ,7290
+00771,VAPORIZADOR                                                                                         ,7290
+00772,VAPORIZADOR CAPILAR                                                                                 ,7290
+00773,CLORETO DE FERRO                                                                                    ,6810
+00774,COBALTO                                                                                             ,6810
+00775,ENXOFRE                                                                                             ,6810
+00776,FENOL                                                                                               ,6810
+00777,FLUOROANILINA                                                                                       ,6810
+00778,IODOANILINA                                                                                         ,6810
+00779,IODOFENOL                                                                                           ,6810
+00780,FLUORETO DE 4-(2-AMINOETIL)BENZENOSULFONILA                                                         ,6810
+00781,GELO SECO                                                                                           ,9999
+00782,GLICEROL                                                                                            ,6810
+00783,FREEZER                                                                                             ,4110
+00783,FREEZER                                                                                             ,4110
+00783,FREEZER                                                                                             ,4110
+00784,FRIGOBAR                                                                                            ,4110
+00784,FRIGOBAR                                                                                            ,4110
+00785,REFRIGERADOR DUPLEX                                                                                 ,4110
+00785,REFRIGERADOR DUPLEX                                                                                 ,4110
+00785,REFRIGERADOR DUPLEX                                                                                 ,4110
+00786,"HIDROQUINONA (BENZENO-1,4-DIOL)                                                                     ",6810
+00787,HIDRÓXIDO DE POTÁSSIO                                                                               ,6810
+00788,ÁCIDO CLORÍDRICO                                                                                    ,6810
+00789,PASSADEIRA                                                                                          ,7220
+00790,HIPOCLORITO DE SÓDIO                                                                                ,6810
+00791,MERCÚRIO                                                                                            ,6810
+00792,ÓXIDO DE ÓSMIO                                                                                      ,6810
+00793,NAFTA                                                                                               ,9140
+00794,NITRATO DE POTÁSSIO                                                                                 ,6810
+00795,PROPANO                                                                                             ,6810
+00795,PROPANO                                                                                             ,6810
+00796,PARAFINA                                                                                            ,6810
+00797,SULFATO DE ALUMÍNIO DILUÍDO                                                                         ,6810
+00798,TEREBENTINA                                                                                         ,6810
+00798,TEREBENTINA                                                                                         ,6810
+00799,URÉIA                                                                                               ,6810
+00800,METACRILOILA                                                                                        ,6810
+00801,APARELHO REPELENTE                                                                                  ,9999
+00802,TÁLIO                                                                                               ,6810
+00803,CHASSI                                                                                              ,2320
+00804,VEÍCULO TRANSPORTE ANIMAL                                                                           ,2320
+00805,VEÍCULO TRANSPORTE PRESO                                                                            ,2320
+00806,AMORTECEDOR SUSPENSÃO                                                                               ,2510
+00806,AMORTECEDOR SUSPENSÃO                                                                               ,2510
+00807,MOLA SUSPENSÃO                                                                                      ,2510
+00808,TUBO COBRE                                                                                          ,4710
+00808,TUBO COBRE                                                                                          ,4710
+00808,TUBO COBRE                                                                                          ,4710
+00808,TUBO COBRE                                                                                          ,4710
+00809,CROMO                                                                                               ,6810
+00810,LAJOTA                                                                                              ,5620
+00811,TIJOLO                                                                                              ,5620
+00811,TIJOLO                                                                                              ,5620
+00811,TIJOLO                                                                                              ,5620
+00812,CALHA CONCRETO                                                                                      ,5630
+00813,TELHA                                                                                               ,5650
+00813,TELHA                                                                                               ,5650
+00813,TELHA                                                                                               ,5650
+00813,TELHA                                                                                               ,5650
+00813,TELHA                                                                                               ,5650
+00814,TUBO CONCRETO                                                                                       ,5630
+00814,TUBO CONCRETO                                                                                       ,5630
+00815,DIVISÓRIA                                                                                           ,5670
+00815,DIVISÓRIA                                                                                           ,5670
+00815,DIVISÓRIA                                                                                           ,5670
+00815,DIVISÓRIA                                                                                           ,5670
+00815,DIVISÓRIA                                                                                           ,5670
+00815,DIVISÓRIA                                                                                           ,5670
+00815,DIVISÓRIA                                                                                           ,5670
+00816,BETUME                                                                                              ,5680
+00816,BETUME                                                                                              ,5680
+00817,CAVADEIRA GOIVA                                                                                     ,5110
+00818,FOICE                                                                                               ,5110
+00819,SERROTE COSTA                                                                                       ,5110
+00820,SERROTE PONTA                                                                                       ,5110
+00820,SERROTE PONTA                                                                                       ,5110
+00821,SERROTE PROFISSIONAL                                                                                ,5110
+00822,"""BACALHAU""                                                                                          ",8905
+00823,"""CARNE BOVINA IN NATURA""                                                                            ",8905
+00824,"""CARNE IN NATURA""                                                                                   ",8905
+00825,"""CARNE PORCO IN NATURA""                                                                             ",8905
+00826,"""CARNE FRANGO""                                                                                      ",8905
+00827,"""LINGUIÇA""                                                                                          ",8905
+00828,"""MORTADELA""                                                                                         ",8905
+00829,"""PRESUNTO""                                                                                          ",8905
+00830,"""SALSICHA""                                                                                          ",8905
+00831,PARAFUSO PRISIONEIRO                                                                                ,5307
+00832,CHAVE FACA PORTA-FUSÍVEL                                                                            ,5930
+00833,SOQUETE LÂMPADA                                                                                     ,6250
+00834,CHANTILLY                                                                                           ,8910
+00835,"""CREME DE LEITE""                                                                                    ",8910
+00836,COALHADA                                                                                            ,8910
+00837,"""IOGURTE""                                                                                           ",8910
+00838,"""LEITE PÓ""                                                                                          ",8910
+00839,"""LEITE""                                                                                             ",8910
+00840,LEITE BOVINO PASTEURIZADO                                                                           ,8910
+00841,"""MANTEIGA""                                                                                          ",8910
+00842,"""QUEIJO""                                                                                            ",8910
+00843,REQUEIJÃO                                                                                           ,8910
+00844,"""OVO""                                                                                               ",8910
+00845,"""OVO EM PÓ""                                                                                         ",8910
+00846,RICOTA                                                                                              ,8910
+00847,"""DOCE LEITE""                                                                                        ",8925
+00848,ACETONA                                                                                             ,6810
+00848,ACETONA                                                                                             ,6810
+00849,CONJUNTO OXIGÊNIO MEDICINAL                                                                         ,6515
+00850,"""AZEITE OLIVA""                                                                                      ",8945
+00851,MASSA TOMATE                                                                                        ,8950
+00852,SAL                                                                                                 ,8950
+00853,VINAGRE                                                                                             ,8950
+00854,ADESIVO ARGAMASSA                                                                                   ,5680
+00855,MOURÃO CONCRETO                                                                                     ,5680
+00856,POSTE CONCRETO                                                                                      ,5680
+00857,POSTE METÁLICO                                                                                      ,5680
+00857,POSTE METÁLICO                                                                                      ,5680
+00857,POSTE METÁLICO                                                                                      ,5680
+00858,"""MOLUSCO IN NATURA""                                                                                 ",8905
+00859,"""PEIXE CONSERVA""                                                                                    ",8905
+00860,"""SALAME""                                                                                            ",8905
+00861,ASFALTO                                                                                             ,5610
+00862,AREIA                                                                                               ,5610
+00863,BRITA                                                                                               ,5610
+00863,BRITA                                                                                               ,5610
+00864,CAL VIVA                                                                                            ,5610
+00865,CAL EXTINTA                                                                                         ,5610
+00866,CIMENTO BRANCO                                                                                      ,5610
+00867,CIMENTO PORTLAND                                                                                    ,5610
+00868,PEDRISCO                                                                                            ,5610
+00869,PÓ DE PEDRA                                                                                         ,5610
+00870,MICRÔMETRO PROFUNDIDADE                                                                             ,5220
+00871,PORTA SANFONADA                                                                                     ,5670
+00872,EPISCÓPIO                                                                                           ,6730
+00873,OXAZOLIDINONA                                                                                       ,6810
+00874,ÁGUA                                                                                                ,6550
+00874,ÁGUA                                                                                                ,6550
+00874,ÁGUA                                                                                                ,6550
+00875,ÉTER DIETÍLICO DILUÍDO                                                                              ,6810
+00876,CLORITO DE SÓDIO                                                                                    ,6810
+00877,POTÁSSIO METÁLICO                                                                                   ,6810
+00878,MICRÔMETRO EXTERNO                                                                                  ,5220
+00878,MICRÔMETRO EXTERNO                                                                                  ,5220
+00879,AMIDO*                                                                                              ,8920
+00880,"""ARROZ""                                                                                             ",8920
+00881,"""AVEIA""                                                                                             ",8920
+00882,MICRÔMETRO INTERNO                                                                                  ,5220
+00883,BISCOITO                                                                                            ,8920
+00883,BISCOITO                                                                                            ,8920
+00884,"""CANJICA""                                                                                           ",8920
+00885,LENTILHA                                                                                            ,8915
+00886,"""FARINHA MANDIOCA""                                                                                  ",8920
+00887,"""FARINHA MILHO""                                                                                     ",8920
+00888,"""FARINHA TRIGO""                                                                                     ",8920
+00889,"""FÉCULA""                                                                                            ",8920
+00890,FEIJÃO                                                                                              ,8915
+00891,"""FUBÁ""                                                                                              ",8920
+00892,"""MACARRÃO""                                                                                          ",8920
+00893,"""MILHO PIPOCA""                                                                                      ",8920
+00894,"""PÃO DE QUEIJO""                                                                                     ",8920
+00895,PIZZA                                                                                               ,8920
+00896,"""POLVILHO DOCE""                                                                                     ",8920
+00897,"""SAGU""                                                                                              ",8920
+00898,"""DOCE MASSA""                                                                                        ",8925
+00899,FRUTOSE                                                                                             ,8925
+00900,"""GELÉIA MOCOTÓ""                                                                                     ",8925
+00901,ARAME FARPADO                                                                                       ,5660
+00902,CLORETO DE IODO                                                                                     ,6810
+00903,ELETROCALHA                                                                                         ,5975
+00903,ELETROCALHA                                                                                         ,5975
+00904,"""CRUSTÁCEO IN NATURA""                                                                               ",8905
+00905,"""PEIXE IN NATURA""                                                                                   ",8905
+00906,PROJETOR IMAGEM                                                                                     ,6730
+00906,PROJETOR IMAGEM                                                                                     ,6730
+00907,PROJETOR MULTIMÍDIA                                                                                 ,6730
+00907,PROJETOR MULTIMÍDIA                                                                                 ,6730
+00908,"""PÓ PUDIM""                                                                                          ",8925
+00909,GELATINA                                                                                            ,8925
+00910,"""SORVETE""                                                                                           ",8925
+00911,"""CAFÉ""                                                                                              ",8955
+00912,"""CHOCOLATE""                                                                                         ",8955
+00913,COMPASSO CALIBRE DIGITAL                                                                            ,5210
+00914,DURÔMETRO                                                                                           ,5210
+00914,DURÔMETRO                                                                                           ,5210
+00914,DURÔMETRO                                                                                           ,5210
+00915,TELA PROJEÇÃO                                                                                       ,6730
+00915,TELA PROJEÇÃO                                                                                       ,6730
+00915,TELA PROJEÇÃO                                                                                       ,6730
+00915,TELA PROJEÇÃO                                                                                       ,6730
+00915,TELA PROJEÇÃO                                                                                       ,6730
+00916,BOLSA                                                                                               ,6760
+00916,BOLSA                                                                                               ,6760
+00916,BOLSA                                                                                               ,6760
+00917,PROJETOR DE SLIDE                                                                                   ,6730
+00918,ESQUADRO                                                                                            ,5210
+00919,METRO DOBRÁVEL                                                                                      ,5210
+00920,NÍVEL BOLHA                                                                                         ,5210
+00920,NÍVEL BOLHA                                                                                         ,5210
+00921,RETROPROJETOR                                                                                       ,6730
+00922,"""FRUTA EM CALDA""                                                                                    ",8930
+00923,"""GELÉIA FRUTA""                                                                                      ",8930
+00924,"""PEIXE EM CONSERVA""                                                                                 ",8930
+00925,SOPA                                                                                                ,8935
+00926,ADOÇANTE                                                                                            ,8940
+00927,COGUMELO EM CONSERVA                                                                                ,8930
+00928,CREME FRUTAS INFANTIL                                                                               ,8940
+00929,SUPLEMENTO NUTRICIONAL                                                                              ,8940
+00929,SUPLEMENTO NUTRICIONAL                                                                              ,8940
+00929,SUPLEMENTO NUTRICIONAL                                                                              ,8940
+00929,SUPLEMENTO NUTRICIONAL                                                                              ,8940
+00929,SUPLEMENTO NUTRICIONAL                                                                              ,8940
+00929,SUPLEMENTO NUTRICIONAL                                                                              ,8940
+00929,SUPLEMENTO NUTRICIONAL                                                                              ,8940
+00929,SUPLEMENTO NUTRICIONAL                                                                              ,8940
+00929,SUPLEMENTO NUTRICIONAL                                                                              ,8940
+00930,GLICOSE                                                                                             ,8940
+00931,LEGUME EM CONSERVA                                                                                  ,8930
+00932,SOPA INFANTIL                                                                                       ,8935
+00933,"""LEITE CONDENSADO""                                                                                  ",8910
+00934,"""LEITE CÔCO""                                                                                        ",8910
+00935,MEL ABELHA                                                                                          ,8940
+00936,MILHO EM CONSERVA                                                                                   ,8930
+00937,"""ÓLEO VEGETAL COMESTÍVEL""                                                                           ",8945
+00938,"""CHOCOLATE PÓ""                                                                                      ",8955
+00939,AZEITONA                                                                                            ,8950
+00940,CONDIMENTO*                                                                                         ,8950
+00941,MAIONESE                                                                                            ,8950
+00942,MOLHO TOMATE                                                                                        ,8950
+00943,ESTEARATO DE SÓDIO                                                                                  ,6810
+00944,ÁGUA COCO                                                                                           ,8960
+00945,"""ÁGUA MINERAL""                                                                                      ",8960
+00946,GELO                                                                                                ,8960
+00947,REFRIGERANTE                                                                                        ,8960
+00948,SUCO                                                                                                ,8960
+00949,"""ACHOCOLATADO""                                                                                      ",8955
+00950,CERVEJA                                                                                             ,8965
+00951,VÁLVULA ESFERA                                                                                      ,4820
+00952,CABO SINCRONISMO                                                                                    ,6760
+00953,CONJUNTO LIMPEZA FOTOGRÁFICO                                                                        ,6760
+00954,PINCEL LIMPEZA                                                                                      ,6760
+00955,TAMPA PROTETORA                                                                                     ,6760
+00956,PÁRA-SOL                                                                                            ,6760
+00957,CIGARRO                                                                                             ,8975
+00958,VÁLVULA GLOBO                                                                                       ,4820
+00958,VÁLVULA GLOBO                                                                                       ,4820
+00959,CALIBRADOR ROSCA                                                                                    ,5210
+00960,PENTE MEDIÇÃO ROSCA                                                                                 ,5210

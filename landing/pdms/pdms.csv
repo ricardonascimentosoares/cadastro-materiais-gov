@@ -1,0 +1,501 @@
+codigo,descricao,codigo_classe
+00001,RESISTOR CARBONO                                                                                    ,5905
+00001,RESISTOR CARBONO                                                                                    ,5905
+00001,RESISTOR CARBONO                                                                                    ,5905
+00002,RESISTOR FILME METÁLICO                                                                             ,5905
+00003,RESISTOR FIO                                                                                        ,5905
+00003,RESISTOR FIO                                                                                        ,5905
+00004,DISJUNTOR BAIXA TENSÃO                                                                              ,5925
+00004,DISJUNTOR BAIXA TENSÃO                                                                              ,5925
+00005,FITAS ADESIVAS                                                                                      ,7510
+00006,FITA CORRETIVA MÁQUINA ESCREVER                                                                     ,7510
+00007,FITA IMPRESSÃO MÁQUINA ESCREVER                                                                     ,7510
+00008,FITA IMPRESSÃO MÁQUINA CALCULAR                                                                     ,7510
+00009,BORRACHA APAGADORA                                                                                  ,7510
+00010,FITA ROTULADORA                                                                                     ,7510
+00011,CLIPE                                                                                               ,7510
+00012,LÁPIS PRETO                                                                                         ,7510
+00012,LÁPIS PRETO                                                                                         ,7510
+00013,ÁCIDO BENZÓICO                                                                                      ,6810
+00014,CANETAS HIDROGRAFICAS                                                                               ,7510
+00015,LÁPIS BORRACHA                                                                                      ,7510
+00016,LÁPIS DE COR                                                                                        ,7510
+00016,LÁPIS DE COR                                                                                        ,7510
+00017,MINA GRAFITE                                                                                        ,7510
+00018,CORRETIVO LÍQUIDO                                                                                   ,7510
+00019,CORRETIVO SECO                                                                                      ,7510
+00020,PASTA ARQUIVO                                                                                       ,7510
+00020,PASTA ARQUIVO                                                                                       ,7510
+00020,PASTA ARQUIVO                                                                                       ,7510
+00020,PASTA ARQUIVO                                                                                       ,7510
+00021,ETIQUETA ADESIVA                                                                                    ,7510
+00021,ETIQUETA ADESIVA                                                                                    ,7510
+00021,ETIQUETA ADESIVA                                                                                    ,7510
+00021,ETIQUETA ADESIVA                                                                                    ,7510
+00021,ETIQUETA ADESIVA                                                                                    ,7510
+00021,ETIQUETA ADESIVA                                                                                    ,7510
+00021,ETIQUETA ADESIVA                                                                                    ,7510
+00021,ETIQUETA ADESIVA                                                                                    ,7510
+00022,ALMOFADA CARIMBO                                                                                    ,7520
+00023,"""PAPEL IMPRESSÃO""                                                                                   ",9310
+00024,RÉGUA ESCRITÓRIO                                                                                    ,7510
+00024,RÉGUA ESCRITÓRIO                                                                                    ,7510
+00025,PAPEL ALMAÇO                                                                                        ,7510
+00025,PAPEL ALMAÇO                                                                                        ,7510
+00026,PAPEL CARBONO                                                                                       ,7510
+00027,GRAMPEADOR                                                                                          ,7520
+00028,GRAMPO GRAMPEADOR                                                                                   ,7510
+00029,ESPIRAL ENCADERNAÇÃO                                                                                ,7510
+00030,"""PAPEL BOBINADO""                                                                                    ",9310
+00031,GIZ                                                                                                 ,7510
+00031,GIZ                                                                                                 ,7510
+00032,CINTA ELÁSTICA                                                                                      ,7510
+00032,CINTA ELÁSTICA                                                                                      ,7510
+00033,COLCHETE FIXAÇÃO                                                                                    ,7510
+00034,PAPEL RECADO AUTO-ADESIVO                                                                           ,7510
+00035,TINTA CARIMBO                                                                                       ,7510
+00036,DIVISÓRIA ARQUIVO                                                                                   ,7520
+00037,AGENDA                                                                                              ,7510
+00037,AGENDA                                                                                              ,7510
+00037,AGENDA                                                                                              ,7510
+00037,AGENDA                                                                                              ,7510
+00038,ALFINETE MAPA                                                                                       ,7510
+00038,ALFINETE MAPA                                                                                       ,7510
+00039,CARIMBOS                                                                                            ,7520
+00040,"ETIQUETA GOMADA ""URGENTE""                                                                           ",7510
+00041,PORTA-CARIMBO                                                                                       ,7520
+00042,APAGADOR QUADRO MAGNÉTICO                                                                           ,7520
+00043,APAGADOR QUADRO NEGRO                                                                               ,7520
+00043,APAGADOR QUADRO NEGRO                                                                               ,7520
+00044,BANDEJA DOCUMENTOS                                                                                  ,7520
+00045,ÁCIDO BÓRICO                                                                                        ,6810
+00046,APONTADOR LÁPIS                                                                                     ,7520
+00047,PORTA-LÁPIS/CLIPE/LEMBRETE                                                                          ,7520
+00048,"""PAPEL COUCHÊ""                                                                                      ",9310
+00049,PAPEL VEGETAL                                                                                       ,9310
+00050,PAPEL VERGÊ                                                                                         ,9310
+00051,DIVISÓRIA CLASSIFICADOR                                                                             ,7530
+00052,GUILHOTINA                                                                                          ,3610
+00053,"""ENVELOPE""                                                                                          ",7510
+00054,TELHA AMIANTO                                                                                       ,5650
+00055,LENÇOL BORRACHA                                                                                     ,9320
+00055,LENÇOL BORRACHA                                                                                     ,9320
+00055,LENÇOL BORRACHA                                                                                     ,9320
+00055,LENÇOL BORRACHA                                                                                     ,9320
+00056,PERFURADOR PAPEL                                                                                    ,7520
+00057,PERFURADORA PAPEL PARA ESPIRAL                                                                      ,7520
+00058,PLACA ACRÍLICA                                                                                      ,9390
+00058,PLACA ACRÍLICA                                                                                      ,9390
+00058,PLACA ACRÍLICA                                                                                      ,9390
+00059,CINZEIRO MESA                                                                                       ,9920
+00060,CAPA CLASSIFICADORA                                                                                 ,7510
+00061,ARQUIVO DISQUETE                                                                                    ,7520
+00062,CONECTOR EMENDA                                                                                     ,5935
+00063,PASTA ARQUIVO REGISTRADOR                                                                           ,7520
+00064,"""PAPEL APERGAMINHADO""                                                                               ",9310
+00065,"""PAPEL SULFITE""                                                                                     ",9310
+00066,BLOCO RASCUNHO                                                                                      ,7510
+00066,BLOCO RASCUNHO                                                                                      ,7510
+00066,BLOCO RASCUNHO                                                                                      ,7510
+00066,BLOCO RASCUNHO                                                                                      ,7510
+00066,BLOCO RASCUNHO                                                                                      ,7510
+00067,CAPA PROCESSOS                                                                                      ,7530
+00068,"""PAPEL ALTA ALVURA""                                                                                 ",7510
+00069,BLOCO RECEITUÁRIO                                                                                   ,7540
+00070,BLOCO RECEITUÁRIO MÉDICO                                                                            ,7540
+00071,BLOCO FORMULÁRIO COMUNICAÇÃO INTERNA                                                                ,7540
+00072,POSTE CONCRETO DUPLO T                                                                              ,5680
+00073,BLOCO RECIBO COM CANHOTO                                                                            ,7540
+00074,PAPEL AUTO-ADESIVO                                                                                  ,7510
+00075,PAPEL CARTOLINA                                                                                     ,7540
+00076,BLOCO MEMORANDO                                                                                     ,7540
+00077,BLOCO LAUDO MÉDICO / TÉCNICO                                                                        ,7540
+00078,PAPEL MILIMETRADO                                                                                   ,7540
+00079,PAPEL FLIP CHART                                                                                    ,7540
+00080,BARBANTE ALGODÃO                                                                                    ,4020
+00081,"""CAIXA ARQUIVO""                                                                                     ",7510
+00082,ESTÊNCIL                                                                                            ,7510
+00083,GARRA ENCADERNAÇÃO                                                                                  ,7520
+00083,GARRA ENCADERNAÇÃO                                                                                  ,7520
+00084,CONJUNTO MULTIUSO ESCRITÓRIO                                                                        ,7520
+00085,ACETATO DE ETILA                                                                                    ,6810
+00086,PORTA-PAPEL                                                                                         ,7520
+00086,PORTA-PAPEL                                                                                         ,7520
+00087,CAPA ENCADERNAÇÃO                                                                                   ,7520
+00088,CAPA                                                                                                ,7510
+00089,REGISTRADOR AZ                                                                                      ,7510
+00090,"""FORMULÁRIO CONTÍNUO""                                                                               ",7540
+00091,LÁPIS VIDROGRÁFICO                                                                                  ,7510
+00092,LÁPIS CERA                                                                                          ,7510
+00093,EXTENSÃO PARAFUSO PASTA                                                                             ,7510
+00094,PASTA FORMULÁRIO CONTÍNUO                                                                           ,7510
+00095,COLA BASTÃO                                                                                         ,7510
+00096,COLA ESCOLAR                                                                                        ,7510
+00097,PORTA-CARTÃO                                                                                        ,7510
+00098,PORTA-ETIQUETA                                                                                      ,7510
+00098,PORTA-ETIQUETA                                                                                      ,7510
+00099,CANETA ESFEROGRÁFICA                                                                                ,7510
+00099,CANETA ESFEROGRÁFICA                                                                                ,7510
+00099,CANETA ESFEROGRÁFICA                                                                                ,7510
+00100,ELO FUSÍVEL                                                                                         ,5920
+00101,CONECTOR ESTRIBO TIPO CUNHA                                                                         ,5935
+00102,ISOLADOR SUPORTE                                                                                    ,5970
+00103,GRAMPO LINHA VIVA                                                                                   ,5935
+00104,BOBINA MÁQUINA CALCULAR                                                                             ,7510
+00104,BOBINA MÁQUINA CALCULAR                                                                             ,7510
+00105,PAPEL SUPER BOND                                                                                    ,7510
+00106,PORTA-FITA ADESIVA                                                                                  ,7510
+00107,PRENDEDOR PAPEL                                                                                     ,7510
+00107,PRENDEDOR PAPEL                                                                                     ,7510
+00108,PINCEL ATÔMICO                                                                                      ,7510
+00109,PERCEVEJO                                                                                           ,7510
+00109,PERCEVEJO                                                                                           ,7510
+00110,FICHA                                                                                               ,7540
+00111,BASE FITA ADESIVA                                                                                   ,7520
+00112,TUBO PORTA-DOCUMENTO                                                                                ,8110
+00113,CAVALETE PINTURA                                                                                    ,7520
+00114,MOLHA-DEDOS                                                                                         ,7520
+00115,PORTA-DISQUETE                                                                                      ,7520
+00116,MARCADOR RETROPROJETOR                                                                              ,7510
+00117,GABARITO                                                                                            ,7520
+00118,TRANSPARÊNCIA RETROPROJETOR                                                                         ,7510
+00119,ESTOJO DISQUETE                                                                                     ,7520
+00120,GIZ CERA                                                                                            ,7510
+00120,GIZ CERA                                                                                            ,7510
+00121,CESTO                                                                                               ,7240
+00121,CESTO                                                                                               ,7240
+00121,CESTO                                                                                               ,7240
+00122,"""TECLADO MICROCOMPUTADOR""                                                                           ",7060
+00123,CARTUCHO IMPRESSÃO                                                                                  ,7045
+00124,PASTA PVC LOMBADA                                                                                   ,7510
+00125,PAPEL JORNAL                                                                                        ,9310
+00126,PAPEL CÓPIA                                                                                         ,7510
+00127,"""PAPEL A4""                                                                                          ",7510
+00128,FICHA PAUTADA                                                                                       ,7510
+00129,PAPEL COLOR PLUS                                                                                    ,9310
+00129,PAPEL COLOR PLUS                                                                                    ,9310
+00130,PAPEL SEDA                                                                                          ,9310
+00131,PASTA PLÁSTICA                                                                                      ,7510
+00132,PAPEL LUMIPAPER FLUORESCENTE                                                                        ,9310
+00133,PAPEL DUPLICOLOR                                                                                    ,9310
+00134,CANETAS MARCA-TEXTOS                                                                                ,7510
+00135,GRAMPO TRILHO ENCADERNADORES                                                                        ,7510
+00136,FITA ADESIVA MÁGICA                                                                                 ,7510
+00137,PASTA SUSPENSA FORMULÁRIO CONTÍNUO                                                                  ,7510
+00138,CADERNO PAUTADO                                                                                     ,7510
+00139,ETIQUETA GOMADA TRIPLA                                                                              ,7510
+00140,LIVRO CORRESPONDÊNCIA                                                                               ,7540
+00141,BANDEJA EXPEDIENTE                                                                                  ,7520
+00142,TONALIZADOR                                                                                         ,7045
+00143,TINTA OFSETE                                                                                        ,8010
+00143,TINTA OFSETE                                                                                        ,8010
+00143,TINTA OFSETE                                                                                        ,8010
+00144,PAPEL TRIPLO OFÍCIO                                                                                 ,7540
+00145,PAPEL CARTÃO                                                                                        ,9310
+00145,PAPEL CARTÃO                                                                                        ,9310
+00146,PAPEL CARTA                                                                                         ,7540
+00147,FICHA SEM PAUTA                                                                                     ,7510
+00148,GRAMPO PASTA                                                                                        ,7520
+00148,GRAMPO PASTA                                                                                        ,7520
+00149,FERRAGEM PASTA                                                                                      ,7520
+00150,CLASSIFICADOR                                                                                       ,7510
+00151,GRAMPEADOR                                                                                          ,7510
+00152,TRANSPARÊNCIA PROJEÇÃO                                                                              ,7510
+00153,REFIL TINTA                                                                                         ,7510
+00153,REFIL TINTA                                                                                         ,7510
+00153,REFIL TINTA                                                                                         ,7510
+00154,PARAFUSO ENCADERNAÇÃO                                                                               ,7520
+00155,PASTA ARQUIVO MOLDURA TRANSPARÊNCIA                                                                 ,7510
+00156,"""PAPEL IMPRESSÃO GRÁFICA""                                                                           ",7510
+00156,"""PAPEL IMPRESSÃO GRÁFICA""                                                                           ",7510
+00157,PAPEL ELETROSSENSIBILIZADO                                                                          ,9310
+00158,BLOCO PAUTADO                                                                                       ,7510
+00159,CARTÃO                                                                                              ,9999
+00159,CARTÃO                                                                                              ,9999
+00160,CARTÃO BRISTOL                                                                                      ,9310
+00161,EXTRATOR GRAMPOS                                                                                    ,7520
+00162,ETIQUETA PASTA SUSPENSA                                                                             ,7510
+00163,"CAPA ENCADERNAÇÃO, ENCARDENAÇÃO GERAL                                                               ",7510
+00164,PAPEL JORNAL PARDO                                                                                  ,9310
+00165,"""PAPEL OFSETE RECICLADO""                                                                            ",9310
+00166,PAPEL WESTERPRINT TELADO                                                                            ,9310
+00167,PAPEL SUPREMO                                                                                       ,9310
+00168,"""PAPEL OFSETE""                                                                                      ",9310
+00169,PAPEL AUTOCOPIATIVO                                                                                 ,7510
+00170,PAPEL OPALINE                                                                                       ,9310
+00171,CANETAS CORRETIVAS                                                                                  ,7510
+00172,CARTOLINA                                                                                           ,9310
+00173,COLCHETE FIXADOR PAPEL                                                                              ,7510
+00174,FICHA PADRONIZADA                                                                                   ,7540
+00175,GRAMPO TRILHO ENCADERNADOR                                                                          ,7520
+00176,LAPISEIRA                                                                                           ,7510
+00177,LIMPA-TIPOS                                                                                         ,7510
+00178,PASTA ARQUIVO TUBO                                                                                  ,7510
+00179,PASTA CATÁLOGO                                                                                      ,7510
+00180,MARCADOR HIDROGRÁFICO                                                                               ,7510
+00181,MARCADOR RETROPROJETORES                                                                            ,7510
+00182,PASTA ARQUIVO COM GRAMPO TRILHO                                                                     ,7510
+00183,PASTA CLASSIFICADORA                                                                                ,7510
+00184,PROTETOR GUIA PASTA DIVISÓRIA                                                                       ,7510
+00185,TINTA NANQUIM                                                                                       ,8010
+00186,DIVISÓRIA CLASSIFICADORA                                                                            ,7520
+00187,LÂMINA INSERÇÃO PASTA ARQUIVO                                                                       ,7520
+00188,PAPEL DEBRÊ                                                                                         ,9310
+00189,PAPEL KRAFT                                                                                         ,9310
+00190,PAPEL MONOLÚCIDO                                                                                    ,9310
+00191,PAPEL MANTEIGA                                                                                      ,9310
+00191,PAPEL MANTEIGA                                                                                      ,9310
+00192,"""PAPEL XEROGRÁFICO""                                                                                 ",7510
+00193,CAPEL MONOLÚCIDO                                                                                    ,7530
+00194,NUMERADOR                                                                                           ,7510
+00195,ALIMENTADOR PAPEL COPIADORA                                                                         ,7510
+00196,CADERNO                                                                                             ,7510
+00196,CADERNO                                                                                             ,7510
+00196,CADERNO                                                                                             ,7510
+00197,DECALQUE                                                                                            ,7510
+00198,ESPETO PAPEL                                                                                        ,7510
+00199,FITA TELEIMPRESSORA                                                                                 ,7510
+00200,LIVRO ATA                                                                                           ,7540
+00201,LIVRO PROTOCOLO                                                                                     ,7540
+00202,MOLDURA TRANSPARÊNCIA                                                                               ,7520
+00203,PENA CANETA                                                                                         ,7510
+00204,ROTULADOR                                                                                           ,7510
+00205,BORRACHA APAGADORA ESCRITA                                                                          ,7510
+00206,APONTADOR MICROCOMPUTADOR                                                                           ,7060
+00207,CABO COAXIAL                                                                                        ,7045
+00208,CABO REDE COMPUTADOR                                                                                ,7080
+00208,CABO REDE COMPUTADOR                                                                                ,7080
+00208,CABO REDE COMPUTADOR                                                                                ,7080
+00209,CANETA ÓTICA                                                                                        ,7060
+00210,CHAVEADORA                                                                                          ,7050
+00211,CILINDRO MÁQUINA IMPRESSORA / COPIADORA                                                             ,7070
+00211,CILINDRO MÁQUINA IMPRESSORA / COPIADORA                                                             ,7070
+00211,CILINDRO MÁQUINA IMPRESSORA / COPIADORA                                                             ,7070
+00211,CILINDRO MÁQUINA IMPRESSORA / COPIADORA                                                             ,7070
+00212,CONCENTRADOR                                                                                        ,7050
+00212,CONCENTRADOR                                                                                        ,7050
+00213,CONJUNTO MULTIMÍDIA                                                                                 ,7060
+00214,CONVERSOR VÍDEO                                                                                     ,7060
+00214,CONVERSOR VÍDEO                                                                                     ,7060
+00214,CONVERSOR VÍDEO                                                                                     ,7060
+00214,CONVERSOR VÍDEO                                                                                     ,7060
+00214,CONVERSOR VÍDEO                                                                                     ,7060
+00215,DESCARBONADOR                                                                                       ,7070
+00216,DISCO MAGNÉTICO                                                                                     ,7030
+00216,DISCO MAGNÉTICO                                                                                     ,7030
+00216,DISCO MAGNÉTICO                                                                                     ,7030
+00216,DISCO MAGNÉTICO                                                                                     ,7030
+00216,DISCO MAGNÉTICO                                                                                     ,7030
+00216,DISCO MAGNÉTICO                                                                                     ,7030
+00217,DISQUETE                                                                                            ,7090
+00218,ESTANTE                                                                                             ,7125
+00218,ESTANTE                                                                                             ,7125
+00218,ESTANTE                                                                                             ,7125
+00218,ESTANTE                                                                                             ,7125
+00218,ESTANTE                                                                                             ,7125
+00218,ESTANTE                                                                                             ,7125
+00218,ESTANTE                                                                                             ,7125
+00219,FITA IMPRESSORA                                                                                     ,7070
+00219,FITA IMPRESSORA                                                                                     ,7070
+00219,FITA IMPRESSORA                                                                                     ,7070
+00220,FITA MAGNÉTICA                                                                                      ,7090
+00220,FITA MAGNÉTICA                                                                                      ,7090
+00221,FONTE ALIMENTAÇÃO IMPRESSORA                                                                        ,7070
+00222,GABINETE                                                                                            ,7060
+00223,IMPRESSORA JATO TINTA                                                                               ,7020
+00223,IMPRESSORA JATO TINTA                                                                               ,7020
+00223,IMPRESSORA JATO TINTA                                                                               ,7020
+00223,IMPRESSORA JATO TINTA                                                                               ,7020
+00223,IMPRESSORA JATO TINTA                                                                               ,7020
+00224,IMPRESSORA LASER                                                                                    ,7020
+00224,IMPRESSORA LASER                                                                                    ,7020
+00225,IMPRESSORA MATRICIAL                                                                                ,7020
+00226,IMPRESSORA MULTIFUNCIONAL                                                                           ,7020
+00226,IMPRESSORA MULTIFUNCIONAL                                                                           ,7020
+00226,IMPRESSORA MULTIFUNCIONAL                                                                           ,7020
+00226,IMPRESSORA MULTIFUNCIONAL                                                                           ,7020
+00227,LEITORA CÓDIGO BARRA                                                                                ,7040
+00227,LEITORA CÓDIGO BARRA                                                                                ,7040
+00227,LEITORA CÓDIGO BARRA                                                                                ,7040
+00227,LEITORA CÓDIGO BARRA                                                                                ,7040
+00227,LEITORA CÓDIGO BARRA                                                                                ,7040
+00228,LEITORA DVD                                                                                         ,7040
+00229,MODULADOR DEMODULADOR                                                                               ,5895
+00230,"""MONITOR VÍDEO""                                                                                     ",7060
+00231,PLACA REDE                                                                                          ,7080
+00232,PROGRAMA APLICATIVO                                                                                 ,7099
+00233,PROTETOR VARIAÇÃO TENSÃO                                                                            ,5920
+00233,PROTETOR VARIAÇÃO TENSÃO                                                                            ,5920
+00234,PLACA COMUNICAÇÃO                                                                                   ,7050
+00235,PLACA CONTROLADORA VÍDEO                                                                            ,7060
+00236,PLACA FAX MODEM                                                                                     ,7060
+00237,ROTEADOR                                                                                            ,7050
+00237,ROTEADOR                                                                                            ,7050
+00238,SCANNER                                                                                             ,7040
+00238,SCANNER                                                                                             ,7040
+00238,SCANNER                                                                                             ,7040
+00238,SCANNER                                                                                             ,7040
+00238,SCANNER                                                                                             ,7040
+00238,SCANNER                                                                                             ,7040
+00238,SCANNER                                                                                             ,7040
+00239,"""SERVIDOR IMPRESSÃO""                                                                                ",7010
+00240,MOUSE PAD                                                                                           ,7090
+00241,TELA PROTEÇÃO MONITOR                                                                               ,7090
+00242,TORRE CD ROM                                                                                        ,7030
+00243,UNIDADE CENTRAL PROCESSAMENTO                                                                       ,7060
+00244,UNIDADE DISCO                                                                                       ,7030
+00244,UNIDADE DISCO                                                                                       ,7030
+00244,UNIDADE DISCO                                                                                       ,7030
+00244,UNIDADE DISCO                                                                                       ,7030
+00244,UNIDADE DISCO                                                                                       ,7030
+00244,UNIDADE DISCO                                                                                       ,7030
+00244,UNIDADE DISCO                                                                                       ,7030
+00245,CAIXA BIBLIOGRÁFICA                                                                                 ,7510
+00246,CARGA LÁPIS BORRACHA                                                                                ,7510
+00247,MARCADOR QUADRO BRANCO                                                                              ,7510
+00248,PORTA-ETIQUETA MAGNÉTICA                                                                            ,7520
+00248,PORTA-ETIQUETA MAGNÉTICA                                                                            ,7520
+00248,PORTA-ETIQUETA MAGNÉTICA                                                                            ,7520
+00249,TESOURA                                                                                             ,7520
+00249,TESOURA                                                                                             ,7520
+00250,SUPORTE PASTA                                                                                       ,7510
+00251,CANETA BORRACHA                                                                                     ,7510
+00252,ÍNDICE PASTA ARQUIVO                                                                                ,7510
+00253,TINTA MIMEÓGRAFO                                                                                    ,7510
+00254,TINTA NUMERADOR-DATADOR METAL                                                                       ,7510
+00255,TINTA PINCEL MARCADOR                                                                               ,7510
+00256,BORRACHA PONTEIRA LÁPIS                                                                             ,7510
+00257,RISQUE RABISQUE                                                                                     ,7520
+00258,TINTA CANETA                                                                                        ,7510
+00259,TINTA PINCEL ATÔMICO                                                                                ,7510
+00260,RÉGUA GABARITO                                                                                      ,7520
+00260,RÉGUA GABARITO                                                                                      ,7520
+00261,VISOR                                                                                               ,7510
+00262,VISOR PASTA SUSPENSA                                                                                ,7510
+00263,VERNIZ CORRETOR ESTÊNCIL                                                                            ,7510
+00264,EXTRATOR PERCEVEJO                                                                                  ,7520
+00265,ACETATO DE SÓDIO                                                                                    ,6810
+00266,ARMAÇÃO PASTA SUSPENSA                                                                              ,7510
+00267,PASTA ARGOLA                                                                                        ,7510
+00268,PROTETOR E FIXADOR PAPEL                                                                            ,7510
+00269,SACO DOCUMENTO                                                                                      ,7510
+00269,SACO DOCUMENTO                                                                                      ,7510
+00270,REFRIGERADOR ALIMENTOS                                                                              ,4110
+00271,PAPEL DESENHO                                                                                       ,7510
+00271,PAPEL DESENHO                                                                                       ,7510
+00272,CANELETA ENCADERNAÇÃO                                                                               ,7520
+00273,PASTA ENCADERNAÇÃO COM CANALETA                                                                     ,7510
+00274,PASTA TELEX                                                                                         ,7510
+00275,FICHÁRIO MESA ESCRITÓRIO                                                                            ,7520
+00276,PAPEL CORRESPONDÊNCIA                                                                               ,7540
+00277,PRANCHETAS PORTATEIS                                                                                ,7520
+00278,CONJUNTO ALFABETO                                                                                   ,7520
+00279,APAGADOR QUADRO BRANCO                                                                              ,7520
+00280,CAIXA CORRESPONDÊNCIA                                                                               ,7520
+00281,CARTUCHO CANETA TINTEIRO                                                                            ,7520
+00282,PINCEL DESENHO                                                                                      ,7510
+00283,CHAVEADORAS                                                                                         ,7010
+00284,TINTA IMPRESSORA                                                                                    ,7090
+00285,AGENDA ELETRÔNICA                                                                                   ,5962
+00286,CALCULADORA ELETRÔNICA                                                                              ,7420
+00286,CALCULADORA ELETRÔNICA                                                                              ,7420
+00287,MÁQUINA AUTENTICADORA                                                                               ,7490
+00288,COPIADORA                                                                                           ,7490
+00289,COPIADORA HELIOGRÁFICA                                                                              ,7490
+00290,CONTADORA TIQUETES                                                                                  ,7490
+00291,MÁQUINA DE CONTAR DINHEIRO                                                                          ,7490
+00291,MÁQUINA DE CONTAR DINHEIRO                                                                          ,7490
+00291,MÁQUINA DE CONTAR DINHEIRO                                                                          ,7490
+00292,FRAGMENTADORA PAPEL                                                                                 ,7490
+00292,FRAGMENTADORA PAPEL                                                                                 ,7490
+00292,FRAGMENTADORA PAPEL                                                                                 ,7490
+00292,FRAGMENTADORA PAPEL                                                                                 ,7490
+00292,FRAGMENTADORA PAPEL                                                                                 ,7490
+00292,FRAGMENTADORA PAPEL                                                                                 ,7490
+00293,GRAVADOR SOM                                                                                        ,5835
+00293,GRAVADOR SOM                                                                                        ,5835
+00294,IMPRESSORA CHEQUE                                                                                   ,7490
+00295,LÂMINA LIMPEZA MÁQUINA COPIADORA                                                                    ,3610
+00295,LÂMINA LIMPEZA MÁQUINA COPIADORA                                                                    ,3610
+00296,LEITORA MICROFICHAS                                                                                 ,7435
+00297,LEITORA MICROFILME                                                                                  ,6760
+00298,MÁQUINA AUTENTICADORA PERFURADORA                                                                   ,7490
+00299,MÁQUINA CONTABILIDADE                                                                               ,7420
+00299,MÁQUINA CONTABILIDADE                                                                               ,7420
+00300,MÁQUINA CORTAR PAPEL                                                                                ,7490
+00301,MÁQUINA ESCREVER                                                                                    ,7430
+00302,MÁQUINA PROTOCOLADORA                                                                               ,7490
+00303,MÁQUINA FRANQUEADORA                                                                                ,7490
+00304,MÁQUINA ESCREVER ELETRÔNICA                                                                         ,7430
+00305,MÁQUINA ESCREVER ELETRÔNICA PROFISSIONAL                                                            ,7430
+00306,CARIMBO DATADOR                                                                                     ,7490
+00307,GOMEIRO MESA                                                                                        ,7520
+00308,LETRA                                                                                               ,7520
+00309,ARMÁRIO AÇO                                                                                         ,7125
+00309,ARMÁRIO AÇO                                                                                         ,7125
+00309,ARMÁRIO AÇO                                                                                         ,7125
+00309,ARMÁRIO AÇO                                                                                         ,7125
+00309,ARMÁRIO AÇO                                                                                         ,7125
+00309,ARMÁRIO AÇO                                                                                         ,7125
+00309,ARMÁRIO AÇO                                                                                         ,7125
+00309,ARMÁRIO AÇO                                                                                         ,7125
+00309,ARMÁRIO AÇO                                                                                         ,7125
+00309,ARMÁRIO AÇO                                                                                         ,7125
+00309,ARMÁRIO AÇO                                                                                         ,7125
+00310,ARQUIVO ESCRITÓRIO                                                                                  ,7110
+00311,BANCO DESENHISTA                                                                                    ,7110
+00312,BANQUETA                                                                                            ,7105
+00312,BANQUETA                                                                                            ,7105
+00312,BANQUETA                                                                                            ,7105
+00312,BANQUETA                                                                                            ,7105
+00312,BANQUETA                                                                                            ,7105
+00313,CADEIRA ESCRITÓRIO                                                                                  ,7110
+00313,CADEIRA ESCRITÓRIO                                                                                  ,7110
+00313,CADEIRA ESCRITÓRIO                                                                                  ,7110
+00313,CADEIRA ESCRITÓRIO                                                                                  ,7110
+00313,CADEIRA ESCRITÓRIO                                                                                  ,7110
+00313,CADEIRA ESCRITÓRIO                                                                                  ,7110
+00313,CADEIRA ESCRITÓRIO                                                                                  ,7110
+00313,CADEIRA ESCRITÓRIO                                                                                  ,7110
+00313,CADEIRA ESCRITÓRIO                                                                                  ,7110
+00314,CADEIRA DESENHISTA                                                                                  ,7110
+00315,CAMA                                                                                                ,7105
+00316,CAMA CONJUGADA                                                                                      ,7105
+00316,CAMA CONJUGADA                                                                                      ,7105
+00316,CAMA CONJUGADA                                                                                      ,7105
+00317,ESCRIVANINHA                                                                                        ,7110
+00317,ESCRIVANINHA                                                                                        ,7110
+00318,MESA MICROCOMPUTADOR                                                                                ,7110
+00319,ARMÁRIO ESTANTE                                                                                     ,7125
+00319,ARMÁRIO ESTANTE                                                                                     ,7125
+00320,ARQUIVO MÓVEL FOLHA FORMATADA                                                                       ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00321,MESA ESCRITÓRIO                                                                                     ,7110
+00322,MESA IMPRESSORA MICROCOMPUTADOR                                                                     ,7110
+00323,ARMÁRIO COPA/COZINHA                                                                                ,7105
+00323,ARMÁRIO COPA/COZINHA                                                                                ,7105
+00323,ARMÁRIO COPA/COZINHA                                                                                ,7105
+00323,ARMÁRIO COPA/COZINHA                                                                                ,7105
+00323,ARMÁRIO COPA/COZINHA                                                                                ,7105
+00323,ARMÁRIO COPA/COZINHA                                                                                ,7105
+00324,BALCÃO ATENDIMENTO                                                                                  ,7195
+00324,BALCÃO ATENDIMENTO                                                                                  ,7195
+00324,BALCÃO ATENDIMENTO                                                                                  ,7195
+00324,BALCÃO ATENDIMENTO                                                                                  ,7195
+00324,BALCÃO ATENDIMENTO                                                                                  ,7195
+00325,CABIDE GUARDA-ROUPA                                                                                 ,7105
+00325,CABIDE GUARDA-ROUPA                                                                                 ,7105
+00326,MESA MÁQUINA DATILOGRAFIA                                                                           ,7110
+00327,ARCA                                                                                                ,7105

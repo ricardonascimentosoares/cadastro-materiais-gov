@@ -1,0 +1,501 @@
+codigo,descricao,codigo_classe
+17266,PRALETRINA                                                                                          ,6840
+17267,COURO SINTÉTICO                                                                                     ,8330
+17268,MATERIAIS PARA CALÇADOS                                                                             ,8335
+17269,BARRACAS E ENCERADOS                                                                                ,8340
+17270,"BANDEIRAS, FLAMULAS E PAVILHOES                                                                     ",8345
+17271,VESTUÁRIO EXTERNO FEMININO                                                                          ,8410
+17272,CANELEIRA ANTITUMULTO                                                                               ,8415
+17273,"ROUPAS ÍNTIMAS E PARA DORMIR, MASCULINAS                                                            ",8420
+17274,"ROUPAS ÍNTIMAS E PARA DORMIR, FEMININAS                                                             ",8425
+17275,CALÇADOS MASCULINOS                                                                                 ,8430
+17276,CALÇADOS FEMININOS                                                                                  ,8435
+17277,TORÇAL                                                                                              ,8440
+17278,"MEIAS, LUVAS E OUTROS COMPLEMENTOS DO VESTUÁRIO FEMININO                                            ",8445
+17279,VESTUÁRIO INFANTO-JUVENIL E COMPLEMENTOS                                                            ,8450
+17280,DISTINTIVOS E INSÍGNIAS                                                                             ,8455
+17281,BAGAGENS                                                                                            ,8460
+17282,CADEIRA PARA AUTOMÓVEL                                                                              ,8465
+17283,ROUPAS DE PROTEÇÃO CONTRA PROJÉTEIS                                                                 ,8470
+17284,VESTUÁRIO ESPECIALIZADO PARA VÔO E ACESSÓRIOS                                                       ,8475
+17285,PROTETOR PELE (CONSULTAR PROTETOR PARA PELE)                                                        ,6508
+17286,"SABONETES, ARTIGOS PARA BARBEAR E DENTIFRÍCIOS                                                      ",8520
+17287,ARTIGOS PARA HIGIENE PESSOAL                                                                        ,8530
+17288,ARTIGOS DE PAPEL PARA HIGIENE                                                                       ,8540
+17289,NÚCLEO RAÇÃO                                                                                        ,8710
+17289,NÚCLEO RAÇÃO                                                                                        ,8710
+17290,FERTILIZANTES                                                                                       ,8720
+17291,SEMENTES E MUDAS DE PLANTAS                                                                         ,8730
+17291,SEMENTES DE PLANTAS                                                                                 ,8730
+17292,"ANIMAIS VIVOS, CRIADOS PARA ALIMENTAÇÃO                                                             ",8810
+17293,"ANIMAIS VIVOS, NÃO CRIADOS PARA ALIMENTAÇÃO                                                         ",8820
+17294,CARNE SUÍNA IN NATURA                                                                               ,8905
+17294,CARNE SUÍNA IN NATURA                                                                               ,8905
+17294,CARNE SUÍNA IN NATURA                                                                               ,8905
+17295,CREME DE LEITE                                                                                      ,8910
+17296,"FRUTAS, VERDURAS E LEGUMES                                                                          ",8915
+17297,PREPARADO PANIFICAÇÃO                                                                               ,8920
+17297,PREPARADO PANIFICAÇÃO                                                                               ,8920
+17298,"AÇUCAR, CONFEITOS, CASTANHAS, NOZES E SIMILARES                                                     ",8925
+17299,"GELEIAS, CONSERVAS E GELATINAS                                                                      ",8930
+17300,SOPAS E CALDOS                                                                                      ,8935
+17301,DIETA ENTERAL                                                                                       ,8940
+17301,DIETA ENTERAL                                                                                       ,8940
+17301,DIETA ENTERAL                                                                                       ,8940
+17301,DIETA ENTERAL                                                                                       ,8940
+17302,ÓLEOS E GORDURAS COMESTÍVEIS                                                                        ,8945
+17303,CONDIMENTOS E PRODUTOS CORRELATOS                                                                   ,8950
+17304,"CAFÉ, CHÁ E CHOCOLATE                                                                               ",8955
+17305,BEBIDAS NÃO ALCOÓLICAS                                                                              ,8960
+17305,BEBIDAS NÃO ALCOÓLICAS                                                                              ,8960
+17306,BEBIDAS ALCOÓLICAS                                                                                  ,8965
+17307,RAÇÕES EMBALADAS                                                                                    ,8970
+17308,PRODUTOS DE TABACO                                                                                  ,8975
+17309,COMBUSTÍVEIS SÓLIDOS                                                                                ,9110
+17310,COMBUSTÍVEIS E PROPELENTES LÍQUIDOS À BASE DE PETRÓLEO                                              ,9130
+17311,COMBUSTÍVEIS PROPELENTES LÍQUIDOS E OXIDANTES Á BASE QUÍMICA                                        ,9135
+17312,BIODIESEL                                                                                           ,9140
+17313,"ÓLEOS E GRAXAS PARA CORTE, LUBRIFICAÇÃO E SISTEMAS HIDRÁULI-COS                                     ",9150
+17314,"CERAS, ÓLEOS E GORDURAS DIVERSAS                                                                    ",9160
+17315,PAPÉIS E PAPELÕES                                                                                   ,9310
+17316,ARTIGOS DE BORRACHA                                                                                 ,9320
+17317,ESPAÇADOR                                                                                           ,9330
+17317,ESPAÇADOR                                                                                           ,9330
+17318,SUPORTE LABORATÓRIO                                                                                 ,9520
+17319,MATERIAIS REFRATÁRIOS E DE ACABAMENTO SUPERFICIAL CONTRAFO- GO                                      ,9350
+17320,MATERIAIS DIVERSOS NÃO METÁLICOS                                                                    ,9390
+17321,MATÉRIAS-PRIMAS DE ORIGEM VEGETAL                                                                   ,9410
+17322,"FIBRAS VEGETAIS, ANIMAIS E SINTÉTICAS                                                               ",9420
+17323,"MATÉRIAS-PRIMAS DIVERSAS DE ORIGEM ANIMAL, NÃO COMESTÍVEIS                                          ",9430
+17324,"MATÉRIAS-PRIMAS DIVERSAS, FLORESTAIS E AGRÍCOLAS                                                    ",9440
+17325,"RESÍDUOS NAO METÁLICOS, EXCETO OS TÊXTEIS                                                           ",9450
+17326,"ARAMES DE FERRO E DE AÇO, NÃO UTILIZÁVEIS EM ELETRICIDADE                                           ",9505
+17327,BARRAS E VERGALHÕES DE FERRO E DE AÇO                                                               ,9510
+17328,"PLACAS, CHAPAS, FITAS E LAMINADOS FINOS DE FERRO E DE AÇO                                           ",9515
+17329,PERFIS ESTRUTURAIS DE FERRO E AÇO                                                                   ,9520
+17330,"ARAMES DE METAL NÃO FERROSO, NÃO UTILIZÁVEIS EM ELETRICIDADE                                        ",9525
+17331,BARRAS E VERGALHÕES DE METAIS NÃO FERROSOS                                                          ,9530
+17332,"PLACAS, CHAPAS, FITAS E LAMINADOS FINOS DE METAIS NÃO FERRO-SOS                                     ",9535
+17333,PERFIS ESTRUTURAIS DE METAIS NÃO FERROSOS                                                           ,9540
+17334,"PLACAS, CHAPAS, FITAS E LAMINADOS FINOS DE METAIS PRECIOSOS                                         ",9545
+17335,D-XILULOSE                                                                                          ,6810
+17336,MINERAIS NATURAIS E SINTÉTICOS                                                                      ,9620
+17337,ADITIVOS METÁLICOS E LIGAS BÁSICAS                                                                  ,9630
+17338,PRODUTOS SEMI-ACABADOS E PRODUTOS PRIMÁRIOS DE  FERRO  E  DEAÇO                                     ,9640
+17339,REFINADOS E PRODUTOS SEMI-ACABADOS  DE  METAIS  BÁSICOS  NÃOFERROSOS                                ,9650
+17340,METOMIL                                                                                             ,6840
+17341,SUCATA DE FERRO E DE AÇO                                                                            ,9670
+17342,SUCATA DE METAIS NÃO FERROSOS                                                                       ,9680
+17343,ARTIGO PROMOCIONAL                                                                                  ,9905
+17344,ARTIGOS DE JOALHERIA                                                                                ,9910
+17345,ARTIGOS PARA COLECIONADORES E/OU HISTÓRICOS                                                         ,9915
+17346,ARTIGOS PARA FUMANTES                                                                               ,9920
+17347,EQUIPAMENTOS E ARTIGOS RELIGIOSOS                                                                   ,9925
+17348,EQUIPAMENTOS E ARTIGOS MORTUÁRIOS E DE CEMITÉRIO                                                    ,9930
+17349,SERVICO                                                                                             ,9998
+17350,BRINDE                                                                                              ,9999
+17350,BRINDE                                                                                              ,9999
+17350,BRINDE                                                                                              ,9999
+17350,BRINDE                                                                                              ,9999
+17350,BRINDE                                                                                              ,9999
+17350,BRINDE                                                                                              ,9999
+17350,BRINDE                                                                                              ,9999
+17351,PERFURADOR CIRÚRGICO                                                                                ,6515
+17351,PERFURADOR CIRÚRGICO                                                                                ,6515
+17352,AMOSTRADOR AUTOMÁTICO                                                                               ,6630
+17353,INDOL                                                                                               ,6810
+17354,REFIL FAX                                                                                           ,7510
+17355,DECAHIDRONAFTALENO                                                                                  ,6810
+17356,FAIXA ABDOMINAL PROTEÇÃO RAIOS X                                                                    ,6532
+17357,CLOREXIDINA DIGLUCONATO                                                                             ,6505
+17357,CLOREXIDINA DIGLUCONATO                                                                             ,6505
+17358,ASSENTO VASO SANITÁRIO                                                                              ,4510
+17359,AMENDOIM TORRADO                                                                                    ,8925
+17360,TRILHO ARMÁRIO                                                                                      ,7125
+17360,TRILHO ARMÁRIO                                                                                      ,7125
+17361,PONTEIRA RADIOFREQÜÊNCIA                                                                            ,6515
+17362,TERMONEBULIZADOR                                                                                    ,3740
+17363,PÓ FOLHA DE SENE ( VER EXTRATO DE PLANTAS)                                                          ,6505
+17364,PISTOLA PINTURA                                                                                     ,4920
+17365,BANCO BATERIA                                                                                       ,6110
+17366,RECEPTOR DECODIFICADOR                                                                              ,5820
+17367,REPARO PINÇA FREIO                                                                                  ,2530
+17368,CONJUNTO ESCOLAR                                                                                    ,7110
+17368,CONJUNTO ESCOLAR                                                                                    ,7110
+17368,CONJUNTO ESCOLAR                                                                                    ,7110
+17369,BASE LEITORA CÓDIGO BARRA                                                                           ,7060
+17370,RETENTOR EIXO HÉLICE                                                                                ,2805
+17371,ROTOR BOMBA D'ÁGUA                                                                                  ,2805
+17371,ROTOR BOMBA D'ÁGUA                                                                                  ,2805
+17372,RENOVADOR DE AR                                                                                     ,4460
+17373,MUNIÇÕES DE CONTROLE À DISTÂNCIA                                                                    ,1346
+17374,DISPOSITIVOS INERTES DE MINAS SUBAQUÁTICAS                                                          ,1352
+17375,DISPOSITIVOS EXPLOSIVOS DE MINAS SUBAQUÁTICAS                                                       ,1353
+17376,CONJUNTOS E EQUIPAMENTOS TÁTICOS                                                                    ,1367
+17377,ACESSÓRIOS VEICULARES ESPECÍFICOS PARA SISTEMAS DE ARMAS                                            ,2541
+17378,EQUIPAMENTO ESPECIALIZADO PARA MANUTENÇÃO E REPARO DE ARMAS MÚLTIPLAS GUIADAS                       ,4970
+17379,ANÉIS                                                                                               ,5331
+17380,FERRAGENS DE PEÇA DE SISTEMAS DE ARMAS                                                              ,5342
+17381,TILETAMINA CLORIDRATO                                                                               ,6509
+17382,CORTADOR GRAMA                                                                                      ,3750
+17382,CORTADOR GRAMA                                                                                      ,3750
+17382,CORTADOR GRAMA                                                                                      ,3750
+17383,APARELHO GRAVADOR                                                                                   ,5836
+17384,QUADRO FLIP CHART                                                                                   ,7195
+17385,DITIOTREITOL                                                                                        ,6810
+17386,ETILAMINA                                                                                           ,6810
+17386,ETILAMINA                                                                                           ,6810
+17387,CLORETO DE CÉSIO                                                                                    ,6810
+17388,PATCH INORGÂNICO                                                                                    ,6515
+17389,CABECEIRA CAMA                                                                                      ,7105
+17390,COLUNA ALUMÍNIO                                                                                     ,9540
+17390,COLUNA ALUMÍNIO                                                                                     ,9540
+17391,CODEÍNA                                                                                             ,6505
+17392,SUPORTE PARA COLUNA                                                                                 ,5670
+17393,DIETILESTILBESTROL                                                                                  ,6505
+17394,CIANAMIDA                                                                                           ,6840
+17395,SINALIZADOR TRÂNSITO                                                                                ,6310
+17396,FORMAMIDA                                                                                           ,6810
+17397,TRIETILENOGLICOL                                                                                    ,6810
+17398,FUMARATO DE DIETILA                                                                                 ,6810
+17399,SAPONINA                                                                                            ,6810
+17400,CLORETO DE 4-NITROBENZENOSSULFONILA                                                                 ,6810
+17401,RIBOSE                                                                                              ,6810
+17402,ÁCIDO CINÂMICO                                                                                      ,6810
+17403,ISOPROPIL-BETA-D-TIOGALACTOPIRANOSÍDIO (IPTG)                                                       ,6810
+17404,ADENOSINA                                                                                           ,6810
+17405,"N,N-DIMETILFORMAMIDA (DMF)                                                                          ",6810
+17406,ÁCIDO FUMÁRICO (TRANS-BUTENODIOICO)                                                                 ,6810
+17407,BROMETO DE ISOPROPILA                                                                               ,6810
+17408,TAMPÃO CONEXÃO                                                                                      ,5975
+17408,TAMPÃO CONEXÃO                                                                                      ,5975
+17409,LEVODOPA                                                                                            ,6810
+17410,CENTRÍFUGA BUTIRÔMETRO                                                                              ,6640
+17411,POLIVINIL IRROLIDONA                                                                                ,6505
+17412,MANITOL                                                                                             ,6505
+17413,ÁCIDO URSÓLICO                                                                                      ,6810
+17414,CLORETO DE TRIMESOÍLA                                                                               ,6810
+17414,CLORETO DE TRIMESOÍLA                                                                               ,6810
+17415,HIDROSSULFITO DE SÓDIO (DITIONITO DE SÓDIO)                                                         ,6810
+17416,ENDONUCLEASE                                                                                        ,6550
+17417,DIESTEARATO DE POLIETILENO GLICOL                                                                   ,6810
+17418,REPARO CAIXA ACÚSTICA                                                                               ,5835
+17419,ÁCIDO 5-AMINOLEVULÍNICO                                                                             ,6810
+17420,PIRAZINA                                                                                            ,6810
+17421,"BIS[N,N-BIS(CARBOXIMETIL)AMINOMETIL]FLUORESCEÍNA                                                    ",6810
+17422,"3-CLOROPENTAN-2,4-DIONA                                                                             ",6810
+17423,"(2,2,6,6-TETRAMETILPIPERIDIN-1-IL)OXILA (TEMPO)                                                     ",6810
+17424,SERRA MÁRMORE                                                                                       ,3405
+17424,SERRA MÁRMORE                                                                                       ,3405
+17425,PANTOPRAZOL                                                                                         ,6810
+17426,EXTRATO DE PLACENTA HUMANA                                                                          ,6505
+17427,TOBRAMICINA + DEXAMETAZONA                                                                          ,6505
+17428,SERINGA                                                                                             ,6515
+17428,SERINGA                                                                                             ,6515
+17429,PLACA ENTRONCAMENTO                                                                                 ,5805
+17430,SISTEMA ADESIVO DENTAL                                                                              ,6520
+17431,MOINHO DE BOLAS                                                                                     ,3820
+17431,MOINHO DE BOLAS                                                                                     ,3820
+17431,MOINHO DE BOLAS                                                                                     ,3820
+17431,MOINHO DE BOLAS                                                                                     ,3820
+17432,GERADOR DE TECNÉCIO 99MTC                                                                           ,6810
+17432,GERADOR DE TECNÉCIO 99MTC                                                                           ,6810
+17432,GERADOR DE TECNÉCIO 99MTC                                                                           ,6810
+17433,DARIFENACINA                                                                                        ,6505
+17434,DALTEPARINA                                                                                         ,6505
+17435,SUPORTE PORTA-PAPEL                                                                                 ,4510
+17435,SUPORTE PORTA-PAPEL                                                                                 ,4510
+17436,CAIXA HIDRANTE                                                                                      ,4210
+17437,DESCRISTALIZADOR                                                                                    ,6850
+17438,PAINEL DIGITAL                                                                                      ,4130
+17439,GONADORELINA                                                                                        ,6505
+17440,EMULSÃO EMOLIENTE                                                                                   ,8510
+17441,BOLSA COLETA AMOSTRAGEM                                                                             ,6545
+17442,ROLHA ESPUMA                                                                                        ,6640
+17443,ANTENA REDE VOLEIBOL                                                                                ,7810
+17444,LIRAGLUTIDA                                                                                         ,6505
+17445,MOTO EXAUSTOR                                                                                       ,6640
+17446,PENTE PARA ESCADA ROLANTE                                                                           ,3960
+17447,GRAMPO ORTOPÉDICO IMPLANTÁVEL                                                                       ,6515
+17448,ARMÁRIO MADEIRA                                                                                     ,7125
+17449,IMIDAZOL                                                                                            ,6810
+17450,TRIFLOXISULFUROM                                                                                    ,6840
+17451,ESFERA PADRÃO                                                                                       ,5210
+17452,PARECOXIBE SÓDICO                                                                                   ,6505
+17453,ARMADILHA LUMINOSA                                                                                  ,3740
+17454,ARSENITO DE SÓDIO                                                                                   ,6810
+17455,CABIDE PERSIANA                                                                                     ,7230
+17456,BANDÔ PERSIANA                                                                                      ,7230
+17457,SOLUÇÃO PARA CONSERVAÇÃO CÓRNEA                                                                     ,6505
+17458,CINTA DE TRANSFERÊNCIA                                                                              ,7070
+17459,DISSULFETO DE GLUTATIONA                                                                            ,6810
+17460,CUMATETRALIL                                                                                        ,6840
+17461,"2,2-DIMETOXIPROPANO                                                                                 ",6810
+17462,TALCO - USO FARMACÊUTICO                                                                            ,6810
+17463,IODATO DE SÓDIO                                                                                     ,6810
+17464,ÁCIDO FLUOROBENZÓICO                                                                                ,6810
+17465,BRAÇO CHUVEIRO                                                                                      ,4510
+17466,RELÉ DE PULSO                                                                                       ,5945
+17467,ARMÁRIO VITRINE                                                                                     ,6530
+17468,ESTANTE ANILHAS                                                                                     ,7810
+17469,ESTANTE HALTERES                                                                                    ,7810
+17470,SUPORTE BARRAS                                                                                      ,7810
+17471,SUCCIONADOR                                                                                         ,6640
+17472,TEMPORIZADOR                                                                                        ,6645
+17473,VÁLVULA DOSADORA                                                                                    ,6640
+17474,ORTOSE SUSTENTAÇÃO                                                                                  ,6515
+17475,CAPTOPRIL                                                                                           ,6810
+17476,TAMPA FINAL                                                                                         ,5975
+17477,PONTE CONECTORA                                                                                     ,5935
+17478,SUPORTE MICROFONE                                                                                   ,5965
+17479,GLIBENCLAMIDA                                                                                       ,6810
+17480,DISCO LIGA DE ALUMÍNIO                                                                              ,8145
+17481,PLACA SEPARAÇÃO                                                                                     ,5998
+17482,DECANODIOL                                                                                          ,6810
+17483,DICLOFENACO                                                                                         ,6810
+17484,SULFATO DE CÁDMIO                                                                                   ,6810
+17485,CHAVE CONECTORA/DESCONECTORA                                                                        ,5805
+17486,CONEXÃO MANGUEIRA                                                                                   ,4730
+17487,EIXO TRAVA                                                                                          ,6640
+17488,CONJUNTO AVALIAÇÃO TRANSMISSÃO RÁDIOFREQÜÊNCIA                                                      ,5865
+17489,CUBA LABORATÓRIO                                                                                    ,6640
+17489,CUBA LABORATÓRIO                                                                                    ,6640
+17490,FRASCO DE CHAPMAN                                                                                   ,6640
+17491,RAÇÃO PÓS-LARVA                                                                                     ,8710
+17492,SAPATA FREIO BICICLETA                                                                              ,2530
+17493,EBULIÔMETRO                                                                                         ,6640
+17494,NAFTOL                                                                                              ,6810
+17495,PLACA LABORATORIO                                                                                   ,6640
+17496,LUVA PARA GOLEIRO                                                                                   ,7810
+17497,FRASCO LE CHATELIER                                                                                 ,6640
+17498,PLACA HIDROFIBRA                                                                                    ,6515
+17499,MARTELO - QUEBRA VIDRO                                                                              ,6350
+17500,DULCITOL                                                                                            ,6810
+17501,RESORCINOL                                                                                          ,6810
+17502,CONJUNTO IMPRESSÃO                                                                                  ,7070
+17503,ÓXIDO DE SAMÁRIO                                                                                    ,6810
+17504,BARRA TITÂNIO                                                                                       ,9530
+17505,TRIPÉ LABORATÓRIO                                                                                   ,6640
+17506,SUPORTE BURETA                                                                                      ,6640
+17507,PESO PARA PERSIANA                                                                                  ,7230
+17508,CLORETO DE ALILA                                                                                    ,6810
+17508,CLORETO DE ALILA                                                                                    ,6810
+17509,CLORETO DE BENZOÍLA                                                                                 ,6810
+17510,HEPTANO                                                                                             ,6810
+17511,GARFO DE FREIO                                                                                      ,2530
+17512,PLACA ESTUFA                                                                                        ,6640
+17513,SAPATILHA FEMININA                                                                                  ,8435
+17514,FURANO                                                                                              ,6810
+17515,VORICONAZOL                                                                                         ,6810
+17516,LINHA PEDREIRO                                                                                      ,5210
+17517,FORMIATO DE METILA                                                                                  ,6810
+17518,CARBONATO DE ESTRÔNCIO                                                                              ,6810
+17519,CARBONATO DE MANGANÊS                                                                               ,6810
+17519,CARBONATO DE MANGANÊS                                                                               ,6810
+17520,CINAMALDEÍDO                                                                                        ,6810
+17521,PAPEL INGRES                                                                                        ,9310
+17521,PAPEL INGRES                                                                                        ,9310
+17522,PENTE ELETROFORESE                                                                                  ,6640
+17522,PENTE ELETROFORESE                                                                                  ,6640
+17523,PAPEL EMBORRACHADO                                                                                  ,9310
+17523,PAPEL EMBORRACHADO                                                                                  ,9310
+17524,PROFENOFÓS                                                                                          ,6840
+17525,ESTRICNINA                                                                                          ,6810
+17526,AXETIL-CEFUROXIMA                                                                                   ,6505
+17527,KAPTOR FLEX                                                                                         ,6625
+17528,CICLOHEXANOL                                                                                        ,6810
+17529,HIDRAZINA                                                                                           ,6810
+17530,PITÃO                                                                                               ,5315
+17531,JUNTA DE BOCA VISITA                                                                                ,5330
+17532,NITRATO DE MANGANÊS                                                                                 ,6810
+17533,ÓXIDO DE LANTÂNIO                                                                                   ,6810
+17534,SOLUÇÃO EXAME                                                                                       ,6550
+17535,CERÂMICA ORTOPÉDICA                                                                                 ,6515
+17536,CONJUNTO VÁLVULA INJETORA                                                                           ,6685
+17537,GARRA                                                                                               ,6640
+17538,DIFUSOR GÁS                                                                                         ,3433
+17539,DUTASTERIDA                                                                                         ,6505
+17540,ESTANTE SECAGEM LÂMINAS                                                                             ,6640
+17541,CARTUCHO TONER IMPRESSORA/COPIADORA 3M                                                              ,7090
+17542,"""PAPEL ROLO""                                                                                        ",7510
+17543,FOSFINA (FOSFANO)                                                                                   ,6810
+17544,JUNTA CILINDRO                                                                                      ,3230
+17545,PROTETOR MÃO                                                                                        ,3230
+17546,JUNTA SILENCIADOR                                                                                   ,3230
+17547,MANGUEIRA ASPIRALADA                                                                                ,5975
+17548,IVABRADINA CLORIDRATO                                                                               ,6505
+17549,HIDRÓXIDO DE FERRO III                                                                              ,6505
+17550,COAGULANTE DE TINTA                                                                                 ,8010
+17551,SISTEMA ILUMINAÇÃO - FOTOGRAFIA                                                                     ,6750
+17551,SISTEMA ILUMINAÇÃO - FOTOGRAFIA                                                                     ,6750
+17551,SISTEMA ILUMINAÇÃO - FOTOGRAFIA                                                                     ,6750
+17552,PAINEL COMANDO                                                                                      ,6110
+17552,PAINEL COMANDO                                                                                      ,6110
+17552,PAINEL COMANDO                                                                                      ,6110
+17553,AMIDOGLICOLATO DE SÓDIO                                                                             ,6810
+17554,MEDIDOR UMIDADE                                                                                     ,6685
+17555,PADRÃO REFERÊNCIA 1                                                                                 ,6550
+17555,PADRÃO REFERÊNCIA 1                                                                                 ,6550
+17556,TESTADOR SOLDA                                                                                      ,6685
+17557,PAPEL CHAMBRIL                                                                                      ,9310
+17558,MALETA ARQUIVO                                                                                      ,7510
+17559,PARAFUSO PARA MOTOSERRA                                                                             ,3230
+17560,PEÇA / ACESSÓRIO - MOTOSERRA                                                                        ,3230
+17560,PEÇA / ACESSÓRIO - MOTOSERRA                                                                        ,3230
+17560,PEÇA / ACESSÓRIO - MOTOSERRA                                                                        ,3230
+17561,APARELHO VÍDEOCASSETE E DVD                                                                         ,7730
+17562,SOLUÇÃO LIMPADORA                                                                                   ,7930
+17563,TUNGSTÊNIO                                                                                          ,6810
+17564,ATOMADIZADOR                                                                                        ,4410
+17565,LÍTIO                                                                                               ,6810
+17566,ENTELLAN                                                                                            ,6550
+17567,ÓXIDO DE TELÚRIO                                                                                    ,6810
+17568,SILICATO DE SÓDIO                                                                                   ,6810
+17569,CIANOCOBALAMINA+CLOR.DE PIRIDOXINA+CLORID.TIAMINA                                                   ,6505
+17570,PLACA CONTROLE                                                                                      ,6110
+17571,CONJUNTO DE EIXO                                                                                    ,3540
+17572,EIXO DOBRADOR                                                                                       ,3540
+17573,MOLA MANCAL                                                                                         ,3540
+17574,APARELHO GINÁSTICA                                                                                  ,7830
+17575,CORREIA ALIMENTAÇÃO                                                                                 ,3540
+17576,URETANA                                                                                             ,6810
+17577,DICIANO-NAFTALENO                                                                                   ,6810
+17578,BUTIL-ACETIL-AMINOPROPIONATO DE ETILA                                                               ,6810
+17579,TERT-BUTILDIMETILSILANO                                                                             ,6810
+17580,CICLO-HEXENONA                                                                                      ,6810
+17581,1-AMINOPROPAN-2-OL (AMINOPROPANOL)                                                                  ,6810
+17582,FILTRO SECADOR                                                                                      ,4130
+17582,FILTRO SECADOR                                                                                      ,4130
+17583,CONJUNTO EMBUTIMENTO A FRIO                                                                         ,9515
+17584,CASTELO                                                                                             ,5330
+17585,REPARO CILINDRO FREIO                                                                               ,2530
+17586,ANEL VEDAÇÃO ARMAMENTO                                                                              ,1095
+17586,ANEL VEDAÇÃO ARMAMENTO                                                                              ,1095
+17587,PARAFUSO ARMAMENTO                                                                                  ,1095
+17587,PARAFUSO ARMAMENTO                                                                                  ,1095
+17587,PARAFUSO ARMAMENTO                                                                                  ,1095
+17588,ANILHA                                                                                              ,6640
+17589,RODA FILTRO ÓTICO                                                                                   ,6640
+17590,VAPORIZADOR                                                                                         ,6515
+17591,INTERFACE CELULAR                                                                                   ,5805
+17592,PAINEL DE CONTROLE                                                                                  ,6625
+17592,PAINEL DE CONTROLE                                                                                  ,6625
+17593,ERLENMEYER                                                                                          ,6640
+17594,MULTIVITAMÍNICO                                                                                     ,6505
+17595,PASTA ANTIPEGA                                                                                      ,6850
+17596,DESLORATADINA                                                                                       ,6505
+17596,DESLORATADINA                                                                                       ,6505
+17596,DESLORATADINA                                                                                       ,6505
+17597,BUCHA FEIXE DE MOLA                                                                                 ,2510
+17598,BOMBA EMBREAGEM VEÍCULO AUTOMOTIVO                                                                  ,2520
+17599,GRAMPEADOR CIRÚRGICO LINEAR ENDOSCÓPICO                                                             ,6515
+17600,ATUADOR EMBREAGEM VEÍCULO AUTOMOTIVO                                                                ,2520
+17601,PAPEL CREPEL                                                                                        ,9310
+17602,NEPAFENACO                                                                                          ,6505
+17603,ÁCIDOS GRAXOS POLIINSATURADOS DE ORIGEM VEGETAL                                                     ,6505
+17604,ESCITALOPRAM OXALATO                                                                                ,6505
+17605,COMPONENTE EMBARCAÇÃO                                                                               ,1940
+17605,COMPONENTE EMBARCAÇÃO                                                                               ,1940
+17605,COMPONENTE EMBARCAÇÃO                                                                               ,1940
+17605,COMPONENTE EMBARCAÇÃO                                                                               ,1940
+17605,COMPONENTE EMBARCAÇÃO                                                                               ,1940
+17605,COMPONENTE EMBARCAÇÃO                                                                               ,1940
+17605,COMPONENTE EMBARCAÇÃO                                                                               ,1940
+17605,COMPONENTE EMBARCAÇÃO                                                                               ,1940
+17605,COMPONENTE EMBARCAÇÃO                                                                               ,1940
+17605,COMPONENTE EMBARCAÇÃO                                                                               ,1940
+17606,CICLOPIROX OLAMINA                                                                                  ,6505
+17607,TERCONAZOL                                                                                          ,6505
+17608,ZOLMITRIPTANA                                                                                       ,6505
+17609,PRASEODÍMIO                                                                                         ,6810
+17610,PROTETOR GENITAL                                                                                    ,7810
+17611,DESCASCADOR LARANJA                                                                                 ,7320
+17612,CARBIDOPA                                                                                           ,6810
+17613,CONJUNTO EMBREAGEM PARA IMPRESSORA / COPIADORA                                                      ,7070
+17614,PEDESTAL BANNER                                                                                     ,7290
+17614,PEDESTAL BANNER                                                                                     ,7290
+17615,PROTETOR FONE                                                                                       ,5965
+17616,PORTA-CANETA                                                                                        ,7520
+17616,PORTA-CANETA                                                                                        ,7520
+17617,PORTA-PATÊ                                                                                          ,7310
+17618,SEPARADOR PASTAS                                                                                    ,7510
+17619,ENSACADEIRA                                                                                         ,3605
+17620,CARTUCHO TINTA IMPRESSORA APOLLO                                                                    ,7090
+17621,CORREIA MOTOR                                                                                       ,2990
+17621,CORREIA MOTOR                                                                                       ,2990
+17621,CORREIA MOTOR                                                                                       ,2990
+17621,CORREIA MOTOR                                                                                       ,2990
+17621,CORREIA MOTOR                                                                                       ,2990
+17621,CORREIA MOTOR                                                                                       ,2990
+17622,SUPORTE MICTÓRIO                                                                                    ,4510
+17623,PELE INSTRUMENTO MUSICAL                                                                            ,7720
+17624,CAIXA CLARA                                                                                         ,7720
+17625,TAMPA CEGA                                                                                          ,4730
+17625,TAMPA CEGA                                                                                          ,4730
+17626,GARFO JUNTA UNIVERSAL                                                                               ,2520
+17627,TAMPA CARCAÇA                                                                                       ,2520
+17627,TAMPA CARCAÇA                                                                                       ,2520
+17628,CÂMARA ESCURA                                                                                       ,6640
+17629,ROLO GUIA IMPRESSORA                                                                                ,7070
+17630,MOLA IMPRESSORA                                                                                     ,7070
+17631,TAROL                                                                                               ,7710
+17632,CARTÃO-CONVITE                                                                                      ,7540
+17633,GRADE DE POLARIZAÇÃO                                                                                ,7070
+17634,CILINDRO DE CLONAGEM                                                                                ,6640
+17635,CURSOR PARA ZÍPER                                                                                   ,8315
+17635,CURSOR PARA ZÍPER                                                                                   ,8315
+17635,CURSOR PARA ZÍPER                                                                                   ,8315
+17635,CURSOR PARA ZÍPER                                                                                   ,8315
+17636,FIO                                                                                                 ,8310
+17636,FIO                                                                                                 ,8310
+17636,FIO                                                                                                 ,8310
+17636,FIO                                                                                                 ,8310
+17637,FILTRO ÓLEO LUBRIFICANTE                                                                            ,2940
+17637,FILTRO ÓLEO LUBRIFICANTE                                                                            ,2940
+17637,FILTRO ÓLEO LUBRIFICANTE                                                                            ,2940
+17637,FILTRO ÓLEO LUBRIFICANTE                                                                            ,2940
+17637,FILTRO ÓLEO LUBRIFICANTE                                                                            ,2940
+17637,FILTRO ÓLEO LUBRIFICANTE                                                                            ,2940
+17637,FILTRO ÓLEO LUBRIFICANTE                                                                            ,2940
+17637,FILTRO ÓLEO LUBRIFICANTE                                                                            ,2940
+17637,FILTRO ÓLEO LUBRIFICANTE                                                                            ,2940
+17637,FILTRO ÓLEO LUBRIFICANTE                                                                            ,2940
+17638,FILTRO DE COMBUSTÍVEL                                                                               ,2940
+17639,HIGIENIZADOR                                                                                        ,7290
+17640,MEDIDOR UMIDADE                                                                                     ,6636
+17641,PERCURSOR                                                                                           ,3820
+17642,MESA ENROLADEIRA                                                                                    ,6760
+17643,PISTOLA DE PULVERIZAÇÃO                                                                             ,4940
+17644,CABO BLINDADO                                                                                       ,7090
+17645,MANGUEIRA                                                                                           ,6515
+17645,MANGUEIRA USO MÉDICO                                                                                ,6515
+17646,ESTOJO FOTOGRÁFICO                                                                                  ,6780
+17647,CARCAÇA                                                                                             ,6680
+17648,FOSFATO ZINCO                                                                                       ,6520
+17649,TINTA EMBORRACHAMENTO AUTOMOTIVO                                                                    ,8010
+17649,TINTA EMBORRACHAMENTO AUTOMOTIVO                                                                    ,8010
+17650,CLORFENAMINA MALEATO                                                                                ,6505
+17651,PONTA TRANSPARENTE                                                                                  ,6750
+17652,"""SERVIDOR APLICATIVO""                                                                               ",7010
+17653,DISCO RÍGIDO REMOVÍVEL                                                                              ,7030
+17653,DISCO RÍGIDO REMOVÍVEL                                                                              ,7030
+17653,DISCO RÍGIDO REMOVÍVEL                                                                              ,7030
+17654,DISCO MAGNÉTICO RIGIDO REMOVÍVEL                                                                    ,7025
+17655,REFIL ÍNDICE                                                                                        ,7510
+17656,PEDESTAL                                                                                            ,7195
+17656,PEDESTAL                                                                                            ,7195
+17656,PEDESTAL                                                                                            ,7195
+17657,METANOLATO DE SÓDIO                                                                                 ,6810
+17657,METANOLATO DE SÓDIO                                                                                 ,6810
+17658,PONTE MEDIÇÃO LCR                                                                                   ,6625
+17659,DIVISOR DE FEIXE ÓTICO                                                                              ,6630
+17660,CONJUNTO IDENTIFICAÇÃO POR DNA                                                                      ,6550
+17661,SEPTO                                                                                               ,6640
+17662,PLACA AQUISIÇÃO DE SINAIS                                                                           ,7060
+17663,FUMARATO DE FORMOTEROL + BUDESONIDA                                                                 ,6505
+17664,ACITRETINA                                                                                          ,6505
+17665,GLATIRÂMER                                                                                          ,6505
+17666,LANREOTIDA ACETATO                                                                                  ,6505
+17667,ARTEMÉTER                                                                                           ,6505
+17668,ARTESUNATO DE SÓDIO                                                                                 ,6505
+17669,MEGLUMINA ANTIMONIATO                                                                               ,6505

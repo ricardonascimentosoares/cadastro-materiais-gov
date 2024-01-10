@@ -1,0 +1,501 @@
+codigo,descricao,codigo_classe
+10775,ÁCIDO PIROGÁLICO                                                                                    ,6810
+10776,PIROXICAM                                                                                           ,6505
+10777,PISCA - PISCA DE SINALIZACAO DE TRANSITO                                                            ,6310
+10778,PISCINA                                                                                             ,4510
+10779,PISO SINTÉTICO                                                                                      ,7220
+10780,PISO ANTIDERRAPANTE - LAMINADO                                                                      ,9545
+10781,PISO ELEVADO - PEÇA/COMPONENTE                                                                      ,5530
+10782,PISO EM RESINA                                                                                      ,7220
+10783,PICETA                                                                                              ,6515
+10784,PISSETA - USO MEDICO                                                                                ,6515
+10785,PISTAO / EMBOLO DE MOTOR DE EMBARCACAO                                                              ,2815
+10786,PISTAO DE MAQUINA A VAPOR                                                                           ,2820
+10787,PISTÃO DE MOTOR A DIESEL                                                                            ,2815
+10787,PISTÃO DE MOTOR A DIESEL                                                                            ,2815
+10787,PISTÃO DE MOTOR A DIESEL                                                                            ,2815
+10788,PISTÃO                                                                                              ,2805
+10788,PISTÃO                                                                                              ,2805
+10789,PISTÃO MOTOR                                                                                        ,2990
+10790,PISTAO MOTOR GASOLINA - VEICULO AUTOMOTIVO                                                          ,2590
+10791,PISTOLA APLICACAO MICROPARTICULA SOLIDA                                                             ,6515
+10792,PISTOLA APLICADORA                                                                                  ,8040
+10792,PISTOLA APLICADORA                                                                                  ,8040
+10792,PISTOLA APLICADORA                                                                                  ,8040
+10792,PISTOLA APLICADORA                                                                                  ,8040
+10793,PISTOLA DE PINTURA                                                                                  ,4940
+10794,PISTOLA DE SINALIZACAO                                                                              ,6350
+10795,PISTOLA DE VACINACAO                                                                                ,6515
+10796,PISTOLA GRAXEIRA MANUAL                                                                             ,4930
+10797,PISTOLA PARA PO QUIMICO SECO                                                                        ,4210
+10798,PISTOLA VAPORIZADORA PARA METALIZACAO                                                               ,3426
+10799,PISTOLA                                                                                             ,1005
+10800,PISTOLA                                                                                             ,4940
+10801,PITEIRA                                                                                             ,9920
+10802,PIVALATO DE FLUMETASONA + ACIDO SALICILICO                                                          ,6505
+10803,"PLACA EM ""L""                                                                                        ",6515
+10804,PLACA PARA CULTURA                                                                                  ,6515
+10805,PLACA                                                                                               ,6640
+10806,PLACA VEÍCULO AUTOMOTIVO                                                                            ,2590
+10806,PLACA VEÍCULO AUTOMOTIVO                                                                            ,2590
+10806,PLACA VEÍCULO AUTOMOTIVO                                                                            ,2590
+10807,PLACA                                                                                               ,6130
+10808,PLACA ALFABETICA DE AREA DE ESTOCAGEM                                                               ,9905
+10809,PLACA ALFABETICA PARA UNIDADE DE ESTOCAGEM                                                          ,9905
+10810,PLACA ANGULADA                                                                                      ,6515
+10811,PLACA APOIO FIXACAO LEITO FERROVIA                                                                  ,2250
+10812,PLACA APOIO FIXACAO TRILHO FERROVIA                                                                 ,2250
+10813,PLATAFORMA LABORATÓRIO                                                                              ,6640
+10814,PLACA ORTOPÉDICA P/ MINI E MICRO FRAGMENTOS                                                         ,6515
+10815,PLACA AUTO - COMPRESSAO                                                                             ,6515
+10816,PLACA CERVICAL                                                                                      ,6515
+10817,PLACA COMEMORATIVA                                                                                  ,9905
+10818,CAPTADOR DE VÍDEO E ÁUDIO                                                                           ,7060
+10819,PLACA DE ALERTA DE SEGURANCA                                                                        ,9905
+10820,PLACA DE ANCORAGEM DE POSTE                                                                         ,5680
+10821,PLACA DE BATERIA                                                                                    ,6140
+10822,PLACA CIRCUITO IMPRESSO                                                                             ,5962
+10822,PLACA CIRCUITO IMPRESSO                                                                             ,5962
+10823,PLACA DE CIRCUITO IMPRESSO NAO MONTADA                                                              ,5962
+10824,PLACA DE CIRCUITO LOGICO                                                                            ,7020
+10825,PLACA COMPENSADO                                                                                    ,5530
+10825,PLACA COMPENSADO                                                                                    ,5530
+10826,PLACA DE COMPENSADO DE MADEIRA A PROVA DE AGUA                                                      ,5530
+10827,PLACA DE COMPENSADO DE MADEIRA A PROVA DE FOGO                                                      ,5530
+10828,PLACA DE CONCRETO DE MONTAGEM DE CERCA                                                              ,5660
+10829,PLACA CORTE                                                                                         ,9390
+10829,PLACA CORTE                                                                                         ,9390
+10830,PLACA PCI                                                                                           ,7060
+10831,PLACA DE FOLHEADO                                                                                   ,5530
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10832,PLACA IDENTIFICAÇÃO                                                                                 ,9905
+10833,CARTÃO IDENTIFICAÇÃO                                                                                ,8455
+10833,CARTÃO IDENTIFICAÇÃO                                                                                ,8455
+10834,PLACA ORTOPÉDICA - PEQUENOS E GRANDES FRAGMENTOS                                                    ,6515
+10834,PLACA ORTOPÉDICA - PEQUENOS E GRANDES FRAGMENTOS                                                    ,6515
+10835,PLACA DE MICA DE ISOLAMENTO ELETRICO                                                                ,5970
+10836,PLACA CAIXA EMBUTIR                                                                                 ,5975
+10837,PLACA DE PAREDE PARA TOMADA                                                                         ,5975
+10838,PLACA DE PETRI.                                                                                     ,6640
+10839,PLACA                                                                                               ,9999
+10839,PLACA                                                                                               ,9999
+10839,PLACA                                                                                               ,9999
+10840,PLACA PASTA DOCUMENTO                                                                               ,9330
+10840,PLACA PASTA DOCUMENTO                                                                               ,9330
+10841,PLACA DE SINALIZAÇÃO DE TRÁFEGO - PEDESTRE / CARGA                                                  ,9905
+10842,PLACA DE TERMINAL                                                                                   ,5940
+10843,PLACA DE TREINAMENTO EM CIRCUITO                                                                    ,6940
+10844,PLACA DE TV/RADIO                                                                                   ,5998
+10845,PLACA DE VIDRO                                                                                      ,9340
+10846,PLACA EXPANSORA DE TURBINA A VAPOR                                                                  ,2825
+10847,PLACA FILTRO BIOLOGICO - PISCICULTURA                                                               ,4610
+10848,PLACA LABORATÓRIO                                                                                   ,6640
+10848,PLACA LABORATÓRIO                                                                                   ,6640
+10849,PLACA IDENTIFICACAO - CODIGO BARRA / PATRIMONIO                                                     ,9905
+10850,PLACA IMUNODIFUSAO                                                                                  ,6640
+10851,PLACA INDICADORA PARA ALTA TENSAO                                                                   ,9905
+10852,PLACA ISOLANTE                                                                                      ,5970
+10853,PLACA PERIOSTOMAL                                                                                   ,6515
+10854,PLACA LÁBI0-ATIVA                                                                                   ,6520
+10855,PLACA LOCALIZADORA DE POSTO DE GASOLINA                                                             ,9905
+10856,PLACA LOCALIZADORA DE SAIDA DE EMERGENCIA                                                           ,9905
+10857,PLACA LOMBAR                                                                                        ,6515
+10858,PLACA NUMERICA PARA AREA DE ESTOCAGEM                                                               ,9905
+10859,PLACA NUMERICA PARA UNIDADE DE ESTOCAGEM                                                            ,9905
+10860,PLACA OCCÍPUTO-CERVICAL                                                                             ,6515
+10861,PLACA CONEXÃO FIXADOR EXTERNO                                                                       ,6515
+10862,PLACA PARA CONSTRUCAO                                                                               ,5640
+10863,PLACA PARA MARCACAO DE ANIMAL                                                                       ,3770
+10864,PLACA PARA REDUCAO                                                                                  ,6515
+10865,PLACA PROTETORA - PELE                                                                              ,6515
+10866,PLACA PVC                                                                                           ,5680
+10867,PLACA RETA                                                                                          ,6515
+10868,PLACA ORTOPÉDICA                                                                                    ,6515
+10869,PLACA ESPECIAL                                                                                      ,6515
+10870,PLACA TERMOPLÁSTICA                                                                                 ,6515
+10871,PLACA TUBO                                                                                          ,6515
+10872,PLACA USO ORTOPEDICO - REDUCAO / FIXACAO FRATURA                                                    ,6515
+10873,PLACAR POLIESPORTIVO                                                                                ,9905
+10874,PLACAS DE CIRCUITO ELETRONICO PARA COPIADORA                                                        ,5961
+10875,PLACAS DE CIRCUITO ELETRONICO PARA PROJETOR                                                         ,5961
+10876,PLACAS PARA TESTES                                                                                  ,6550
+10877,PLAFONIER                                                                                           ,6250
+10877,PLAFONIER                                                                                           ,6250
+10877,PLAFONIER                                                                                           ,6250
+10877,PLAFONIER                                                                                           ,6250
+10877,PLAFONIER                                                                                           ,6250
+10878,PLANADORES COMPLETOS                                                                                ,1540
+10879,PEÇA / COMPONENTE RESSONÂNCIA MAGNÉTICA                                                             ,6525
+10880,PLANIMETRO                                                                                          ,6675
+10881,PLANTA DE ENGENHARIA                                                                                ,7650
+10882,PLANTA MEDICINAL (PDM INATIVO P/NÃO USO)                                                            ,6505
+10883,PLANTA PARA TREINAMENTO                                                                             ,6910
+10884,PLANTA ORNAMENTAL                                                                                   ,8730
+10884,PLANTA ORNAMENTAL                                                                                   ,8730
+10884,PLANTA ORNAMENTAL                                                                                   ,8730
+10885,PLAQUETA DE IDENTIFICACAO DE MOTOR                                                                  ,9905
+10886,PLAQUETA DE IDENTIFICACAO PATRIMONIAL                                                               ,9905
+10887,PLAQUETA DE MATERIAL METALICO EM BRANCO PARA GRAVACAO                                               ,9905
+10888,PLAQUETA PARA CARTAO DE IDENTIDADE                                                                  ,9905
+10889,PLASMA                                                                                              ,6505
+10890,PLASMA LIOFILIZADO                                                                                  ,6505
+10891,FILME PLÁSTICO                                                                                      ,9330
+10891,FILME PLÁSTICO                                                                                      ,9330
+10891,FILME PLÁSTICO                                                                                      ,9330
+10892,PLÁSTICO PARA CRACHÁ                                                                                ,9330
+10893,PLÁSTICO                                                                                            ,9450
+10894,PLASTIFICADORA                                                                                      ,3620
+10895,PLASTIFICANTE IMPERMEABILIZANTE PARA CONCRETO                                                       ,6850
+10896,PLASTIFICANTE RETARDADOR PARA CONCRETO                                                              ,6850
+10897,PLATAFORMA PARA GINÁSTICA                                                                           ,7830
+10898,PLATAFORMA - AEREA TRABALHO                                                                         ,3990
+10899,PLATAFORMA - COLHEITA CEREAIS                                                                       ,3720
+10900,PLATAFORMA - COLHEITA DE MILHO                                                                      ,3720
+10901,PLATAFORMA - TRANSPORTE VERTICAL / HORIZONTAL / INCLINADA                                           ,3990
+10902,PLATAFORMA PARA ONIBUS                                                                              ,2320
+10903,PLATAFORMA PARA USO EM REPARO                                                                       ,5440
+10904,PLATAFORMAS DE DISPARO PARA ARMAS DE CALIBRE ACIMA DE 150MM ATE 200MM                               ,1025
+10905,PLATAFORMAS DE MANUTENCAO E ESCADAS DE AERONAVES                                                    ,1730
+10906,PLATINA                                                                                             ,6810
+10907,PLATINADO DISTRIBUIDOR DE ENERGIA ELETRICA - VEICU                                                  ,2920
+10908,PLATO EMBREAGEM - VEICULO AUTOMOTIVO                                                                ,2520
+10909,PLETISMOGRAFO                                                                                       ,6515
+10910,PLICOMETRO - USO MEDICO                                                                             ,6515
+10911,PLUG ADAPTADOR                                                                                      ,6515
+10912,PLUG ÁUDIO                                                                                          ,5935
+10913,PLUG TUBO                                                                                           ,4730
+10914,PLUG UNIVERSAL - AERONAVE                                                                           ,2925
+10915,PLUVIOMETRO                                                                                         ,6660
+10915,PLUVIOMETRO                                                                                         ,6660
+10916,PNEU - AERONAVE                                                                                     ,2620
+10917,PNEU VEÍCULO MILITAR                                                                                ,2610
+10918,PNEU DIAGONAL CONVENCIONAL COM CAMARA - VEICULO   AUTOMOTIVO                                        ,2610
+10919,PNEU DIAGONAL CONVENCIONAL SEM CAMARA - VEICULO   AUTOMOTIVO                                        ,2610
+10920,PNEU MOTOCICLETA / MOTONETA / CICLOMOTOR                                                            ,2610
+10920,PNEU MOTOCICLETA / MOTONETA / CICLOMOTOR                                                            ,2610
+10920,PNEU MOTOCICLETA / MOTONETA / CICLOMOTOR                                                            ,2610
+10921,PNEU ONIBUS / CAMINHAO                                                                              ,2610
+10922,PNEU RECAUCHUTADO                                                                                   ,2610
+10923,PNEU SILICONE                                                                                       ,6540
+10924,PNEU TRATOR RODAS TRACAO                                                                            ,2610
+10925,PO ABRASIVO PARA POLIMENTO DE MATERIAL METALICO                                                     ,5350
+10926,PÓ METÁLICO                                                                                         ,9640
+10927,FISOSTIGMINA                                                                                        ,6810
+10928,PO DESENGORDURADOR                                                                                  ,7930
+10929,ÓSMIO                                                                                               ,6810
+10930,PARTÍCULAS MAGNÉTICAS                                                                               ,6850
+10931,PIRENO                                                                                              ,6810
+10932,PÓ PARA REFRESCO                                                                                    ,8925
+10933,PÓ PARA SORVETE                                                                                     ,8925
+10934,PROPINEBE                                                                                           ,6840
+10935,1-CLORO-3-METIL-2-BUTENO                                                                            ,6810
+10936,FUROSEMIDA                                                                                          ,6810
+10937,PO QUIMICO DE COMBATE A INCENDIO                                                                    ,4210
+10938,PÓ ANTIMACULADOR MATRIZ                                                                             ,6850
+10938,PÓ ANTIMACULADOR MATRIZ                                                                             ,6850
+10939,PO REVELACAO IMPRESSOES PAPILARES                                                                   ,6740
+10940,PODOFILINA                                                                                          ,6810
+10941,POLAINA DE SEGURANÇA EM VAQUETA                                                                     ,4240
+10942,POLARIMETRO                                                                                         ,6650
+10943,POLARÍMETRO                                                                                         ,6630
+10944,PEÇAS E COMPONENTES PIPETADOR                                                                       ,6640
+10945,POLARÓGRAFO / PEÇAS / COMPONENTES                                                                   ,6630
+10946,POLEN                                                                                               ,9410
+10946,POLEN                                                                                               ,9410
+10947,POLIA - USO MEDICO                                                                                  ,6515
+10948,POLIA ACO                                                                                           ,3020
+10949,POLIA ARVORE MANIVELA                                                                               ,2805
+10950,POLIA DE ALUMINIO                                                                                   ,3020
+10951,POLIA DE ARVORE DE MANIVELA DE MOTOR A GASOLINA                                                     ,2805
+10952,POLIA DE BANDEIRA                                                                                   ,8345
+10953,POLIA BORRACHA                                                                                      ,3020
+10954,POLIA                                                                                               ,3020
+10954,POLIA                                                                                               ,3020
+10954,POLIA                                                                                               ,3020
+10954,POLIA                                                                                               ,3020
+10954,POLIA                                                                                               ,3020
+10954,POLIA                                                                                               ,3020
+10954,POLIA                                                                                               ,3020
+10954,POLIA                                                                                               ,3020
+10955,POLIAMIDA                                                                                           ,6810
+10956,POLICARBOFILA CÁLCICA                                                                               ,6505
+10957,POLIDOR DOMESTICO DE LOUCA                                                                          ,7930
+10958,POLIDOR DOMESTICO DE MOVEL                                                                          ,7930
+10959,POLIDOR PARA CALCADO                                                                                ,7930
+10960,POLIDOR PARA PINTURA AUTOMOTIVA                                                                     ,7930
+10961,POLIESTER                                                                                           ,9390
+10962,POLIESTIRENOSSULFONATO                                                                              ,6505
+10963,POLIETILENO - SACO / REVESTIMENTO                                                                   ,8030
+10964,POLIETILENO DE PROTECAO DE GASODUTO                                                                 ,8030
+10965,POLIETILENOGLICOL (MACROGOL)                                                                        ,6810
+10966,POLIETILENO PARA PROTECAO DE OLEODUTO                                                               ,8030
+10967,GELATINA FLUIDA MODIFICADA (SUCCINILGELATINA)                                                       ,6505
+10968,POLÍGRAFO CARDÍACO                                                                                  ,6515
+10969,CONJUNTO DE POLÍMEROS                                                                               ,6850
+10970,"POLIMIXINA ""B"" + CLORIDRATO DE LIDOCAÍNA                                                            ",6505
+10971,POLIMOTRIZ ANGULAR                                                                                  ,3449
+10972,PROPANONITRILA                                                                                      ,6810
+10973,ÂNCORA DE SUTURA ORTOPÉDICA                                                                         ,6515
+10974,BETANECOL                                                                                           ,6810
+10975,CICLOPROPAMINA                                                                                      ,6810
+10976,ABIRATERONA  ACETATO                                                                                ,6505
+10977,POLIHEXANIDA                                                                                        ,6505
+10978,POVIDONA (POLIVINILPIRROLIDONA)                                                                     ,6810
+10979,POLIVITAMÍNICO                                                                                      ,6505
+10980,POLO DE LIGACAO                                                                                     ,5940
+10981,POLTRONA ESCRITÓRIO                                                                                 ,7110
+10982,POLTRONA ESPALDAR MÉDIO COM BRAÇO                                                                   ,7110
+10983,POLTRONA ESPALDAR ALTO SEM BRACO                                                                    ,7110
+10984,POLTRONA                                                                                            ,7110
+10984,POLTRONA                                                                                            ,7110
+10984,POLTRONA                                                                                            ,7110
+10984,POLTRONA                                                                                            ,7110
+10984,POLTRONA                                                                                            ,7110
+10984,POLTRONA                                                                                            ,7110
+10984,POLTRONA                                                                                            ,7110
+10984,POLTRONA                                                                                            ,7110
+10984,POLTRONA                                                                                            ,7110
+10984,POLTRONA                                                                                            ,7110
+10984,POLTRONA                                                                                            ,7110
+10984,POLTRONA                                                                                            ,7110
+10985,POLTRONA FIXA                                                                                       ,7110
+10986,POLTRONA GIRATÓRIA COM BRAÇOS                                                                       ,7110
+10987,POLTRONA GIRATÓRIA SEM BRACO                                                                        ,7110
+10988,"""POLVO PRE - PREPARADO""                                                                             ",8905
+10989,PÓLVORA                                                                                             ,9999
+10990,POLVORA                                                                                             ,1375
+10991,POMBO CORREIO                                                                                       ,8820
+10992,PONTA PROVA OSCILOSCÓPIO                                                                            ,5210
+10992,PONTA PROVA OSCILOSCÓPIO                                                                            ,5210
+10993,FIBRA LABORATÓRIO                                                                                   ,6640
+10994,CONE PAPEL ABSORVENTE  (CONSULTAR INC 08879)                                                        ,6520
+10995,PONTA ACABAMENTO - USO ODONTOLÓGICO                                                                 ,6520
+10996,PONTAL DE MADEIRA                                                                                   ,5510
+10997,PONTALETE DE MADEIRA                                                                                ,5510
+10998,PONTAO DE RAMPA                                                                                     ,1945
+10999,PONTAO ESTAQUEADOR                                                                                  ,1945
+11000,PONTE / PASSARELA - MADEIRA                                                                         ,5420
+11001,PONTE DE DIODO                                                                                      ,5961
+11002,PONTE DE EMBARQUE / DESEMBARQUE PARA AEROPORTO                                                      ,3960
+11003,PONTE DE IMPEDANCIA RLC                                                                             ,6625
+11004,PONTE ROLANTE PEÇAS/ACESSÓRIOS                                                                      ,3950
+11005,PONTE FLUTUANTE                                                                                     ,5420
+11005,PONTE FLUTUANTE                                                                                     ,5420
+11005,PONTE FLUTUANTE                                                                                     ,5420
+11006,PONTE ROLANTE                                                                                       ,3950
+11007,PONTE ROLANTE ACIMA DE 30 T                                                                         ,3950
+11008,PONTE ROLANTE ATE 30 T INCLUSIVE                                                                    ,3950
+11009,PONTE ROLANTE PARA AREA CLASSIFICADA                                                                ,3950
+11010,PONTEIRA LABORATÓRIO                                                                                ,6640
+11011,PONTEIRA MULETA OU BENGALA                                                                          ,6515
+11012,PONTEIRA DE FERRO DE SOLDA                                                                          ,3439
+11013,PONTEIRA DE MASTRO DE BANDEIRA                                                                      ,8345
+11014,PONTEIRA PIPETA                                                                                     ,6640
+11015,PONTEIRA DE POSTE                                                                                   ,5680
+11016,PONTEIRA LABORATÓRIO                                                                                ,6640
+11016,PONTEIRA LABORATÓRIO                                                                                ,6640
+11017,PONTEIRA                                                                                            ,9999
+11017,PONTEIRA                                                                                            ,9999
+11017,PONTEIRA                                                                                            ,9999
+11018,PONTEIRA PARA MOURAO                                                                                ,5680
+11019,PONTEIRA USO OFTALMOLÓGICO                                                                          ,6540
+11020,PONTEIRO ALFABETICO DE GRAVACAO                                                                     ,5110
+11021,PONTEIRO DE FURACAO                                                                                 ,5120
+11022,PONTEIRO DE MOSTRADOR                                                                               ,5355
+11023,PONTEIRO NUMERICO DE GRAVACAO                                                                       ,5110
+11024,PORCA BORBOLETA                                                                                     ,5310
+11025,PORCA CASTELO                                                                                       ,5310
+11026,PORCA                                                                                               ,5310
+11026,PORCA                                                                                               ,5310
+11026,PORCA                                                                                               ,5310
+11026,PORCA                                                                                               ,5310
+11026,PORCA                                                                                               ,5310
+11026,PORCA                                                                                               ,5310
+11026,PORCA                                                                                               ,5310
+11026,PORCA                                                                                               ,5310
+11026,PORCA                                                                                               ,5310
+11027,PORCA DE PRESSAO ( CONTRAPORCA )                                                                    ,5310
+11028,PORCA PARA DORMENTE                                                                                 ,2250
+11029,PORCA PARA ROLAMENTO                                                                                ,3110
+11029,PORCA PARA ROLAMENTO                                                                                ,3110
+11030,PORTAS                                                                                              ,5520
+11031,PORTA-BARBANTE                                                                                      ,8135
+11032,PORTA-CACHIMBO                                                                                      ,9920
+11033,PORTA-CAPUZ COMPARTIMENTO DE MOTOR                                                                  ,2510
+11034,PORTA-CLIPE                                                                                         ,7520
+11035,PORTA-COLETOR                                                                                       ,5136
+11036,PORTA-COPO                                                                                          ,7350
+11036,PORTA-COPO                                                                                          ,7350
+11036,PORTA-COPO                                                                                          ,7350
+11037,PORTA-COSSINETE                                                                                     ,5136
+11038,PORTA-DOCUMENTOS                                                                                    ,8460
+11039,PORTA-ELETRODO                                                                                      ,3439
+11039,PORTA-ELETRODO                                                                                      ,3439
+11040,PORTA-ELETRODO SOLDAGEM ELÉTRICA                                                                    ,3431
+11041,PORTA-FICHÁRIO                                                                                      ,7510
+11042,PORTA-FUSÍVEL                                                                                       ,5920
+11043,PORTA-JÓIAS                                                                                         ,8465
+11044,PORTA-LÂMPADA                                                                                       ,6250
+11045,PORTA-MAPAS DE AERONAVES                                                                            ,1680
+11046,PORTA-NEGATIVO FILME                                                                                ,6760
+11047,PORTA-ORIGINAL DE DOCUMENTO                                                                         ,7520
+11048,PORTA-PAPEL DE EMBRULHO                                                                             ,8135
+11049,PORTA-PAPEL HIGIÊNICO                                                                               ,4510
+11050,PORTA-PAPEL LEMBRETE                                                                                ,7520
+11051,PORTA-PRISMA DE TOPOGRAFIA                                                                          ,6675
+11052,PORTA-RETRATO                                                                                       ,7290
+11053,PORTA-REVISTA                                                                                       ,7210
+11054,PORTA-SAPATO                                                                                        ,7290
+11055,ALÇA                                                                                                ,7290
+11056,PORTA-TOALHA DE TECIDO                                                                              ,4510
+11057,PORTA-TOALHA                                                                                        ,4510
+11058,PORTA-VEÍCULO AUTOMOTIVO                                                                            ,2510
+11059,PORTA-AGULHA                                                                                        ,6515
+11060,ORGANIZADOR CLÍNICO USO ODONTOLÓGICO                                                                ,6520
+11061,PORTA AMÁLGAMA                                                                                      ,6520
+11062,PORTA BALDE - USO MEDICO                                                                            ,6515
+11063,PORTA BROCA                                                                                         ,6520
+11064,PORTA CARGAS                                                                                        ,7125
+11065,PORTA CASSETE - USO LABORATORIO                                                                     ,6640
+11066,PORTA CASSETETES                                                                                    ,8465
+11067,PORTA COADOR CAFE                                                                                   ,7330
+11068,PORTA CORTA-FOGO / DAMPERS / ACESSÓRIOS                                                             ,4210
+11069,PORTA DE AÇO ONDULADO TIPO ENROLÁVEL                                                                ,5670
+11070,PORTA DE LOCOMOTIVA E VAGAO FERROVIARIO                                                             ,2240
+11071,PORTA                                                                                               ,5520
+11071,PORTA                                                                                               ,5520
+11071,PORTA                                                                                               ,5520
+11071,PORTA                                                                                               ,5520
+11071,PORTA                                                                                               ,5520
+11071,PORTA                                                                                               ,5520
+11071,PORTA                                                                                               ,5520
+11071,PORTA                                                                                               ,5520
+11071,PORTA                                                                                               ,5520
+11072,PORTA DETRITO - USO ODONTOLOGICO                                                                    ,6520
+11073,PORTA ESFERA COM OU SEM REBITE PARA ROLAMENTO                                                       ,3110
+11074,PORTA ESFERA DE ACO PRE - REBITADO PARA ROLAMENTO                                                   ,3110
+11075,PORTA ESFERA DE NYLON PARA ROLAMENTO                                                                ,3110
+11076,PORTA ESTANQUE USO NAVAL                                                                            ,2040
+11077,PORTA FUNIL - USO LABORATORIO                                                                       ,6640
+11078,PORTA GIRATORIA DE MADEIRA                                                                          ,5520
+11079,PORTA LACO - USO MEDICO                                                                             ,6515
+11080,PORTA LIGADURA - USO ODONTOLOGICO                                                                   ,6520
+11081,PORTA MATRIZ ODONTOLÓGICO                                                                           ,6520
+11082,PORTA METALICA PRE - FABRICADA                                                                      ,5670
+11083,PORTA PARA REDE - PESCA PROFISSIONAL                                                                ,7810
+11084,PORTA PRONTUÁRIO                                                                                    ,7510
+11085,PORTA ROLO DE ACO PARA ROLAMENTO CONICO                                                             ,3110
+11086,PORTA SAPATO DE PLASTICO                                                                            ,7290
+11087,PORTA SERRA - USO MEDICO                                                                            ,6515
+11088,PORTA TIPO BASCULANTE                                                                               ,5670
+11089,PORTA-BIBLIA                                                                                        ,7105
+11090,PORTA-CADINHO - GEMOLOGIA                                                                           ,6640
+11091,PORTA-CHASSIS - RAIO X                                                                              ,6525
+11092,PORTA LÂMINA                                                                                        ,6640
+11093,PORTA LENTES                                                                                        ,6540
+11094,PORTA-STARTER                                                                                       ,6250
+11095,PORTAO DE MADEIRA                                                                                   ,5660
+11096,PORTÃO                                                                                              ,5660
+11097,PORTAS DE AERONAVES                                                                                 ,1680
+11098,PORTEIRA                                                                                            ,5660
+11099,PORTEIRO ELETRÔNICO                                                                                 ,6350
+11100,PORTICO ACIMA DE 30 T                                                                               ,3950
+11101,PORTICO ATE 30 T INCLUSIVE                                                                          ,3950
+11102,PORTINHOLA ESQUERDA / DIREITA SISTEMA PRE - AQUECIMENTO DE CILINDRO                                 ,2805
+11103,PICADEIRA PARA SOLDA                                                                                ,3436
+11104,POSICIONADOR DE VALVULA                                                                             ,4820
+11105,POSICIONADOR FILME RADIOGRÁFICO                                                                     ,6525
+11106,MATERIAL PARA MANUTENÇÃO BENS IMÓVEIS                                                               ,5680
+11107,POSTE DE MADEIRA                                                                                    ,5510
+11107,POSTE DE MADEIRA                                                                                    ,5510
+11107,POSTE DE MADEIRA                                                                                    ,5510
+11108,POSTE DE MADEIRA DE LINHA DE COMUNICACAO                                                            ,6150
+11109,"POSTE DE MADEIRA DE LINHA DE COMUNICACAO, ILUMINACAO E DISTRIBUICAO                                 ",6150
+11110,POSTE DE MADEIRA PARA LINHA DE DISTRIBUICAO                                                         ,5510
+11111,POSTE DE MADEIRA PARA LINHA DE FORCA                                                                ,5510
+11112,POSTE POLIPROPILENO                                                                                 ,9330
+11113,VANILINA                                                                                            ,6810
+11114,CITRATO DE ITRIO                                                                                    ,6505
+11115,POTE DE CONDIMENTO                                                                                  ,7330
+11116,POTE DE PUPINIZACAO - CHOQUE                                                                        ,5950
+11117,POTE                                                                                                ,6640
+11118,POTENCIÔMETRO                                                                                       ,5905
+11119,POTENCIOMETRO DE CARBONO MULTIVOLTA                                                                 ,5905
+11120,POTENCIOMETRO DE CARBONO SIMPLES                                                                    ,5905
+11121,POTENCIOMETRO DE CERAMICA                                                                           ,5905
+11122,POTENCIOMETRO DE FILME METALICO                                                                     ,5905
+11123,POTENCIOMETRO DE FIO DUPLO COM CHAVE                                                                ,5905
+11124,POTENCIOMETRO DE FIO DUPLO SEM CHAVE                                                                ,5905
+11125,POTENCIÔMETRO MULTIVOLTAS                                                                           ,5905
+11125,POTENCIÔMETRO MULTIVOLTAS                                                                           ,5905
+11126,POTENCIOMETRO DE FIO RETILINEO                                                                      ,5905
+11127,POTENCIOMETRO DE FIO SIMPLES COM CHAVE                                                              ,5905
+11128,POTENCIOMETRO DE FIO SIMPLES SEM CHAVE                                                              ,5905
+11129,PRANCHA METAL FERROSO                                                                               ,9520
+11130,PRANCHA DE CURVA                                                                                    ,3441
+11131,PRANCHA PARA ABDOMINAL                                                                              ,7830
+11132,PRANCHA NATAÇÃO                                                                                     ,7830
+11133,PRANCHA VOCALIZADORA (VOXTABLE)                                                                     ,5895
+11134,PRANCHAO BITOLADO                                                                                   ,5510
+11135,PRANCHETA PARA DESENHO                                                                              ,7110
+11136,PRANCHETA PARA PAPEL DE ANOTACAO                                                                    ,7520
+11137,PRATA                                                                                               ,6810
+11138,PRATELEIRA DE CABO ELETRICO                                                                         ,5975
+11139,PRATELEIRA ESPECIAL PARA BATERIA                                                                    ,6160
+11140,MÓDULO PRATELEIRA                                                                                   ,7125
+11141,PRATICA EM CODIGO TELEGRAFICO                                                                       ,6940
+11142,PRATO DE BALANCA                                                                                    ,6670
+11143,PRATO ASSENTO VALVULA                                                                               ,2990
+11144,PRAVASTATINA                                                                                        ,6505
+11145,PRAVASTATINA                                                                                        ,6810
+11146,PRAZIQUANTEL                                                                                        ,6505
+11147,PRAZIQUANTEL                                                                                        ,6810
+11148,PRE - AQUECEDOR DE AGUA INDUSTRIAL                                                                  ,4410
+11149,PRÉ AMPLIFICADOR                                                                                    ,5835
+11149,PRÉ AMPLIFICADOR                                                                                    ,5835
+11150,PRE-AQUECEDORES DE MOTOR DE AERONAVES                                                               ,1730
+11151,PRECIPITADOR ELETRONICO                                                                             ,4460
+11152,PRECIPITADOR ELETROSTATICO                                                                          ,4460
+11153,PREDNISOLONA                                                                                        ,6505
+11154,PREDNISONA                                                                                          ,6505
+11155,PREGADOR DE ROUPA                                                                                   ,7290
+11155,PREGADOR DE ROUPA                                                                                   ,7290
+11156,PREGABALINA                                                                                         ,6505
+11156,PREGABALINA                                                                                         ,6505
+11157,PREGO ARDOX COM CABECA                                                                              ,5315
+11158,PREGO ARDOX SEM CABECA                                                                              ,5315
+11159,PREGO COM CABECA                                                                                    ,5315
+11160,PREGO COM CABECA DUPLA                                                                              ,5315
+11161,PREGO PARA CALCADO                                                                                  ,5315
+11162,PREGO SEM CABECA                                                                                    ,5315
+11163,PRELO DE IMPRESSAO MANUAL                                                                           ,3610
+11164,PRENDEDOR DE CHAPA DE RAIO - X                                                                      ,6525
+11165,PRENDEDOR DE CHAPA FOTOGRAFICA                                                                      ,6740
+11166,PRENDEDOR DE CRACHA                                                                                 ,9905
+11167,PRENDEDOR DE CRACHÁ                                                                                 ,8455
+11167,PRENDEDOR DE CRACHÁ                                                                                 ,8455
+11168,PRENDEDOR DE GRAVATA                                                                                ,8440
+11168,PRENDEDOR DE GRAVATA                                                                                ,8440
+11169,PRENDEDOR PARA CORRENTE                                                                             ,4010
+11170,PRENDEDOR PORTA                                                                                     ,5340
+11171,PRENDEDOR UMBILICAL - USO MÉDICO                                                                    ,6515
+11172,EUCALIPTOL                                                                                          ,6810
