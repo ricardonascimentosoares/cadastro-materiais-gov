@@ -15,4 +15,4 @@ def transform_pdms():
             )
 
 
-print(transform_pdms().count())
+print(transform_pdms().show())

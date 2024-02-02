@@ -3,49 +3,28 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\classes.csv">
+        <entry key="/landing/classes/classes_offset_0.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\grupos.csv">
+        <entry key="/landing/grupos/grupos.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\materiais_grupo_10.csv">
+        <entry key="/landing/materiais_v2/materiais_grupo_10_offset_0.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\materiais_grupo_11.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\materiais_grupo_13.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\materiais_grupo_15.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\pdms.csv">
+        <entry key="/landing/materiais_v2/materiais_grupo_11_offset_0.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
