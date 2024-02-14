@@ -132,16 +132,6 @@ def material_bronze_to_silver():
             .save(f"gs://{gcs_bucket}/silver/material")
             )
 
-    return (spark
-            .read
-            .format("delta")
-            .load(f"gs://{gcs_bucket}/bronze/material")
-            .write
-            .format("delta")
-            .mode("overwrite")
-            .save(f"gs://{gcs_bucket}/bronze/material")
-            )
-
 
 # classes_landing_to_bronze()
 # grupos_landing_to_bronze()

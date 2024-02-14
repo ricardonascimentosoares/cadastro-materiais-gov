@@ -5,7 +5,7 @@ charset-normalizer==3.3.2
 comm==0.2.1
 debugpy==1.8.0
 decorator==5.1.1
-delta-spark==3.1.0
+delta-spark==2.2.0
 exceptiongroup==1.2.0
 executing==2.0.1
 google-api-core==2.15.0
@@ -35,11 +35,11 @@ protobuf==4.25.2
 psutil==5.9.8
 ptyprocess==0.7.0
 pure-eval==0.2.2
-py4j==0.10.9.7
+py4j==0.10.9.5
 pyasn1==0.5.1
 pyasn1-modules==0.3.0
 Pygments==2.17.2
-pyspark==3.5.0
+pyspark==3.3.4
 python-dateutil==2.8.2
 pytz==2023.3.post1
 pyzmq==25.1.2
