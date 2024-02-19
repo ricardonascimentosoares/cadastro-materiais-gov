@@ -1,6 +1,6 @@
 import socket
 
-from pyspark.sql import SparkSession
+from global_variables import classes_endpoint, pdms_endpoint, grupos_endpoint, material_endpoint, material_landing_path
 
 socket.setdefaulttimeout(300)
 import pandas as pd
@@ -8,8 +8,7 @@ from urllib.error import HTTPError
 import requests
 import pyspark.sql.functions as F
 
-from gcp_functions import upload_to_gcp_bucket, check_if_file_exists, get_file
-
+from gcp_functions import upload_to_gcp_bucket
 
 
 
@@ -19,7 +18,6 @@ def get_classes_from_api():
     The offset parameter is incremented by 500, until all the rows get fetched
     :return:
     """
-    classes_endpoint = "https://compras.dados.gov.br/materiais/v1/classes.csv"
     offset = 0
     while True:
         file_path = f'landing/classes/classes_offset_{offset}.csv'
@@ -52,7 +50,6 @@ def get_grupos_from_api():
         :return:
         """
     file_path = 'landing/grupos/grupos.csv'
-    grupos_endpoint = 'https://compras.dados.gov.br/materiais/v1/grupos.csv'
     print(f'Running: {grupos_endpoint}')
     df = pd.read_csv(grupos_endpoint, header=0, encoding='ISO-8859-1')
 
@@ -86,7 +83,7 @@ def get_grupos_from_api():
 def get_material_from_api(pdm):
 
     # Fetch JSON data from the website
-    response = requests.get(f"https://cnbs.estaleiro.serpro.gov.br/cnbs-api/material/v1/materialCaracteristcaValorporPDM?codigo_pdm={pdm}")
+    response = requests.get(f"{material_endpoint}/materialCaracteristcaValorporPDM?codigo_pdm={pdm}")
     json_data_str = response.text
 
     filepath = f"landing/material/material_pdm_{pdm}"
@@ -96,7 +93,6 @@ def get_material_from_api(pdm):
     print(f'File {filepath} saved in the bucket.')
 
 def get_pdms_from_api():
-    pdms_endpoint = "https://compras.dados.gov.br/materiais/v1/pdms.csv"
     offset = 500
     while True:
         file_path = f'landing/pdm/pdms_offset_{offset}.csv'
@@ -123,23 +119,17 @@ def get_pdms_from_api():
             print("Request timed out. Retrying soon.")
 
 
-def get_all_materials_from_api():
+def get_all_materials_from_api(spark):
     """
         Retrieve all materials using the pdms code previously loaded
     """    
-    spark = (SparkSession
-             .builder
-             .appName("app")
-             .config("spark.jars", "https://storage.googleapis.com/hadoop-lib/gcs/gcs-connector-hadoop3-latest.jar") 
-             .config("spark.sql.repl.eagerEval.enabled", True)
-             .getOrCreate())
 
     df_pdms = (spark
                .read
                .format("csv")
                .option("header", True)
                .option("inferSchema", False)
-               .load(f"gs://compras-bucket/landing/pdm")
+               .load(material_landing_path)
                .drop_duplicates())
 
     pdms = list(df_pdms.select('codigo').toPandas()['codigo'])

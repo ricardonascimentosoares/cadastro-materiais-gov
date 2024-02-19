@@ -1,42 +1,27 @@
-from pyspark.sql import SparkSession
 import pyspark.sql.functions as F
 from delta import *
 import os
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'gcp_key_compras_bucket.json'
-
-gcs_bucket = "compras-bucket"
-
-# Create a Spark session with Delta Lake and GCS configurations
-spark = (SparkSession.builder 
-            .appName("DeltaLakeGCSExample") 
-            .config("spark.jars", "https://storage.googleapis.com/hadoop-lib/gcs/gcs-connector-hadoop3-latest.jar") 
-            .config("spark.sql.repl.eagerEval.enabled", True)
-            .config("spark.jars.packages", "io.delta:delta-core_2.12:2.2.0") 
-            .config("spark.delta.logStore.gs.impl", "io.delta.storage.GCSLogStore")   # Specify GCS log store implementation
-            .config("spark.sql.extensions", "io.delta.sql.DeltaSparkSessionExtension")
-            .config("spark.sql.catalog.spark_catalog", "org.apache.spark.sql.delta.catalog.DeltaCatalog")
-            .config("spark.hadoop.fs.gs.impl", "com.google.cloud.hadoop.fs.gcs.GoogleHadoopFileSystem")   # Specify GCS file system implementation
-            .config("spark.hadoop.fs.AbstractFileSystem.gs.impl", "com.google.cloud.hadoop.fs.gcs.GoogleHadoopFS")   # Specify GCS abstract file system implementation
-            .getOrCreate())
+from global_variables import *
 
 
-def pdm_landing_to_bronze():
+def pdm_landing_to_bronze(spark):
     return (spark
             .read
             .format("csv")
             .option("header", True)
-            .load(f"gs://{gcs_bucket}/landing/pdm")
+            .load(pdm_landing_path)
             .write
             .format("delta")
             .mode("overwrite")
-            .save(f"gs://{gcs_bucket}/bronze/pdm"))
+            .save(pdm_bronze_path)
+    )
 
 
-def pdm_bronze_to_silver():
+def pdm_bronze_to_silver(spark):
     return (spark
             .read
             .format("delta")
-            .load(f"gs://{gcs_bucket}/bronze/pdm")
+            .load(pdm_bronze_path)
             .drop_duplicates(["Código"])
             .withColumn("codigoClasse", F.split('Classe', ':').getItem(0))
             .withColumn("descricaoClasse", F.split('Classe', ':').getItem(1))
@@ -45,28 +30,31 @@ def pdm_bronze_to_silver():
             .withColumnRenamed("Código", "codigoPdm")
             .withColumnRenamed("Descrição", "descricaoPdm")
             .withColumn("descricaoPdm", F.trim('descricaoPdm'))
-            .withColumn("descricaoClasse", F.trim('descricaoClasse'))            .write
+            .withColumn("descricaoClasse", F.trim('descricaoClasse'))            
+            .write
             .format("delta")
             .mode("overwrite")
-            .save(f"gs://{gcs_bucket}/silver/pdm"))
+            .save(pdm_silver_path)
+        )
 
 
-def classes_landing_to_bronze():
+def classes_landing_to_bronze(spark):
     return (spark
             .read
             .format("csv")
             .option("header", True)
-            .load(f"gs://{gcs_bucket}/landing/classes")
+            .load(classes_landing_path)
             .write
             .format("delta")
             .mode("overwrite")
-            .save(f"gs://{gcs_bucket}/bronze/classes"))
+            .save(classes_bronze_path)
+    )
 
-def classes_bronze_to_silver():
+def classes_bronze_to_silver(spark):
     return (spark
             .read
             .format("delta")
-            .load(f"gs://{gcs_bucket}/bronze/classes")
+            .load(classes_bronze_path)
             .withColumnRenamed("Código", "codigoClasse")
             .withColumnRenamed("Descricao", "descricaoClasse")
             .withColumn("codigoGrupo", F.split('Grupo', ':').getItem(0))
@@ -77,41 +65,41 @@ def classes_bronze_to_silver():
             .write
             .format("delta")
             .mode("overwrite")
-            .save(f"gs://{gcs_bucket}/silver/classes"))
+            .save(classes_silver_path))
 
 
-def grupos_landing_to_bronze():
+def grupos_landing_to_bronze(spark):
     return (spark
             .read
             .format("csv")
             .option("header", True)
-            .load(f"gs://{gcs_bucket}/landing/grupos")
+            .load(grupos_landing_path)
             .write
             .format("delta")
             .mode("overwrite")
-            .save(f"gs://{gcs_bucket}/bronze/grupos"))
+            .save(grupos_bronze_path))
 
 
-def material_landing_to_bronze():
+def material_landing_to_bronze(spark):
     return (spark
             .read
             .format("json")
-            .load(f"gs://{gcs_bucket}/landing/material")
+            .load(material_landing_path)
             .write
             .format("delta")
             .mode("overwrite")
-            .save(f"gs://{gcs_bucket}/bronze/material")
+            .save(material_bronze_path)
             )
 
-def material_bronze_to_silver():
+def material_bronze_to_silver(spark):
     df_material = (spark
                    .read
                    .format("delta")
-                   .load(f"gs://{gcs_bucket}/bronze/material"))
+                   .load(material_bronze_path))
     df_classes = (spark
                   .read
                   .format('delta')
-                  .load(f"gs://{gcs_bucket}/silver/classes")
+                  .load(classes_silver_path)
                   )
     return (df_material
             .join(F.broadcast(df_classes), ['codigoClasse'], "inner")
@@ -129,7 +117,7 @@ def material_bronze_to_silver():
             .write
             .format("delta")
             .mode("overwrite")
-            .save(f"gs://{gcs_bucket}/silver/material")
+            .save(material_silver_path)
             )
 
 
