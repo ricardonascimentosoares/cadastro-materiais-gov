@@ -1,6 +1,5 @@
 import pyspark.sql.functions as F
 from delta import *
-import os
 from global_variables import *
 
 
@@ -30,7 +29,9 @@ def pdm_bronze_to_silver(spark):
             .withColumnRenamed("Código", "codigoPdm")
             .withColumnRenamed("Descrição", "descricaoPdm")
             .withColumn("descricaoPdm", F.trim('descricaoPdm'))
-            .withColumn("descricaoClasse", F.trim('descricaoClasse'))            
+            .withColumn("descricaoClasse", F.trim('descricaoClasse'))     
+            .withColumn("descricaoPdm", F.initcap("descricaoPdm"))   
+            .withColumn("descricaoClasse", F.initcap("descricaoClasse"))       
             .write
             .format("delta")
             .mode("overwrite")
@@ -61,6 +62,8 @@ def classes_bronze_to_silver(spark):
             .withColumn("descricaoGrupo", F.split('Grupo', ':').getItem(1))
             .withColumn("descricaoGrupo", F.trim('descricaoGrupo'))
             .withColumn("descricaoClasse", F.trim('descricaoClasse'))
+            .withColumn("descricaoGrupo", F.initcap("descricaoGrupo"))   
+            .withColumn("descricaoClasse", F.initcap("descricaoClasse"))     
             .drop("Grupo")
             .write
             .format("delta")
@@ -120,9 +123,36 @@ def material_bronze_to_silver(spark):
             .save(material_silver_path)
             )
 
+def material_pdm_silver_to_gold(spark):
+    
+    df = spark.read.format("delta").load(material_silver_path)
+    df.createOrReplaceTempView("material_silver")
+
+    (spark.sql("""
+              select codigoPdm, 
+              nomePdm, 
+              codigoClasse, 
+              descricaoClasse, 
+              codigoGrupo, 
+              descricaoGrupo, 
+              sum(case when itemSuspenso = true then 1 else 0 end) qtd_item_suspenso,
+              sum(case when itemSustentavel = true then 1 else 0 end) qtd_item_sustentavel,
+              sum(case when statusItem = true then 1 else 0 end) qtd_item_ativo,
+              sum(case when statusItem = false then 1 else 0 end) qtd_item_inativo,
+              count(*) qtd_total
+              
+              from material_silver
+              
+              group by codigoPdm, nomePdm, codigoClasse, descricaoClasse, codigoGrupo, descricaoGrupo
+              
+              """).write
+            .format("delta")
+            .mode("overwrite")
+            .save(material_pdm_gold_path)
+    )
+    
+    
 
 # classes_landing_to_bronze()
 # grupos_landing_to_bronze()
 # material_landing_to_bronze()
-
-material_bronze_to_silver()

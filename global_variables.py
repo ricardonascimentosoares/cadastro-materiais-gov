@@ -21,6 +21,8 @@ grupos_bronze_path = f"gs://{gcs_bucket}/bronze/grupos"
 material_landing_path = f"gs://{gcs_bucket}/landing/material"
 material_bronze_path = f"gs://{gcs_bucket}/bronze/material"
 material_silver_path = f"gs://{gcs_bucket}/silver/material"
+material_pdm_gold_path = f"gs://{gcs_bucket}/gold/material_pdm_agg"
+
 
 def init_spark_session() -> SparkSession:
     """ Creates a Spark session with Delta Lake and GCS configurations
