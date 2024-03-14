@@ -34,3 +34,12 @@ This GitHub repository hosts a PySpark application designed for capturing and pr
     ```bash
     docker build -t cadastro-materiais-gov .
     docker run -it cadastro-materiais-gov
+
+## Data Output
+
+This project generates 3 files in the output folder, extracted from the Gold Layer. They are available to download:
+
+1. [material_agg.xlsx](https://storage.googleapis.com/compras-bucket/output/material_agg.xlsx):  Quantities of materials items grouped by PDM and Classe.
+
+2. [material_char_detail.xlsx](https://storage.googleapis.com/compras-bucket/output/material_char_detail.xlsx): Data at grain of Characteristics from material items.
+3. [material_list.xlsx](https://storage.googleapis.com/compras-bucket/output/material_list.xlsx): Analytical data showing the info of materials items
