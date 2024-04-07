@@ -1,14 +1,10 @@
 import socket
 
-from utils.config import (
-    classes_endpoint,
-    pdms_endpoint,
-    grupos_endpoint,
-    material_endpoint,
-    material_landing_path,
-)
-
 socket.setdefaulttimeout(300)
+
+
+from utils.config import pdms_endpoint, pdm_landing_path
+
 import pandas as pd
 from urllib.error import HTTPError
 
@@ -16,18 +12,16 @@ from utils.gcp_functions import upload_to_gcp_bucket
 
 
 def get_pdms_from_api():
-    offset = 500
+    offset = 0
     while True:
-        file_path = f"landing/pdm/pdms_offset_{offset}.csv"
+        file_path = f"{pdm_landing_path}/pdms_offset_{offset}.csv"
 
         try:
             url = f"{pdms_endpoint}?offset={offset}"
             print(f"Running: {url}")
 
             df = pd.read_csv(url, header=0, encoding="ISO-8859-1")
-            data = bytes(df.to_csv(index=False), encoding="ISO-8859-1")
-
-            upload_to_gcp_bucket(data, file_path, "text/csv")
+            df.to_csv(file_path, index=False, encoding="ISO-8859-1")
             print(f"Offset loaded {offset}")
 
             count = len(df)
@@ -40,3 +34,7 @@ def get_pdms_from_api():
             print(f"Error at offset {offset}. Status Code {err.code}. Retrying soon.")
         except TimeoutError as err:
             print("Request timed out. Retrying soon.")
+
+
+# if __name__ == '__main__':
+#     get_pdms_from_api()

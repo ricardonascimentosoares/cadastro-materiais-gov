@@ -1,15 +1,11 @@
 import socket
-import asyncio
-
-from utils.gcp_functions import check_if_file_exists, upload_to_gcp_bucket
 
 socket.setdefaulttimeout(300)
 
 
+from utils.gcp_functions import check_if_file_exists, upload_to_gcp_bucket
 from utils.config import *
-
 import pandas as pd
-import requests
 import pyspark.sql.functions as F
 from pyspark.sql.functions import udf
 from pyspark.sql.types import BooleanType

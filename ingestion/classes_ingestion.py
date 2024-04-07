@@ -3,12 +3,9 @@ import socket
 socket.setdefaulttimeout(300)
 
 
-from utils.config import classes_endpoint
+from utils.config import classes_endpoint, classes_landing_path
 import pandas as pd
 from urllib.error import HTTPError
-import pyspark.sql.functions as F
-
-from utils.gcp_functions import upload_to_gcp_bucket
 
 
 def get_classes_from_api():
@@ -19,16 +16,15 @@ def get_classes_from_api():
     """
     offset = 0
     while True:
-        file_path = f"landing/classes/classes_offset_{offset}.csv"
+        file_path = f"{classes_landing_path}/classes_offset_{offset}.csv"
 
         try:
             url = f"{classes_endpoint}?offset={offset}"
             print(f"Running: {url}")
 
             df = pd.read_csv(url, header=0, encoding="ISO-8859-1")
-            data = bytes(df.to_csv(index=False), encoding="ISO-8859-1")
+            df.to_csv(file_path, index=False, encoding="ISO-8859-1")
 
-            upload_to_gcp_bucket(data, file_path, "text/csv")
             print(f"Offset loaded {offset}")
 
             count = len(df)
