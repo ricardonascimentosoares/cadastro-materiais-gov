@@ -15,7 +15,7 @@ def landing_to_bronze(spark):
 
 
 def bronze_to_silver(spark):
-    (
+    df_pdms = (
         spark.read.format("delta")
         .load(pdm_bronze_path)
         .drop_duplicates(["Código"])
@@ -27,9 +27,28 @@ def bronze_to_silver(spark):
         .withColumnRenamed("Descrição", "descricaoPdm")
         .withColumn("descricaoPdm", F.trim("descricaoPdm"))
         .withColumn("descricaoClasse", F.trim("descricaoClasse"))
+        .withColumn("descricaoPdm", F.regexp_replace("descricaoPdm", '"', ""))
         .withColumn("descricaoPdm", F.initcap("descricaoPdm"))
         .withColumn("descricaoClasse", F.initcap("descricaoClasse"))
+    )
+
+    df_classes = (
+        spark.read.format("delta")
+        .load(classes_silver_path)
+        .select("codigoClasse", "codigoGrupo", "descricaoGrupo")
+    )
+    (
+        df_pdms.join(df_classes, ["codigoClasse"], "left")
         .write.format("delta")
         .mode("overwrite")
+        .option("overwriteSchema", "true")
         .save(pdm_silver_path)
+    )
+
+
+def export_data_to_excel(spark):
+    print("Exporting data...")
+
+    (spark.read.format("delta").load(pdm_silver_path)).toPandas().to_excel(
+        output_path + "/pdm_list.xlsx"
     )
