@@ -1,5 +1,5 @@
 # Use an official Apache Spark runtime as the base image
-FROM python:3-slim
+FROM python:3.10.15-slim
 
 USER root
 
